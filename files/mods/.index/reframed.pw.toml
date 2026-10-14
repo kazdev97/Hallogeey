@@ -1,0 +1,26 @@
+filename = 'ReFramed-1.6.6.jar'
+name = 'ReFramed'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.6-1.21.1'
+
+[download]
+hash = '75bb92e5343d88cfd29d6bd6f88beb2ff9845f03d3fda79890dd35a914a64af5f5901801d9e7ba7b358ddfb0a9d6673d82b20d8c98bcadbbca7b118e7de6f918'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jCpoCBpn/versions/ry2FgK0f/ReFramed-1.6.6.jar'
+
+[update.modrinth]
+mod-id = 'jCpoCBpn'
+version = 'ry2FgK0f'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1IjD5062'
+type = 'OPTIONAL'
+version = 'kSPJ4hQv'

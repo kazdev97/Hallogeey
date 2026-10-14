@@ -1,0 +1,14 @@
+﻿[{
+    "id":  "hallogeey",
+    "name":  "HalloGeey",
+    "description":  "Modpack oficial de Ataplay (Fabric 1.21.1)",
+    "game_version":  "1.21.1",
+    "loader":  "fabric",
+    "loader_version":  "0.19.5",
+    "manifest_url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/manifest.json",
+    "revision":  "202610131791936665",
+    "installed":  false,
+    "github_repo":  "",
+    "github_path":  "",
+    "github_branch":  ""
+}]

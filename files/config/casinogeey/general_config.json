@@ -1,0 +1,50 @@
+{
+  "economy_type": "items",
+  "currency_item": "minecraft:diamond",
+  "currency_denominations": [
+    {
+      "item": "casinogeey:charged_diamond",
+      "worth": 4
+    },
+    {
+      "item": "minecraft:diamond_block",
+      "worth": 9
+    },
+    {
+      "item": "casinogeey:hypercharged_diamond",
+      "worth": 16
+    },
+    {
+      "item": "casinogeey:condensed_diamond_block",
+      "worth": 81
+    }
+  ],
+  "chip_prices_in_money": {
+    "basic_chip": 10,
+    "red_chip": 50,
+    "blue_chip": 100,
+    "purple_chip": 500,
+    "copper_chip": 1000,
+    "iron_chip": 10000,
+    "emerald_chip": 100000,
+    "gold_chip": 1000000,
+    "diamond_chip": 10000000,
+    "netherite_chip": 50000000
+  },
+  "chip_prices_in_items": {
+    "basic_chip": 1,
+    "red_chip": 4,
+    "blue_chip": 8,
+    "purple_chip": 16,
+    "copper_chip": 32,
+    "iron_chip": 64,
+    "emerald_chip": 128,
+    "gold_chip": 256,
+    "diamond_chip": 512,
+    "netherite_chip": 1024
+  },
+  "enableMachinesCrafting": false,
+  "makeMachinesUnbreakable": true,
+  "enableDirectBets": true,
+  "enableDirectPayout": true
+}

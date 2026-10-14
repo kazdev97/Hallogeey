@@ -1,0 +1,22 @@
+{
+  "explosiveChickens": false,
+  "phantomInventoryShuffle": false,
+  "flashbangCreeper": false,
+  "trollCreeper": true,
+  "freezingCreepers": false,
+  "magneticCreeper": false,
+  "speedyCreeper": false,
+  "fieryCreeper": false,
+  "zombiePoison": false,
+  "spiderCobwebs": false,
+  "waterEffect": false,
+  "batBlindness": false,
+  "hostileDolphins": false,
+  "overworldWitherSkeletons": false,
+  "hostileEndermen": true,
+  "jumpscareEnabled": false,
+  "randomTeleportMob": false,
+  "ravagerBuff": false,
+  "totemFailure": false,
+  "totemFailureChance": 40
+}

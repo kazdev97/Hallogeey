@@ -1,0 +1,12 @@
+{
+  "maxTeams": 50,
+  "maxMembersPerTeam": 3,
+  "allowTeamCreation": true,
+  "allowTeamChat": true,
+  "maxNameLength": 16,
+  "maxPrefixLength": 12,
+  "notificationDurationMs": 4000,
+  "chatNotifications": true,
+  "openTeamKey": "key.keyboard.k",
+  "chatHistorySize": 100
+}

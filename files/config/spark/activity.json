@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Soy_Kaz",
+      "uniqueId": "4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f"
+    },
+    "time": 1790992898500,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/D9PmLP5YjP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Soy_Kaz",
+      "uniqueId": "4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f"
+    },
+    "time": 1790992716629,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rXwA9h1t35"
+    }
+  }
+]

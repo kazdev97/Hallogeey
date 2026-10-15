@@ -1,5 +1,5 @@
 {
-  "activeDate": "2026-10-14",
+  "activeDate": "2026-10-15",
   "players": {
     "4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f": {
       "name": "Soy_Kaz",
@@ -10,7 +10,11 @@
       "hasBanana": false,
       "pendingRemoval": false,
       "pendingHeartPenalty": false,
-      "pendingHeartCaster": ""
+      "pendingHeartCaster": "",
+      "cauldronDim": "",
+      "cauldronX": 0,
+      "cauldronY": 0,
+      "cauldronZ": 0
     }
   }
 }

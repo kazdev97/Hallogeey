@@ -15,7 +15,9 @@
     "osito_rojo": false,
     "osito_rosa": false,
     "osito_turquesa": false,
-    "osito_verde": false
+    "osito_verde": false,
+    "ositos": false,
+    "ositoblanco": false
   },
   "dailyColoredBananaLimit": true,
   "autoGiveBananaOnJoin": false,

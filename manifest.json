@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "202610141791954467",
+    "revision":  "202610151792026594",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -10,12 +10,6 @@
     "ram_min_mb":  512,
     "ram_max_mb":  6016,
     "files":  [
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/vortex_toxic.png",
-                      "sha256":  "d0173215aee979191ab3d6e58fe698be0f52fb3bff55c255ff5f59f808d6c794",
-                      "size":  929778,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_toxic.png"
-                  },
                   {
                       "path":  "resourcepacks/customskyboxes/day_sky/vortex_galaxy.png",
                       "sha256":  "507d3f7baa01276e85400cbd6b6c7ccc8d9b1a7b706f270ddb985695cca591e8",
@@ -29,16 +23,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_ember.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/vortex_violet.png",
-                      "sha256":  "1ea62bb7532d00da41a1df36b35ac2510bcee50ee0c20e07d3139f9d0dccc1fe",
-                      "size":  1043392,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_violet.png"
+                      "path":  "resourcepacks/customskyboxes/day_sky/vortex_abyss.png",
+                      "sha256":  "b8ef7b7ac178d43445d43e37b8771b37ad949cb8ee7de400714c22deffb8540e",
+                      "size":  999833,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_abyss.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_azure.png",
-                      "sha256":  "72fccd4ebff15cab5266e560eadc9cb1c4e2be3ae616bd5304de36904fbe22e1",
-                      "size":  87592,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_azure.png"
+                      "path":  "resourcepacks/customskyboxes/day_sky/vortex_toxic.png",
+                      "sha256":  "d0173215aee979191ab3d6e58fe698be0f52fb3bff55c255ff5f59f808d6c794",
+                      "size":  929778,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_toxic.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/moon/moon_ash.png",
@@ -53,34 +47,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_void.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/storm_electric.png",
-                      "sha256":  "a973e55eafbe2866d88be8a7fcbf3dd4a7492de7b6989d054bd3c45fb3d769e2",
-                      "size":  413278,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/storm_electric.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/storm_dark.png",
-                      "sha256":  "97531778c579dc3977e437bc5bf49a74e75f76f180dbb8d1b6f767821aae1a86",
-                      "size":  338265,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/storm_dark.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/starfield_twilight.png",
-                      "sha256":  "613dc593ef292f776d544ffab948d7b4a560136c6cc9860b796d124daba7d5ae",
-                      "size":  687107,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/starfield_twilight.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/void_cracks.png",
-                      "sha256":  "1606f65d20866ad361db05b5e8b863d317c2785f4c4a3fab706c37383ade9667",
-                      "size":  2601387,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/void_cracks.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/vortex_abyss.png",
-                      "sha256":  "b8ef7b7ac178d43445d43e37b8771b37ad949cb8ee7de400714c22deffb8540e",
-                      "size":  999833,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_abyss.png"
+                      "path":  "resourcepacks/customskyboxes/day_sky/vortex_violet.png",
+                      "sha256":  "1ea62bb7532d00da41a1df36b35ac2510bcee50ee0c20e07d3139f9d0dccc1fe",
+                      "size":  1043392,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex_violet.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/day_sky/vortex.png",
@@ -89,214 +59,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/vortex.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/void_rift.png",
-                      "sha256":  "437bcda4f40fdd235a673f544d832adfc96b062600faeca4ea4f12834168f4cf",
-                      "size":  2461692,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/void_rift.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_blood.png",
-                      "sha256":  "7e9000370d0eb5f61ce0a1f9ab6f580dbd0d5a7293a687b773323c76322c8f01",
-                      "size":  74581,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_blood.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/frost.png",
-                      "sha256":  "f5af3fe9d53a030d5c09b58aef3ec9ed881a608c2a9ef95065bda9ca444eaaf5",
-                      "size":  2402195,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/frost.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/aurora_violet.png",
-                      "sha256":  "11455d2fd7d500e8f8442ecad3b537afcbac83486618bba386eaea7f5b57ec29",
-                      "size":  579582,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/aurora_violet.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/aurora_green.png",
-                      "sha256":  "f38b1dc5ea2a13226bb436415c0d6b26b48f730a72797e9f83cde85e480397ff",
-                      "size":  613120,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/aurora_green.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_band.png",
-                      "sha256":  "831c47f0f239721e67757a7627bb75e78ac18faacd5d51201f187fb513b09035",
-                      "size":  914252,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_band.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_rose.png",
-                      "sha256":  "6ea2fbee23a3c23cad80b2920e882d4fac2fd6d6d7384916e1002008e9f270cb",
-                      "size":  400778,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_rose.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_emerald.png",
-                      "sha256":  "96269bc7a72d1ddff9116bd2807a8176de872f86177d570eee2a87b0a9b312e4",
-                      "size":  833931,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_emerald.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_core.png",
-                      "sha256":  "b5123468b612281a2992f8b7f229e70594ea65b8d66327f2a0f6ad4d368478b2",
-                      "size":  398659,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_core.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_glow.png",
-                      "sha256":  "d1d21446cdbdc11481a7ae712a0ff50ba12e0c3b2e0f351ac74fe810538554fd",
-                      "size":  83208,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_glow.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_emerald.png",
-                      "sha256":  "a33525c2b9b7eb63001ad6222a33f16e964cdfd1d742ffd87afabdf5bbe5f8f4",
-                      "size":  85504,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_emerald.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_cracked.png",
-                      "sha256":  "5e329a5d940301f3fd800da3966016bfe8b901a9ba3b8fe4e98a630cd5fd9f23",
-                      "size":  67127,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_cracked.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_golden.png",
-                      "sha256":  "cf1839ad21f35aa02352460e7b9aba982f8d9e6d6a1ca960aec55c781e7e97bf",
-                      "size":  84433,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_golden.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_violet.png",
-                      "sha256":  "1f363941605f58e3c34c96d2b1842eee57628d8ec716e793da020b517bb2efe1",
-                      "size":  87107,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_violet.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_silver.png",
-                      "sha256":  "69ee24d24f466ec49788daf1ac4d70139014b97ae511c939057c44d0c0a34b46",
-                      "size":  71400,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_silver.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/moon/moon_pale.png",
-                      "sha256":  "35f374319291884a40f72ddee5286466eecc66c89737290d403cc61b8b9da9db",
-                      "size":  68099,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_pale.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_storm.png",
-                      "sha256":  "274e4d9a49f5d7603c86ee0e1d53e5cfacc40d5968309905b3c9b4431da7a8df",
-                      "size":  240793,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_storm.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_soft.png",
-                      "sha256":  "c86e54ea7d960f22026b6ae04b11e06d52edb8b3364dbfa56a7fa8950efad75d",
-                      "size":  186952,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_soft.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_ember.png",
-                      "sha256":  "1e4a87422bfab54f5b2d95575c4e8eab77c567fde3681a2d20d454c27ea8022f",
-                      "size":  261390,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_ember.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_streaks.png",
-                      "sha256":  "68929523e0979f235b04fb1836098da4429bc113dc0202559aa229c70bf4db72",
-                      "size":  305645,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_streaks.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_violet.png",
-                      "sha256":  "4b5b73d8f171cef149afc4857b3f9f7b289c8189f079730cf6b4ba4095f38245",
-                      "size":  242929,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_violet.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_toxic.png",
-                      "sha256":  "5cef869618c7ec3ae973ab8018b459ebd95e89d7e39550c864d9b7d5153d6426",
-                      "size":  272193,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_toxic.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_sunset.png",
-                      "sha256":  "f8710fb9376244587862b1fe028d6e4506caaf23b4309eb38ed8c9f5cf71f2b7",
-                      "size":  207548,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_sunset.png"
-                  },
-                  {
-                      "path":  "mods/vanillin-fabric-1.21.1-1.1.3.jar",
-                      "sha256":  "7552ea4b234b8bc5ddb49a2244270cc639cf14851233f480ab088bb87f93ab25",
-                      "size":  872000,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/vanillin-fabric-1.21.1-1.1.3.jar"
-                  },
-                  {
-                      "path":  "mods/tiny-terrors-1.0.3+1.21.1.jar",
-                      "sha256":  "b43f76bf21a99c2c2594486413c21d0842361dae0d24a11ddcbc9c2d2949f9aa",
-                      "size":  58644,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tiny-terrors-1.0.3%2B1.21.1.jar"
-                  },
-                  {
-                      "path":  "mods/teams-hallogeey-1.0.0.jar",
-                      "sha256":  "424ca93c5e9d4ed3feb186c2ab4a85973b4b854e4ae8e28485b6e3472f8d4d67",
-                      "size":  115426,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/teams-hallogeey-1.0.0.jar"
-                  },
-                  {
-                      "path":  "resourcepacks/PrideGUI 5.0.0.zip",
-                      "sha256":  "0a39164046d860540d9a42931d4485ac3100e520c8cbf7ad1324ec7b04b1b807",
-                      "size":  395151,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/PrideGUI%205.0.0.zip"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_dense.png",
-                      "sha256":  "9afc99c088a364ffaf00b3b1c8919d1cf92ebfc5aecbe5ef1b9c3f03ff3f728d",
-                      "size":  224851,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_dense.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_abyss.png",
-                      "sha256":  "541543fc187b22fa2a23cac7d5efd29632ddf043b70589f315bca390a6be92b8",
-                      "size":  226925,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_abyss.png"
-                  },
-                  {
-                      "path":  "resourcepacks/SkyPack_Galaxy.zip",
-                      "sha256":  "33948bd82aeb5755017730e8345e39c9f2b584718ea4a3db73e94b7532bdc01a",
-                      "size":  82566833,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/SkyPack_Galaxy.zip"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/clouds/clouds_wisps.png",
-                      "sha256":  "d279c09bf7e51460ffc5ce522aa0074cd93fe37ec447bc53ebaa54a34a431f56",
-                      "size":  256080,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_wisps.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_cyan.png",
-                      "sha256":  "0a5188b08686886256b8102c6f9d93122dbc81b60c5133f9fc8d6426ba777a15",
-                      "size":  1322199,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_cyan.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_crimson.png",
-                      "sha256":  "14e922aaba883389194dc5a88160dc1ddc576a649cb9fddd51078743a91216a2",
-                      "size":  1229271,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_crimson.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/inferno.png",
-                      "sha256":  "b625968c770af7844fddfe956e4811485b2dd37c3490f5e81a6207d85a64953f",
-                      "size":  412787,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/inferno.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_gold.png",
-                      "sha256":  "87ad4920174bdaf20a10df4894f6ff090adadcbe3427a585d7d5e77dad6c4bf9",
-                      "size":  1469078,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_gold.png"
+                      "path":  "resourcepacks/customskyboxes/day_sky/starfield_twilight.png",
+                      "sha256":  "613dc593ef292f776d544ffab948d7b4a560136c6cc9860b796d124daba7d5ae",
+                      "size":  687107,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/starfield_twilight.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/day_sky/starfield_dense.png",
@@ -311,34 +77,214 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/starfield_deep.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_violet.png",
-                      "sha256":  "f07f3893ce315414deec0dfbd8cc3af678565cb7aa239305c122a632a348c324",
-                      "size":  1270139,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_violet.png"
+                      "path":  "resourcepacks/customskyboxes/day_sky/storm_dark.png",
+                      "sha256":  "97531778c579dc3977e437bc5bf49a74e75f76f180dbb8d1b6f767821aae1a86",
+                      "size":  338265,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/storm_dark.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/frost.png",
-                      "sha256":  "f5af3fe9d53a030d5c09b58aef3ec9ed881a608c2a9ef95065bda9ca444eaaf5",
-                      "size":  2402195,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/frost.png"
+                      "path":  "resourcepacks/customskyboxes/day_sky/void_rift.png",
+                      "sha256":  "437bcda4f40fdd235a673f544d832adfc96b062600faeca4ea4f12834168f4cf",
+                      "size":  2461692,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/void_rift.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/aurora_violet.png",
+                      "path":  "resourcepacks/customskyboxes/day_sky/void_cracks.png",
+                      "sha256":  "1606f65d20866ad361db05b5e8b863d317c2785f4c4a3fab706c37383ade9667",
+                      "size":  2601387,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/void_cracks.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/storm_electric.png",
+                      "sha256":  "a973e55eafbe2866d88be8a7fcbf3dd4a7492de7b6989d054bd3c45fb3d769e2",
+                      "size":  413278,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/storm_electric.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/aurora_violet.png",
                       "sha256":  "11455d2fd7d500e8f8442ecad3b537afcbac83486618bba386eaea7f5b57ec29",
                       "size":  579582,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/aurora_violet.png"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/aurora_violet.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/aurora_green.png",
+                      "path":  "resourcepacks/customskyboxes/night_sky/aurora_green.png",
                       "sha256":  "f38b1dc5ea2a13226bb436415c0d6b26b48f730a72797e9f83cde85e480397ff",
                       "size":  613120,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/aurora_green.png"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/aurora_green.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/day_sky/galaxy_band.png",
+                      "path":  "resourcepacks/customskyboxes/moon/moon_violet.png",
+                      "sha256":  "1f363941605f58e3c34c96d2b1842eee57628d8ec716e793da020b517bb2efe1",
+                      "size":  87107,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_violet.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/frost.png",
+                      "sha256":  "f5af3fe9d53a030d5c09b58aef3ec9ed881a608c2a9ef95065bda9ca444eaaf5",
+                      "size":  2402195,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/frost.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_emerald.png",
+                      "sha256":  "96269bc7a72d1ddff9116bd2807a8176de872f86177d570eee2a87b0a9b312e4",
+                      "size":  833931,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_emerald.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_core.png",
+                      "sha256":  "b5123468b612281a2992f8b7f229e70594ea65b8d66327f2a0f6ad4d368478b2",
+                      "size":  398659,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_core.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_band.png",
                       "sha256":  "831c47f0f239721e67757a7627bb75e78ac18faacd5d51201f187fb513b09035",
                       "size":  914252,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/galaxy_band.png"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_band.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_silver.png",
+                      "sha256":  "69ee24d24f466ec49788daf1ac4d70139014b97ae511c939057c44d0c0a34b46",
+                      "size":  71400,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_silver.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_cracked.png",
+                      "sha256":  "5e329a5d940301f3fd800da3966016bfe8b901a9ba3b8fe4e98a630cd5fd9f23",
+                      "size":  67127,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_cracked.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_blood.png",
+                      "sha256":  "7e9000370d0eb5f61ce0a1f9ab6f580dbd0d5a7293a687b773323c76322c8f01",
+                      "size":  74581,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_blood.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_azure.png",
+                      "sha256":  "72fccd4ebff15cab5266e560eadc9cb1c4e2be3ae616bd5304de36904fbe22e1",
+                      "size":  87592,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_azure.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_emerald.png",
+                      "sha256":  "a33525c2b9b7eb63001ad6222a33f16e964cdfd1d742ffd87afabdf5bbe5f8f4",
+                      "size":  85504,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_emerald.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_pale.png",
+                      "sha256":  "35f374319291884a40f72ddee5286466eecc66c89737290d403cc61b8b9da9db",
+                      "size":  68099,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_pale.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_golden.png",
+                      "sha256":  "cf1839ad21f35aa02352460e7b9aba982f8d9e6d6a1ca960aec55c781e7e97bf",
+                      "size":  84433,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_golden.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/moon/moon_glow.png",
+                      "sha256":  "d1d21446cdbdc11481a7ae712a0ff50ba12e0c3b2e0f351ac74fe810538554fd",
+                      "size":  83208,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/moon/moon_glow.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_ember.png",
+                      "sha256":  "1e4a87422bfab54f5b2d95575c4e8eab77c567fde3681a2d20d454c27ea8022f",
+                      "size":  261390,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_ember.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_dense.png",
+                      "sha256":  "9afc99c088a364ffaf00b3b1c8919d1cf92ebfc5aecbe5ef1b9c3f03ff3f728d",
+                      "size":  224851,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_dense.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_abyss.png",
+                      "sha256":  "541543fc187b22fa2a23cac7d5efd29632ddf043b70589f315bca390a6be92b8",
+                      "size":  226925,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_abyss.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_soft.png",
+                      "sha256":  "c86e54ea7d960f22026b6ae04b11e06d52edb8b3364dbfa56a7fa8950efad75d",
+                      "size":  186952,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_soft.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_sunset.png",
+                      "sha256":  "f8710fb9376244587862b1fe028d6e4506caaf23b4309eb38ed8c9f5cf71f2b7",
+                      "size":  207548,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_sunset.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_streaks.png",
+                      "sha256":  "68929523e0979f235b04fb1836098da4429bc113dc0202559aa229c70bf4db72",
+                      "size":  305645,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_streaks.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_storm.png",
+                      "sha256":  "274e4d9a49f5d7603c86ee0e1d53e5cfacc40d5968309905b3c9b4431da7a8df",
+                      "size":  240793,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_storm.png"
+                  },
+                  {
+                      "path":  "resourcepacks/SkyPack_Galaxy.zip",
+                      "sha256":  "33948bd82aeb5755017730e8345e39c9f2b584718ea4a3db73e94b7532bdc01a",
+                      "size":  82566833,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/SkyPack_Galaxy.zip"
+                  },
+                  {
+                      "path":  "mods/tiny-terrors-1.0.3+1.21.1.jar",
+                      "sha256":  "b43f76bf21a99c2c2594486413c21d0842361dae0d24a11ddcbc9c2d2949f9aa",
+                      "size":  58644,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tiny-terrors-1.0.3%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/teams-hallogeey-1.0.0.jar",
+                      "sha256":  "424ca93c5e9d4ed3feb186c2ab4a85973b4b854e4ae8e28485b6e3472f8d4d67",
+                      "size":  115426,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/teams-hallogeey-1.0.0.jar"
+                  },
+                  {
+                      "path":  "mods/supplementaries-1.21.1-3.9.9-fabric.jar",
+                      "sha256":  "be0415986a64b1701d9bf019480369b77fb02c682a85d1bd9914108d7845b4e9",
+                      "size":  13376224,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/supplementaries-1.21.1-3.9.9-fabric.jar"
+                  },
+                  {
+                      "path":  "mods/vanillin-fabric-1.21.1-1.1.3.jar",
+                      "sha256":  "7552ea4b234b8bc5ddb49a2244270cc639cf14851233f480ab088bb87f93ab25",
+                      "size":  872000,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/vanillin-fabric-1.21.1-1.1.3.jar"
+                  },
+                  {
+                      "path":  "resourcepacks/PrideGUI 5.0.0.zip",
+                      "sha256":  "0a39164046d860540d9a42931d4485ac3100e520c8cbf7ad1324ec7b04b1b807",
+                      "size":  395151,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/PrideGUI%205.0.0.zip"
+                  },
+                  {
+                      "path":  "mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar.disabled",
+                      "sha256":  "e60f274d66309909d4fb7cb610df4a31aed76b15fd4f37aad79461abcc82ba20",
+                      "size":  82210,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar.disabled"
+                  },
+                  {
+                      "path":  "mods/watermedia-3.0.0.23.jar.disabled",
+                      "sha256":  "c3baefc8fbb005e349b3424f7df8f9d89b18524d5f7a358c6df73ca5e1d98b38",
+                      "size":  3625444,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watermedia-3.0.0.23.jar.disabled"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/inferno.png",
+                      "sha256":  "b625968c770af7844fddfe956e4811485b2dd37c3490f5e81a6207d85a64953f",
+                      "size":  412787,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/inferno.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/day_sky/galaxy_rose.png",
@@ -353,16 +299,76 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/galaxy_emerald.png"
                   },
                   {
+                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_crimson.png",
+                      "sha256":  "14e922aaba883389194dc5a88160dc1ddc576a649cb9fddd51078743a91216a2",
+                      "size":  1229271,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_crimson.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_violet.png",
+                      "sha256":  "f07f3893ce315414deec0dfbd8cc3af678565cb7aa239305c122a632a348c324",
+                      "size":  1270139,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_violet.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_gold.png",
+                      "sha256":  "87ad4920174bdaf20a10df4894f6ff090adadcbe3427a585d7d5e77dad6c4bf9",
+                      "size":  1469078,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_gold.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/nebula_cyan.png",
+                      "sha256":  "0a5188b08686886256b8102c6f9d93122dbc81b60c5133f9fc8d6426ba777a15",
+                      "size":  1322199,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/nebula_cyan.png"
+                  },
+                  {
                       "path":  "resourcepacks/customskyboxes/day_sky/galaxy_core.png",
                       "sha256":  "b5123468b612281a2992f8b7f229e70594ea65b8d66327f2a0f6ad4d368478b2",
                       "size":  398659,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/galaxy_core.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/night_sky/inferno.png",
-                      "sha256":  "b625968c770af7844fddfe956e4811485b2dd37c3490f5e81a6207d85a64953f",
-                      "size":  412787,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/inferno.png"
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_wisps.png",
+                      "sha256":  "d279c09bf7e51460ffc5ce522aa0074cd93fe37ec447bc53ebaa54a34a431f56",
+                      "size":  256080,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_wisps.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_violet.png",
+                      "sha256":  "4b5b73d8f171cef149afc4857b3f9f7b289c8189f079730cf6b4ba4095f38245",
+                      "size":  242929,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_violet.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/clouds/clouds_toxic.png",
+                      "sha256":  "5cef869618c7ec3ae973ab8018b459ebd95e89d7e39550c864d9b7d5153d6426",
+                      "size":  272193,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/clouds/clouds_toxic.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/aurora_green.png",
+                      "sha256":  "f38b1dc5ea2a13226bb436415c0d6b26b48f730a72797e9f83cde85e480397ff",
+                      "size":  613120,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/aurora_green.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/galaxy_band.png",
+                      "sha256":  "831c47f0f239721e67757a7627bb75e78ac18faacd5d51201f187fb513b09035",
+                      "size":  914252,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/galaxy_band.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/frost.png",
+                      "sha256":  "f5af3fe9d53a030d5c09b58aef3ec9ed881a608c2a9ef95065bda9ca444eaaf5",
+                      "size":  2402195,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/frost.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/day_sky/aurora_violet.png",
+                      "sha256":  "11455d2fd7d500e8f8442ecad3b537afcbac83486618bba386eaea7f5b57ec29",
+                      "size":  579582,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/day_sky/aurora_violet.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sky/storm_electric.png",
@@ -407,10 +413,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/void_rift.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/nebula_cyan.png",
-                      "sha256":  "0a5188b08686886256b8102c6f9d93122dbc81b60c5133f9fc8d6426ba777a15",
-                      "size":  1322199,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/nebula_cyan.png"
+                      "path":  "resourcepacks/customskyboxes/sky/starfield_dense.png",
+                      "sha256":  "0b9e4bd37ea46978eac08969c50336533f10820b7ba56db76ca2f334afaa83e8",
+                      "size":  789225,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/starfield_dense.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sky/nebula_crimson.png",
@@ -425,16 +431,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/inferno.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/nebula_gold.png",
-                      "sha256":  "87ad4920174bdaf20a10df4894f6ff090adadcbe3427a585d7d5e77dad6c4bf9",
-                      "size":  1469078,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/nebula_gold.png"
+                      "path":  "resourcepacks/customskyboxes/sky/galaxy_rose.png",
+                      "sha256":  "6ea2fbee23a3c23cad80b2920e882d4fac2fd6d6d7384916e1002008e9f270cb",
+                      "size":  400778,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/galaxy_rose.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/starfield_dense.png",
-                      "sha256":  "0b9e4bd37ea46978eac08969c50336533f10820b7ba56db76ca2f334afaa83e8",
-                      "size":  789225,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/starfield_dense.png"
+                      "path":  "resourcepacks/customskyboxes/sky/nebula_cyan.png",
+                      "sha256":  "0a5188b08686886256b8102c6f9d93122dbc81b60c5133f9fc8d6426ba777a15",
+                      "size":  1322199,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/nebula_cyan.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sky/starfield_deep.png",
@@ -449,10 +455,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/nebula_violet.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/vortex_ember.png",
-                      "sha256":  "194b61e15538ee06bd2ec05052ba8a698c822901a636f3a33068f9fd93ab5dfd",
-                      "size":  1025022,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/vortex_ember.png"
+                      "path":  "resourcepacks/customskyboxes/sky/nebula_gold.png",
+                      "sha256":  "87ad4920174bdaf20a10df4894f6ff090adadcbe3427a585d7d5e77dad6c4bf9",
+                      "size":  1469078,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/nebula_gold.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sun/sun_plasma.png",
@@ -497,10 +503,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sun/sun_violet.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/vortex_violet.png",
-                      "sha256":  "1ea62bb7532d00da41a1df36b35ac2510bcee50ee0c20e07d3139f9d0dccc1fe",
-                      "size":  1043392,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/vortex_violet.png"
+                      "path":  "resourcepacks/customskyboxes/sun/sun_eclipse.png",
+                      "sha256":  "66b4b0eeb3ee379339f052541e0c6d45a72d7c77fc520f68d7119c0873e5fda8",
+                      "size":  39487,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sun/sun_eclipse.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sky/vortex_toxic.png",
@@ -515,16 +521,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/vortex_galaxy.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/vortex_void.png",
-                      "sha256":  "71f199ae514f16eb73e2adc1d6d9e009e89174c1414010d1f116f752404c5205",
-                      "size":  1119009,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/vortex_void.png"
+                      "path":  "resourcepacks/customskyboxes/sky/vortex_ember.png",
+                      "sha256":  "194b61e15538ee06bd2ec05052ba8a698c822901a636f3a33068f9fd93ab5dfd",
+                      "size":  1025022,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/vortex_ember.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sun/sun_eclipse.png",
-                      "sha256":  "66b4b0eeb3ee379339f052541e0c6d45a72d7c77fc520f68d7119c0873e5fda8",
-                      "size":  39487,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sun/sun_eclipse.png"
+                      "path":  "resourcepacks/customskyboxes/sky/vortex_violet.png",
+                      "sha256":  "1ea62bb7532d00da41a1df36b35ac2510bcee50ee0c20e07d3139f9d0dccc1fe",
+                      "size":  1043392,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/vortex_violet.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sun/sun_blue.png",
@@ -539,10 +545,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sun/sun_blood.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/night_sky/void_cracks.png",
-                      "sha256":  "1606f65d20866ad361db05b5e8b863d317c2785f4c4a3fab706c37383ade9667",
-                      "size":  2601387,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/void_cracks.png"
+                      "path":  "resourcepacks/customskyboxes/sky/vortex_void.png",
+                      "sha256":  "71f199ae514f16eb73e2adc1d6d9e009e89174c1414010d1f116f752404c5205",
+                      "size":  1119009,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/vortex_void.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/night_sky/storm_electric.png",
@@ -557,16 +563,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/storm_dark.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/night_sky/void_rift.png",
-                      "sha256":  "437bcda4f40fdd235a673f544d832adfc96b062600faeca4ea4f12834168f4cf",
-                      "size":  2461692,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/void_rift.png"
+                      "path":  "resourcepacks/customskyboxes/night_sky/starfield_twilight.png",
+                      "sha256":  "613dc593ef292f776d544ffab948d7b4a560136c6cc9860b796d124daba7d5ae",
+                      "size":  687107,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/starfield_twilight.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_ember.png",
-                      "sha256":  "194b61e15538ee06bd2ec05052ba8a698c822901a636f3a33068f9fd93ab5dfd",
-                      "size":  1025022,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_ember.png"
+                      "path":  "resourcepacks/customskyboxes/night_sky/void_cracks.png",
+                      "sha256":  "1606f65d20866ad361db05b5e8b863d317c2785f4c4a3fab706c37383ade9667",
+                      "size":  2601387,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/void_cracks.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/night_sky/vortex_abyss.png",
@@ -581,34 +587,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_gold.png",
-                      "sha256":  "87ad4920174bdaf20a10df4894f6ff090adadcbe3427a585d7d5e77dad6c4bf9",
-                      "size":  1469078,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_gold.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_cyan.png",
-                      "sha256":  "0a5188b08686886256b8102c6f9d93122dbc81b60c5133f9fc8d6426ba777a15",
-                      "size":  1322199,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_cyan.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_crimson.png",
-                      "sha256":  "14e922aaba883389194dc5a88160dc1ddc576a649cb9fddd51078743a91216a2",
-                      "size":  1229271,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_crimson.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_violet.png",
-                      "sha256":  "f07f3893ce315414deec0dfbd8cc3af678565cb7aa239305c122a632a348c324",
-                      "size":  1270139,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_violet.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/starfield_twilight.png",
-                      "sha256":  "613dc593ef292f776d544ffab948d7b4a560136c6cc9860b796d124daba7d5ae",
-                      "size":  687107,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/starfield_twilight.png"
+                      "path":  "resourcepacks/customskyboxes/night_sky/void_rift.png",
+                      "sha256":  "437bcda4f40fdd235a673f544d832adfc96b062600faeca4ea4f12834168f4cf",
+                      "size":  2461692,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/void_rift.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/night_sky/starfield_dense.png",
@@ -617,22 +599,46 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/starfield_dense.png"
                   },
                   {
+                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_crimson.png",
+                      "sha256":  "14e922aaba883389194dc5a88160dc1ddc576a649cb9fddd51078743a91216a2",
+                      "size":  1229271,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_crimson.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/inferno.png",
+                      "sha256":  "b625968c770af7844fddfe956e4811485b2dd37c3490f5e81a6207d85a64953f",
+                      "size":  412787,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/inferno.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/galaxy_rose.png",
+                      "sha256":  "6ea2fbee23a3c23cad80b2920e882d4fac2fd6d6d7384916e1002008e9f270cb",
+                      "size":  400778,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/galaxy_rose.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_cyan.png",
+                      "sha256":  "0a5188b08686886256b8102c6f9d93122dbc81b60c5133f9fc8d6426ba777a15",
+                      "size":  1322199,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_cyan.png"
+                  },
+                  {
                       "path":  "resourcepacks/customskyboxes/night_sky/starfield_deep.png",
                       "sha256":  "87eee149f43e83fb3e78dcb181734a5d06ce60dbe34a48ac3f80073da3394869",
                       "size":  716895,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/starfield_deep.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_galaxy.png",
-                      "sha256":  "507d3f7baa01276e85400cbd6b6c7ccc8d9b1a7b706f270ddb985695cca591e8",
-                      "size":  514954,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_galaxy.png"
+                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_violet.png",
+                      "sha256":  "f07f3893ce315414deec0dfbd8cc3af678565cb7aa239305c122a632a348c324",
+                      "size":  1270139,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_violet.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/frost.png",
-                      "sha256":  "f5af3fe9d53a030d5c09b58aef3ec9ed881a608c2a9ef95065bda9ca444eaaf5",
-                      "size":  2402195,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/frost.png"
+                      "path":  "resourcepacks/customskyboxes/night_sky/nebula_gold.png",
+                      "sha256":  "87ad4920174bdaf20a10df4894f6ff090adadcbe3427a585d7d5e77dad6c4bf9",
+                      "size":  1469078,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/nebula_gold.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sky/aurora_violet.png",
@@ -647,16 +653,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/aurora_green.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/galaxy_band.png",
-                      "sha256":  "831c47f0f239721e67757a7627bb75e78ac18faacd5d51201f187fb513b09035",
-                      "size":  914252,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/galaxy_band.png"
+                      "path":  "resourcepacks/customskyboxes/rain/rain_storm.png",
+                      "sha256":  "20f9d78c5f19c21e65dc8a43fd43b3c12298ca49272d4ce5b1ca79d947249ebd",
+                      "size":  23423,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/rain/rain_storm.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/sky/galaxy_rose.png",
-                      "sha256":  "6ea2fbee23a3c23cad80b2920e882d4fac2fd6d6d7384916e1002008e9f270cb",
-                      "size":  400778,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/galaxy_rose.png"
+                      "path":  "resourcepacks/customskyboxes/sky/frost.png",
+                      "sha256":  "f5af3fe9d53a030d5c09b58aef3ec9ed881a608c2a9ef95065bda9ca444eaaf5",
+                      "size":  2402195,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/frost.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/sky/galaxy_emerald.png",
@@ -671,34 +677,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/galaxy_core.png"
                   },
                   {
-                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_void.png",
-                      "sha256":  "71f199ae514f16eb73e2adc1d6d9e009e89174c1414010d1f116f752404c5205",
-                      "size":  1119009,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_void.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_violet.png",
-                      "sha256":  "1ea62bb7532d00da41a1df36b35ac2510bcee50ee0c20e07d3139f9d0dccc1fe",
-                      "size":  1043392,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_violet.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_toxic.png",
-                      "sha256":  "d0173215aee979191ab3d6e58fe698be0f52fb3bff55c255ff5f59f808d6c794",
-                      "size":  929778,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_toxic.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/rain/rain_ember.png",
-                      "sha256":  "be75bdbf573bf335cadddb780ead7d866fc5617dbbe8476c2f74dbcc969cb4f4",
-                      "size":  15965,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/rain/rain_ember.png"
-                  },
-                  {
-                      "path":  "resourcepacks/customskyboxes/rain/rain_storm.png",
-                      "sha256":  "20f9d78c5f19c21e65dc8a43fd43b3c12298ca49272d4ce5b1ca79d947249ebd",
-                      "size":  23423,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/rain/rain_storm.png"
+                      "path":  "resourcepacks/customskyboxes/sky/galaxy_band.png",
+                      "sha256":  "831c47f0f239721e67757a7627bb75e78ac18faacd5d51201f187fb513b09035",
+                      "size":  914252,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/sky/galaxy_band.png"
                   },
                   {
                       "path":  "resourcepacks/customskyboxes/rain/rain_light.png",
@@ -707,28 +689,52 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/rain/rain_light.png"
                   },
                   {
+                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_toxic.png",
+                      "sha256":  "d0173215aee979191ab3d6e58fe698be0f52fb3bff55c255ff5f59f808d6c794",
+                      "size":  929778,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_toxic.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_galaxy.png",
+                      "sha256":  "507d3f7baa01276e85400cbd6b6c7ccc8d9b1a7b706f270ddb985695cca591e8",
+                      "size":  514954,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_galaxy.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_ember.png",
+                      "sha256":  "194b61e15538ee06bd2ec05052ba8a698c822901a636f3a33068f9fd93ab5dfd",
+                      "size":  1025022,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_ember.png"
+                  },
+                  {
+                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_violet.png",
+                      "sha256":  "1ea62bb7532d00da41a1df36b35ac2510bcee50ee0c20e07d3139f9d0dccc1fe",
+                      "size":  1043392,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_violet.png"
+                  },
+                  {
                       "path":  "resourcepacks/customskyboxes/rain/rain_heavy.png",
                       "sha256":  "da0462c52e4e60a6ac9b8e1cf7479847082d98e6158986cd310ba7293b148932",
                       "size":  19967,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/rain/rain_heavy.png"
                   },
                   {
-                      "path":  "config/sodium-extra.properties",
-                      "sha256":  "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
-                      "size":  360,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra.properties"
+                      "path":  "resourcepacks/customskyboxes/rain/rain_ember.png",
+                      "sha256":  "be75bdbf573bf335cadddb780ead7d866fc5617dbbe8476c2f74dbcc969cb4f4",
+                      "size":  15965,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/rain/rain_ember.png"
                   },
                   {
-                      "path":  "config/sodium-extra-options.json",
-                      "sha256":  "35e8c39fcc878887964a2c74596455e09a017ecf5ec48df1dbad0f1827564d03",
-                      "size":  6444,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra-options.json"
+                      "path":  "resourcepacks/customskyboxes/night_sky/vortex_void.png",
+                      "sha256":  "71f199ae514f16eb73e2adc1d6d9e009e89174c1414010d1f116f752404c5205",
+                      "size":  1119009,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/customskyboxes/night_sky/vortex_void.png"
                   },
                   {
-                      "path":  "config/smoothboot.json",
-                      "sha256":  "0dc746fb3afca8b1f21e6fead005760d25e2c73dc006c9cb932364dd2b5d86ea",
-                      "size":  198,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/smoothboot.json"
+                      "path":  "config/sodium-mixins.properties",
+                      "sha256":  "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+                      "size":  258,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-mixins.properties"
                   },
                   {
                       "path":  "config/sodium-fingerprint.json",
@@ -737,10 +743,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-fingerprint.json"
                   },
                   {
-                      "path":  "config/supplementaries-client.json",
-                      "sha256":  "164c5aacaa72213246c38e45eef406bdc93fa8a26f3259260026c967e8f6c60e",
-                      "size":  3349,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-client.json"
+                      "path":  "config/sodium-extra.properties",
+                      "sha256":  "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+                      "size":  360,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra.properties"
                   },
                   {
                       "path":  "config/sodium-options.json",
@@ -749,10 +755,34 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-options.json"
                   },
                   {
-                      "path":  "config/sodium-mixins.properties",
-                      "sha256":  "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
-                      "size":  258,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-mixins.properties"
+                      "path":  "config/threads.json",
+                      "sha256":  "4d5c6dee1c4f80494ec2f7b0d1632b60f8bfb86c465238dfbc65cd1d8dbd8544",
+                      "size":  165,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/threads.json"
+                  },
+                  {
+                      "path":  "config/supplementaries-common.json",
+                      "sha256":  "1a2c83737df2e965f6e67a059139517808a4488bfb864051ffaada7731eb27a6",
+                      "size":  11155,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-common.json"
+                  },
+                  {
+                      "path":  "config/supplementaries-client.json",
+                      "sha256":  "164c5aacaa72213246c38e45eef406bdc93fa8a26f3259260026c967e8f6c60e",
+                      "size":  3349,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-client.json"
+                  },
+                  {
+                      "path":  "config/sodium-extra-options.json",
+                      "sha256":  "35e8c39fcc878887964a2c74596455e09a017ecf5ec48df1dbad0f1827564d03",
+                      "size":  6444,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra-options.json"
+                  },
+                  {
+                      "path":  "config/noisium.json",
+                      "sha256":  "3b6acdbc5ce36d9a81fb2a889760b5eb9fd88683cb06e234eca92559ad151329",
+                      "size":  146,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/noisium.json"
                   },
                   {
                       "path":  "config/moreculling.toml",
@@ -767,16 +797,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moonlight-common.json"
                   },
                   {
-                      "path":  "config/moonlight-client.json",
-                      "sha256":  "2e1fc3c9057e5279957ddae39140390c809fe1eef6c3c1585901ccbbaaad865b",
-                      "size":  459,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moonlight-client.json"
+                      "path":  "config/rrp.properties",
+                      "sha256":  "e84bf6d424380048527ff841dccaa2016869d4ac11fa9ab40f45ec11b25dd667",
+                      "size":  148,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/rrp.properties"
                   },
                   {
-                      "path":  "config/noisium.json",
-                      "sha256":  "3b6acdbc5ce36d9a81fb2a889760b5eb9fd88683cb06e234eca92559ad151329",
-                      "size":  146,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/noisium.json"
+                      "path":  "config/smoothboot.json",
+                      "sha256":  "0dc746fb3afca8b1f21e6fead005760d25e2c73dc006c9cb932364dd2b5d86ea",
+                      "size":  198,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/smoothboot.json"
                   },
                   {
                       "path":  "config/sixtysevenentity.properties",
@@ -791,34 +821,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/scalablelux.properties"
                   },
                   {
-                      "path":  "config/rrp.properties",
-                      "sha256":  "e84bf6d424380048527ff841dccaa2016869d4ac11fa9ab40f45ec11b25dd667",
-                      "size":  148,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/rrp.properties"
-                  },
-                  {
-                      "path":  "config/supplementaries-common.json",
-                      "sha256":  "1a2c83737df2e965f6e67a059139517808a4488bfb864051ffaada7731eb27a6",
-                      "size":  11155,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-common.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/gachapon/plushies_gachapon.json",
-                      "sha256":  "2960cc2d146a1a2af2f837e501f7c3dd47efa77f1512553f7b864f05f5750740",
-                      "size":  73,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/plushies_gachapon.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/gachapon/item_gachapon.json",
-                      "sha256":  "2e719db0d1017713a3abc9ec7ec861b1a605ad001d4b10b3b3f9d24f41d8d028",
-                      "size":  5849,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/item_gachapon.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/general_config.json",
-                      "sha256":  "2e47e08ecef776af170adf92b0fcbe79123de67bdb7c564213481665ba6028a5",
-                      "size":  1083,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/general_config.json"
+                      "path":  "config/casinogeey/machines/gacha_machines.json",
+                      "sha256":  "854f7778880c1dcbbc06a5c8ba7e66d87d3813e184510324b7c98204905a22be",
+                      "size":  1887,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/machines/gacha_machines.json"
                   },
                   {
                       "path":  "config/casinogeey/gachapon/spooky_gachapon.json",
@@ -827,10 +833,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/spooky_gachapon.json"
                   },
                   {
-                      "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "a7fe4907284506c6ad652b9152d3e04c5ba367cca9784221725efbb2d975ed58",
-                      "size":  290,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fabric/indigo-renderer.properties"
+                      "path":  "config/casinogeey/gachapon/plushies_gachapon.json",
+                      "sha256":  "2960cc2d146a1a2af2f837e501f7c3dd47efa77f1512553f7b864f05f5750740",
+                      "size":  73,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/plushies_gachapon.json"
                   },
                   {
                       "path":  "config/casinogeey/machines/slot_machine.json",
@@ -839,10 +845,34 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/machines/slot_machine.json"
                   },
                   {
-                      "path":  "config/casinogeey/machines/gacha_machines.json",
-                      "sha256":  "854f7778880c1dcbbc06a5c8ba7e66d87d3813e184510324b7c98204905a22be",
-                      "size":  1887,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/machines/gacha_machines.json"
+                      "path":  "config/hallogeeymobs/config.json",
+                      "sha256":  "7c7e06373a6c28aabc18bee8ebce1e4478e156cbd3626ff6a00c60ea22238a69",
+                      "size":  626,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/config.json"
+                  },
+                  {
+                      "path":  "config/hallogeeymobs/bananas.json",
+                      "sha256":  "83a579d9fb43a8fe214b685be37321d18eba4bd8ad08781f45c3bda783925df0",
+                      "size":  345,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/bananas.json"
+                  },
+                  {
+                      "path":  "config/fabric/indigo-renderer.properties",
+                      "sha256":  "a7fe4907284506c6ad652b9152d3e04c5ba367cca9784221725efbb2d975ed58",
+                      "size":  290,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fabric/indigo-renderer.properties"
+                  },
+                  {
+                      "path":  "config/casinogeey/gachapon/item_gachapon.json",
+                      "sha256":  "2e719db0d1017713a3abc9ec7ec861b1a605ad001d4b10b3b3f9d24f41d8d028",
+                      "size":  5849,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/item_gachapon.json"
+                  },
+                  {
+                      "path":  "config/trender.json",
+                      "sha256":  "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+                      "size":  47,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/trender.json"
                   },
                   {
                       "path":  "config/transition.json",
@@ -857,16 +887,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/threadtweak.json"
                   },
                   {
-                      "path":  "config/threads.json",
-                      "sha256":  "4d5c6dee1c4f80494ec2f7b0d1632b60f8bfb86c465238dfbc65cd1d8dbd8544",
-                      "size":  165,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/threads.json"
+                      "path":  "config/vanillin.json",
+                      "sha256":  "737aeeca96aa5ccb3231fb0b17d04930d343131a6845bb5ad124afb78bed64b4",
+                      "size":  742,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/vanillin.json"
                   },
                   {
-                      "path":  "config/trender.json",
-                      "sha256":  "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
-                      "size":  47,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/trender.json"
+                      "path":  "config/casinogeey/general_config.json",
+                      "sha256":  "2e47e08ecef776af170adf92b0fcbe79123de67bdb7c564213481665ba6028a5",
+                      "size":  1083,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/general_config.json"
                   },
                   {
                       "path":  "config/asyncparticles/asyncparticles.json",
@@ -881,10 +911,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles-mixin.properties"
                   },
                   {
-                      "path":  "config/vanillin.json",
-                      "sha256":  "737aeeca96aa5ccb3231fb0b17d04930d343131a6845bb5ad124afb78bed64b4",
-                      "size":  742,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/vanillin.json"
+                      "path":  "config/enhanced_bes.properties",
+                      "sha256":  "685e1bfb458b2bcbcb43310be5a92993a0073fdf8221705748b1e466b684b28b",
+                      "size":  532,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/enhanced_bes.properties"
                   },
                   {
                       "path":  "config/dynamic_fps.json",
@@ -899,16 +929,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes.json"
                   },
                   {
-                      "path":  "config/CustomNpcs.cfg",
-                      "sha256":  "0ee26e1e647f26f3864f47d4e8a8b8a5baf01db73e63cd5497c25dd37aa83702",
-                      "size":  1924,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/CustomNpcs.cfg"
+                      "path":  "config/entityculling.json",
+                      "sha256":  "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
+                      "size":  1897,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/entityculling.json"
                   },
                   {
-                      "path":  "config/enhanced_bes.properties",
-                      "sha256":  "685e1bfb458b2bcbcb43310be5a92993a0073fdf8221705748b1e466b684b28b",
-                      "size":  532,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/enhanced_bes.properties"
+                      "path":  "config/flywheel.json",
+                      "sha256":  "8d5385ce9f9af3458c877db2ee7bf73230202c24870dece6b7e97e344fb8dfc1",
+                      "size":  130,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/flywheel.json"
                   },
                   {
                       "path":  "config/ferritecore.mixin.properties",
@@ -923,10 +953,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fastquit.toml"
                   },
                   {
-                      "path":  "config/entityculling.json",
-                      "sha256":  "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
-                      "size":  1897,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/entityculling.json"
+                      "path":  "config/CustomNpcs.cfg",
+                      "sha256":  "0ee26e1e647f26f3864f47d4e8a8b8a5baf01db73e63cd5497c25dd37aa83702",
+                      "size":  1924,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/CustomNpcs.cfg"
                   },
                   {
                       "path":  "config/betterblockentities.json",
@@ -971,10 +1001,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/cpm.json"
                   },
                   {
-                      "path":  "config/flywheel.json",
-                      "sha256":  "8d5385ce9f9af3458c877db2ee7bf73230202c24870dece6b7e97e344fb8dfc1",
-                      "size":  130,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/flywheel.json"
+                      "path":  "config/lithium.properties",
+                      "sha256":  "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
+                      "size":  267,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lithium.properties"
                   },
                   {
                       "path":  "config/letmedespawn.json",
@@ -989,16 +1019,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/journeymap-server.json"
                   },
                   {
-                      "path":  "config/ixeris.toml",
-                      "sha256":  "d430e5bf067dc9e90db187f6868dd4e5ca99d8a2ec4462fd3308ea8ea747245c",
-                      "size":  921,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/ixeris.toml"
+                      "path":  "config/lootr.json",
+                      "sha256":  "1ca66f443b353d4054fe4ac78c31628c7d51544f53d3fc52899dae970766fe06",
+                      "size":  2008,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lootr.json"
                   },
                   {
-                      "path":  "config/lithium.properties",
-                      "sha256":  "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
-                      "size":  267,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lithium.properties"
+                      "path":  "config/moonlight-client.json",
+                      "sha256":  "2e1fc3c9057e5279957ddae39140390c809fe1eef6c3c1585901ccbbaaad865b",
+                      "size":  459,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moonlight-client.json"
                   },
                   {
                       "path":  "config/modmenu.json",
@@ -1013,10 +1043,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/modernfix-mixins.properties"
                   },
                   {
-                      "path":  "config/lootr.json",
-                      "sha256":  "1ca66f443b353d4054fe4ac78c31628c7d51544f53d3fc52899dae970766fe06",
-                      "size":  2008,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lootr.json"
+                      "path":  "config/ixeris.toml",
+                      "sha256":  "d430e5bf067dc9e90db187f6868dd4e5ca99d8a2ec4462fd3308ea8ea747245c",
+                      "size":  921,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/ixeris.toml"
                   },
                   {
                       "path":  "config/halloteams-data.json",
@@ -1061,16 +1091,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immediatelyfast.json"
                   },
                   {
-                      "path":  "config/hallogeeymobs/bananas.json",
-                      "sha256":  "83a579d9fb43a8fe214b685be37321d18eba4bd8ad08781f45c3bda783925df0",
-                      "size":  345,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/bananas.json"
-                  },
-                  {
                       "path":  "mods/letsdo-furniture-fabric-1.1.6.jar",
                       "sha256":  "fe8ff14884b4effd7f5720cfd39ec94676b0574e190924abee1473ae77a5acb2",
                       "size":  4161207,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-furniture-fabric-1.1.6.jar"
+                  },
+                  {
+                      "path":  "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+                      "sha256":  "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+                      "size":  786695,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/konkrete_fabric_1.9.9_MC_1.21.jar"
                   },
                   {
                       "path":  "mods/journeymap-fabric-1.21.1-6.0.9.jar",
@@ -1079,22 +1109,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/journeymap-fabric-1.21.1-6.0.9.jar"
                   },
                   {
-                      "path":  "mods/Ixeris-3.8.6+1.21.1-fabric.jar",
-                      "sha256":  "e697edc0d1bf565d34efce7c55a5518b2a6d44af60311cdd13434286aa626c35",
-                      "size":  636823,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Ixeris-3.8.6%2B1.21.1-fabric.jar"
-                  },
-                  {
                       "path":  "mods/lithium-fabric-0.15.2+mc1.21.1.jar",
                       "sha256":  "537bc45224e81dd1cbae25c1a972f14dac2456f0f8725ced3ca88ae41d0156d3",
                       "size":  797184,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lithium-fabric-0.15.2%2Bmc1.21.1.jar"
-                  },
-                  {
-                      "path":  "mods/modmenu-11.0.3.jar",
-                      "sha256":  "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
-                      "size":  973066,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/modmenu-11.0.3.jar"
                   },
                   {
                       "path":  "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
@@ -1103,10 +1121,22 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
                   },
                   {
+                      "path":  "mods/melody_fabric_1.0.10_MC_1.21.jar",
+                      "sha256":  "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+                      "size":  188035,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/melody_fabric_1.0.10_MC_1.21.jar"
+                  },
+                  {
                       "path":  "mods/lootr-fabric-1.21.1-1.11.38.127.jar",
                       "sha256":  "2b33fa73a28c14f0983459c165e8c7b491cd1d798c947b967207f66194fb531d",
                       "size":  1111591,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lootr-fabric-1.21.1-1.11.38.127.jar"
+                  },
+                  {
+                      "path":  "mods/Ixeris-3.8.6+1.21.1-fabric.jar",
+                      "sha256":  "e697edc0d1bf565d34efce7c55a5518b2a6d44af60311cdd13434286aa626c35",
+                      "size":  636823,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Ixeris-3.8.6%2B1.21.1-fabric.jar"
                   },
                   {
                       "path":  "mods/hallogeey-portals-1.0.0.jar",
@@ -1151,18 +1181,6 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogey_ruleta-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/moonlight-1.21.1-3.7.0-fabric.jar",
-                      "sha256":  "e8ce4bc15274b7b3797cfd4a87a8a8ac5e1b9bfaea0db8bd5ceb0c644af4c114",
-                      "size":  2324955,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moonlight-1.21.1-3.7.0-fabric.jar"
-                  },
-                  {
-                      "path":  "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
-                      "sha256":  "42c36c7cb3084ac8038df5c946f0b4222e7b07499ee947c68c92adf52435936a",
-                      "size":  472019,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar"
-                  },
-                  {
                       "path":  "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
                       "sha256":  "f32ed8d825c7af90b14ab9f7bbe1293818bcf411fea104ae20d18ecde30f8387",
                       "size":  177266,
@@ -1175,16 +1193,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.5.jar"
                   },
                   {
-                      "path":  "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
-                      "sha256":  "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
-                      "size":  1574609,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+                      "path":  "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+                      "sha256":  "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
+                      "size":  485586,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/resourcefullib-fabric-1.21-3.0.12.jar"
                   },
                   {
-                      "path":  "mods/supplementaries-1.21.1-3.9.9-fabric.jar",
-                      "sha256":  "be0415986a64b1701d9bf019480369b77fb02c682a85d1bd9914108d7845b4e9",
-                      "size":  13376224,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/supplementaries-1.21.1-3.9.9-fabric.jar"
+                      "path":  "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
+                      "sha256":  "42c36c7cb3084ac8038df5c946f0b4222e7b07499ee947c68c92adf52435936a",
+                      "size":  472019,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar"
                   },
                   {
                       "path":  "mods/spark-1.10.109-fabric.jar",
@@ -1199,34 +1217,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/SomeMoreBlocks%40fabric-1.21-1.1.5.jar"
                   },
                   {
-                      "path":  "mods/placeholder-api-2.4.2+1.21.jar",
-                      "sha256":  "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
-                      "size":  232325,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/placeholder-api-2.4.2%2B1.21.jar"
-                  },
-                  {
-                      "path":  "mods/noxesium-2.3.3.jar",
-                      "sha256":  "62e9407835ecf86b462eba23e9701d919978459d0ff576bd7116fd8a1d3b72e2",
-                      "size":  545182,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/noxesium-2.3.3.jar"
-                  },
-                  {
-                      "path":  "mods/moreculling-fabric-1.21.1-1.0.10.jar",
-                      "sha256":  "5f67531f1dc2259ac5f4dc49997d0e3623e8b3b8330f52eac4a6cc99949f9a9b",
-                      "size":  332266,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moreculling-fabric-1.21.1-1.0.10.jar"
-                  },
-                  {
-                      "path":  "mods/qtehtag-1.0.0.jar",
-                      "sha256":  "5ff734003a5bb56c57d0a8a55ad1d2924ab20b87002064cb0ff8e8f1d2b17ef4",
-                      "size":  41282,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.0.jar"
-                  },
-                  {
-                      "path":  "mods/resourcefullib-fabric-1.21-3.0.12.jar",
-                      "sha256":  "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
-                      "size":  485586,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/resourcefullib-fabric-1.21-3.0.12.jar"
+                      "path":  "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+                      "sha256":  "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
+                      "size":  1574609,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
                   },
                   {
                       "path":  "mods/ReFramed-1.6.6.jar",
@@ -1235,28 +1229,52 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ReFramed-1.6.6.jar"
                   },
                   {
+                      "path":  "mods/moreculling-fabric-1.21.1-1.0.10.jar",
+                      "sha256":  "5f67531f1dc2259ac5f4dc49997d0e3623e8b3b8330f52eac4a6cc99949f9a9b",
+                      "size":  332266,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moreculling-fabric-1.21.1-1.0.10.jar"
+                  },
+                  {
+                      "path":  "mods/moonlight-1.21.1-3.7.0-fabric.jar",
+                      "sha256":  "e8ce4bc15274b7b3797cfd4a87a8a8ac5e1b9bfaea0db8bd5ceb0c644af4c114",
+                      "size":  2324955,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moonlight-1.21.1-3.7.0-fabric.jar"
+                  },
+                  {
+                      "path":  "mods/modmenu-11.0.3.jar",
+                      "sha256":  "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
+                      "size":  973066,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/modmenu-11.0.3.jar"
+                  },
+                  {
+                      "path":  "mods/noxesium-2.3.3.jar",
+                      "sha256":  "62e9407835ecf86b462eba23e9701d919978459d0ff576bd7116fd8a1d3b72e2",
+                      "size":  545182,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/noxesium-2.3.3.jar"
+                  },
+                  {
                       "path":  "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
                       "sha256":  "97dafa514cbecf3a32616209c7286a49673a108d84413493abc84fd5808c3c10",
                       "size":  257229,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "config/tiny-terrors/state.json",
-                      "sha256":  "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e",
-                      "size":  21,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/state.json"
+                      "path":  "mods/qtehtag-1.0.0.jar",
+                      "sha256":  "5ff734003a5bb56c57d0a8a55ad1d2924ab20b87002064cb0ff8e8f1d2b17ef4",
+                      "size":  41282,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.0.jar"
                   },
                   {
-                      "path":  "config/tiny-terrors/main.json",
-                      "sha256":  "2c1cc79172cca1087855cfae9bf77bd02f899dc926adf347f86a1d186059abec",
-                      "size":  1127,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/main.json"
+                      "path":  "mods/placeholder-api-2.4.2+1.21.jar",
+                      "sha256":  "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+                      "size":  232325,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/placeholder-api-2.4.2%2B1.21.jar"
                   },
                   {
-                      "path":  "config/spark/tmp-client/about.txt",
-                      "sha256":  "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
-                      "size":  585,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/tmp-client/about.txt"
+                      "path":  "mods/Almanac-1.21.1-2-fabric-1.5.2.jar",
+                      "sha256":  "fe375dc91dc9d10071090b989f7296dbddc968feb7bb24cf3b92ef2aed217d93",
+                      "size":  1039789,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Almanac-1.21.1-2-fabric-1.5.2.jar"
                   },
                   {
                       "path":  "mods/67-Entity-Fabric-1.21.1-v1.1.0.jar",
@@ -1265,10 +1283,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/67-Entity-Fabric-1.21.1-v1.1.0.jar"
                   },
                   {
-                      "path":  "mods/architectury-13.0.11-fabric.jar",
-                      "sha256":  "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd",
-                      "size":  600921,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/architectury-13.0.11-fabric.jar"
+                      "path":  "config/tiny-terrors/state.json",
+                      "sha256":  "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e",
+                      "size":  21,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/state.json"
                   },
                   {
                       "path":  "mods/another_furniture-fabric-4.0.2.jar",
@@ -1277,10 +1295,34 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/another_furniture-fabric-4.0.2.jar"
                   },
                   {
-                      "path":  "mods/Almanac-1.21.1-2-fabric-1.5.2.jar",
-                      "sha256":  "fe375dc91dc9d10071090b989f7296dbddc968feb7bb24cf3b92ef2aed217d93",
-                      "size":  1039789,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Almanac-1.21.1-2-fabric-1.5.2.jar"
+                      "path":  "mods/athena-fabric-1.21.1-4.0.6.jar",
+                      "sha256":  "e17aad84c690ac4e46300a4180b3ae4077ffa4f526dbc82d117afbbff4ee83e4",
+                      "size":  88425,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/athena-fabric-1.21.1-4.0.6.jar"
+                  },
+                  {
+                      "path":  "mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar",
+                      "sha256":  "a5827c73af46e9212f814fd10c230e87b95bbcc254c80a92a1a2e73aa4789085",
+                      "size":  1279192,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/AsyncParticles-3.4.0-beta.1%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/architectury-13.0.11-fabric.jar",
+                      "sha256":  "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd",
+                      "size":  600921,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/architectury-13.0.11-fabric.jar"
+                  },
+                  {
+                      "path":  "config/tiny-terrors/main.json",
+                      "sha256":  "2c1cc79172cca1087855cfae9bf77bd02f899dc926adf347f86a1d186059abec",
+                      "size":  1127,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/main.json"
+                  },
+                  {
+                      "path":  "config/mancoroleplay/config.properties",
+                      "sha256":  "9b341d179077183b6ba05114d0206b1e6079588f54d2280f399bc6bba04edd62",
+                      "size":  765,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/mancoroleplay/config.properties"
                   },
                   {
                       "path":  "config/hallogeey_deaths/players.json",
@@ -1295,16 +1337,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeey_deaths/config.json"
                   },
                   {
-                      "path":  "config/hallogeeymobs/config.json",
-                      "sha256":  "7c7e06373a6c28aabc18bee8ebce1e4478e156cbd3626ff6a00c60ea22238a69",
-                      "size":  626,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/config.json"
+                      "path":  "config/spark/activity.json",
+                      "sha256":  "80d930de9e8004d83c25daee540a5140c0e99141232bdd7a7ba015d8549f3f34",
+                      "size":  574,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/activity.json"
                   },
                   {
-                      "path":  "config/mancoroleplay/config.properties",
-                      "sha256":  "9b341d179077183b6ba05114d0206b1e6079588f54d2280f399bc6bba04edd62",
-                      "size":  765,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/mancoroleplay/config.properties"
+                      "path":  "config/spark/tmp-client/about.txt",
+                      "sha256":  "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
+                      "size":  585,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/tmp-client/about.txt"
                   },
                   {
                       "path":  "config/spark/tmp/about.txt",
@@ -1319,16 +1361,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/config.json"
                   },
                   {
-                      "path":  "config/spark/activity.json",
-                      "sha256":  "80d930de9e8004d83c25daee540a5140c0e99141232bdd7a7ba015d8549f3f34",
-                      "size":  574,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/activity.json"
+                      "path":  "mods/enhancedblockentities-0.10.2+1.21.jar",
+                      "sha256":  "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
+                      "size":  201157,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/enhancedblockentities-0.10.2%2B1.21.jar"
                   },
                   {
-                      "path":  "mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar",
-                      "sha256":  "a5827c73af46e9212f814fd10c230e87b95bbcc254c80a92a1a2e73aa4789085",
-                      "size":  1279192,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/AsyncParticles-3.4.0-beta.1%2B1.21.1.jar"
+                      "path":  "mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
+                      "sha256":  "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
+                      "size":  276120,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
                   },
                   {
                       "path":  "mods/customskyboxes-mc1.21.1-1.0.3.1.jar",
@@ -1337,22 +1379,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyboxes-mc1.21.1-1.0.3.1.jar"
                   },
                   {
-                      "path":  "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
-                      "sha256":  "d6544dfc5b04809a7cc83e2eb71e463bb7be2846a3207a5f0627b47653046a94",
-                      "size":  2845602,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar"
-                  },
-                  {
-                      "path":  "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar",
-                      "sha256":  "b40f5a9e88789444d223c715853ae24c379cb7e13f26e84143ba6c6f8667f5a0",
-                      "size":  13042156,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar"
-                  },
-                  {
-                      "path":  "mods/enhancedblockentities-0.10.2+1.21.jar",
-                      "sha256":  "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
-                      "size":  201157,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/enhancedblockentities-0.10.2%2B1.21.jar"
+                      "path":  "mods/entityculling-fabric-1.9.5-mc1.21.1.jar",
+                      "sha256":  "93d31151ffab504a7d7568ad7d6df6607ed5fa3d183afc961ead9d2d4c7accb8",
+                      "size":  1560675,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
                   },
                   {
                       "path":  "mods/fastquit-3.0.0+1.20.6.jar",
@@ -1361,16 +1391,28 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fastquit-3.0.0%2B1.20.6.jar"
                   },
                   {
+                      "path":  "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+                      "sha256":  "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
+                      "size":  26277804,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar"
+                  },
+                  {
                       "path":  "mods/fabric-api-0.116.8+1.21.1.jar",
                       "sha256":  "78bae319e7fdc531e94ad3d885f2f35613fc126645a1cbb49e8456b90835491b",
                       "size":  2425441,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fabric-api-0.116.8%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/entityculling-fabric-1.9.5-mc1.21.1.jar",
-                      "sha256":  "93d31151ffab504a7d7568ad7d6df6607ed5fa3d183afc961ead9d2d4c7accb8",
-                      "size":  1560675,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
+                      "path":  "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+                      "sha256":  "d6544dfc5b04809a7cc83e2eb71e463bb7be2846a3207a5f0627b47653046a94",
+                      "size":  2845602,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar"
+                  },
+                  {
+                      "path":  "mods/casinogeey-1.0.1.jar",
+                      "sha256":  "3b497dc0afdacb97d92344e7755f21ea6c1f981d90ecf30547a981d67a663a86",
+                      "size":  1105972,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/casinogeey-1.0.1.jar"
                   },
                   {
                       "path":  "mods/bountifulblocks-1.21-0.9.6.jar",
@@ -1385,16 +1427,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/blockus-2.9.18%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/athena-fabric-1.21.1-4.0.6.jar",
-                      "sha256":  "e17aad84c690ac4e46300a4180b3ae4077ffa4f526dbc82d117afbbff4ee83e4",
-                      "size":  88425,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/athena-fabric-1.21.1-4.0.6.jar"
+                      "path":  "mods/chipped-fabric-1.21.1-4.0.2.jar",
+                      "sha256":  "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
+                      "size":  15016830,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/chipped-fabric-1.21.1-4.0.2.jar"
                   },
                   {
-                      "path":  "mods/casinogeey-1.0.1.jar",
-                      "sha256":  "e9632415dde731010ef4294e1c23c8066feed3e9a0ed7a34f988bb8da4542b59",
-                      "size":  1322922,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/casinogeey-1.0.1.jar"
+                      "path":  "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar",
+                      "sha256":  "b40f5a9e88789444d223c715853ae24c379cb7e13f26e84143ba6c6f8667f5a0",
+                      "size":  13042156,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar"
                   },
                   {
                       "path":  "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
@@ -1407,12 +1449,6 @@
                       "sha256":  "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
                       "size":  1157166,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/cloth-config-15.0.140-fabric.jar"
-                  },
-                  {
-                      "path":  "mods/chipped-fabric-1.21.1-4.0.2.jar",
-                      "sha256":  "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
-                      "size":  15016830,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/chipped-fabric-1.21.1-4.0.2.jar"
                   }
               ],
     "protected":  [

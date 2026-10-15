@@ -1,29 +1,4 @@
 {
-  "global": {
-    "day_sky": {
-      "vanilla": true,
-      "args": {}
-    },
-    "night_sky": {
-      "texture": "customskyboxes:night_sky/storm_electric.png",
-      "args": {}
-    },
-    "sun": {
-      "texture": "customskyboxes:sun/sun_golden.png",
-      "args": {}
-    },
-    "moon": {
-      "texture": "customskyboxes:moon/moon_violet.png",
-      "args": {}
-    },
-    "clouds": {
-      "texture": "customskyboxes:clouds/clouds_wisps.png",
-      "args": {}
-    },
-    "rain": {
-      "texture": "customskyboxes:rain/rain_ember.png",
-      "args": {}
-    }
-  },
+  "global": {},
   "biomes": {}
 }

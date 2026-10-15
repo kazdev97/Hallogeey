@@ -1,10 +1,10 @@
 {
   "rarity_base_weights": {
-    "common": 60.0,
-    "uncommon": 25.0,
-    "rare": 10.0,
-    "ultrarare": 4.0,
-    "legendary": 1.0
+    "common": 70.0,
+    "uncommon": 20.0,
+    "rare": 7.0,
+    "ultrarare": 2.5,
+    "legendary": 0.5
   },
   "coin_multipliers": {
     "copper": {
@@ -29,11 +29,11 @@
       "legendary": 0.95
     },
     "diamond": {
-      "common": 0.32,
-      "uncommon": 1.1,
-      "rare": 3.0,
-      "ultrarare": 3.2,
-      "legendary": 2.3
+      "common": 1.0,
+      "uncommon": 1.0,
+      "rare": 1.0,
+      "ultrarare": 1.0,
+      "legendary": 1.0
     }
   },
   "pity": {
@@ -48,8 +48,8 @@
       "maxLegendaryChance": 0.25
     },
     "diamond": {
-      "usesToMax": 25,
-      "maxLegendaryChance": 0.25
+      "usesToMax": 50,
+      "maxLegendaryChance": 1.0
     }
   },
   "premier_bonus": {

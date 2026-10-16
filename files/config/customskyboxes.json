@@ -1,12 +1,24 @@
 {
   "global": {
+    "sky": {
+      "texture": "customskyboxes:sky/vortex_violet.png",
+      "args": {}
+    },
     "day_sky": {
       "texture": "customskyboxes:day_sky/galaxy_rose.png",
-      "args": {}
+      "args": {
+        "anim_in": "iris_close_in",
+        "anim_in_time": "300",
+        "smooth_edges": "true"
+      }
     },
     "night_sky": {
       "texture": "customskyboxes:night_sky/vortex_ember.png",
-      "args": {}
+      "args": {
+        "anim_in": "iris_close_in",
+        "anim_in_time": "300",
+        "smooth_edges": "true"
+      }
     },
     "sun": {
       "texture": "customskyboxes:sun/sun_eclipse.png",

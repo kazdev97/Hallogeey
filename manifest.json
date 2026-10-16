@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "202610161792143296",
+    "revision":  "202610161792145811",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -24,7 +24,7 @@
                   },
                   {
                       "path":  "config/asyncparticles/asyncparticles-mixin.properties",
-                      "sha256":  "2a649cb0e4d186f8d07f82fa965e898bd25df549d205d022eef255b084b78703",
+                      "sha256":  "cd31be47e7994de69bdafd9e803cd57232e3a2d8d111505402b02e983f1467f9",
                       "size":  2090,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles-mixin.properties"
                   },
@@ -162,7 +162,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "838bdf883ea740feddeb848c6f91ef7b7c30e52559f0e199de1b51cc9e9a3d27",
+                      "sha256":  "1190af08ac743c14b17c92b45a42b5ecf7bf907b5104dc420d7eb9e9a0117169",
                       "size":  290,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fabric/indigo-renderer.properties"
                   },
@@ -402,7 +402,7 @@
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "6fbb1073207f9928fc99ca63dce6d0e6590eaf58608c68fd63045de7595826bf",
+                      "sha256":  "a392a8e25d8f881ea1040ddcccd1625aa88775de7fd3e15635a0baedf7359bb4",
                       "size":  315,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/iris.properties"
                   },
@@ -522,13 +522,13 @@
                   },
                   {
                       "path":  "config/scalablelux.properties",
-                      "sha256":  "a2a54443bbba61263b0d18aeb4882e7ca4e2b6d8e38c8c76920b389fdf764c19",
+                      "sha256":  "016d39ad8d91eee5fadf07efc2f3b7c5b944a04b385d8035262cacae7cef9ea2",
                       "size":  84,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/scalablelux.properties"
                   },
                   {
                       "path":  "config/sixtysevenentity.properties",
-                      "sha256":  "bf3612f843109a5812b74a2d0243528501d68544a5959fd1fac66f36849c14dd",
+                      "sha256":  "8779e23e36d9c5c6f8ae5be78b7ad62a3b95c6e96085fcf1cae19839c6d7561b",
                       "size":  419,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sixtysevenentity.properties"
                   },
@@ -627,6 +627,12 @@
                       "sha256":  "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e",
                       "size":  21,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/state.json"
+                  },
+                  {
+                      "path":  "config/too_many_entities.json",
+                      "sha256":  "17af3c052409bf958254f826e34ea65e9679a568744147a55e6feccf41b3a2c4",
+                      "size":  259,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/too_many_entities.json"
                   },
                   {
                       "path":  "config/transition.json",
@@ -935,10 +941,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/resourcefullib-fabric-1.21-3.0.12.jar"
                   },
                   {
-                      "path":  "mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.7.jar",
-                      "sha256":  "92a3c537fec1c46286aed24ac59e3ba6f06108cff7d2fd11bca6421ef69198d2",
-                      "size":  269134,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.7.jar"
+                      "path":  "mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.8.jar",
+                      "sha256":  "45213cdb292bb3462fcb366691f8260b7575a0d620224dcabc07b60978aa0643",
+                      "size":  271882,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.8.jar"
                   },
                   {
                       "path":  "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
@@ -963,12 +969,6 @@
                       "sha256":  "07391709efee9b03de33eadda63bb68b118ec30212cd5edd03349a0ab2017a5f",
                       "size":  3206735,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/SomeMoreBlocks%40fabric-1.21-1.1.5.jar"
-                  },
-                  {
-                      "path":  "mods/spark-1.10.109-fabric.jar",
-                      "sha256":  "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
-                      "size":  3609981,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/spark-1.10.109-fabric.jar"
                   },
                   {
                       "path":  "mods/supplementaries-1.21.1-3.9.9-fabric.jar",

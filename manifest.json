@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "202610151792099312",
+    "revision":  "202610161792116291",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -119,10 +119,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
                   },
                   {
-                      "path":  "mods/customskyHG-1.0.4.jar",
-                      "sha256":  "9a9d0ddb9e472520e4f498b9e8d316c5c2f15d3121cadfb0b696d1b5142e575b",
-                      "size":  82852149,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyHG-1.0.4.jar"
+                      "path":  "mods/customskyHG-1.0.5.jar",
+                      "sha256":  "ba92b0ac6d495768b1b731171f1b048b7141aae388719766cbe2bb7173cff939",
+                      "size":  82856405,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyHG-1.0.5.jar"
                   },
                   {
                       "path":  "config/konkrete/locals/en_us.local",
@@ -293,10 +293,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/qtehtag-1.0.1.jar",
-                      "sha256":  "856599ff7d2041929230cce9ae582092d8f71ff26dec8ebd3284ee2de4b1818b",
-                      "size":  62384,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.1.jar"
+                      "path":  "mods/qtehtag-1.0.2.jar",
+                      "sha256":  "ec732295dae9d691e50455cb11f06210e2919e83c5f5519a4e5b276a4b5c99d1",
+                      "size":  7837690,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.2.jar"
                   },
                   {
                       "path":  "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
@@ -384,8 +384,8 @@
                   },
                   {
                       "path":  "mods/hallogeeymobs-1.0.2.jar",
-                      "sha256":  "6994c692b0609aa36107a10758a74b6f4e9ec79ede1303cee2361844d511960d",
-                      "size":  2011067,
+                      "sha256":  "858456b66e3772fbc4aae888eb3fa19b70784f3712f9be30f2ce69eaed59f9db",
+                      "size":  10057394,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.2.jar"
                   },
                   {

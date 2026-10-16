@@ -1,4 +1,25 @@
 {
-  "global": {},
+  "global": {
+    "day_sky": {
+      "texture": "customskyboxes:day_sky/galaxy_rose.png",
+      "args": {}
+    },
+    "night_sky": {
+      "texture": "customskyboxes:night_sky/vortex_ember.png",
+      "args": {}
+    },
+    "sun": {
+      "texture": "customskyboxes:sun/sun_eclipse.png",
+      "args": {}
+    },
+    "moon": {
+      "texture": "customskyboxes:moon/moon_silver.png",
+      "args": {}
+    },
+    "clouds": {
+      "texture": "customskyboxes:clouds/clouds_wisps.png",
+      "args": {}
+    }
+  },
   "biomes": {}
 }

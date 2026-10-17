@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101772156289",
+    "revision":  "2026101772558865",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -513,7 +513,7 @@
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "619428c456e805a26ec01207e9a65c64d04ecf900fabb043f0c7069dee4d2b87",
+                      "sha256":  "9d463c6bc6e580b1adbe2aef251e2c4abb1757090c4ae4746e731a5187a4b518",
                       "size":  315,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/iris.properties"
                   },
@@ -597,13 +597,13 @@
                   },
                   {
                       "path":  "config/scalablelux.properties",
-                      "sha256":  "a964be14bbbb99c86d2cfaa798876bbef8aa7726445953ac6a2565a5187b94f8",
+                      "sha256":  "36e0adace4b4d8207c334ec48e469e8411ebd71e8f2ab2f29f7678e9813c7297",
                       "size":  84,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/scalablelux.properties"
                   },
                   {
                       "path":  "config/sixtysevenentity.properties",
-                      "sha256":  "f44408cc8209c962f64fc56a99f2495d52e880f4884e09686d83b7e95fddc438",
+                      "sha256":  "df6d64063faa5b6829a0b74f541597220e8c380738dd59fbe179b665402c902e",
                       "size":  419,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sixtysevenentity.properties"
                   },
@@ -711,7 +711,7 @@
                   },
                   {
                       "path":  "config/asyncparticles/asyncparticles-mixin.properties",
-                      "sha256":  "cf87e8ea4b718e6fb6130eafb829633fe44574756cb6ad01804b7b8c8cf7357c",
+                      "sha256":  "8bed4020f5fcd800186a41c9f9dc1f277e010e6122b73259aba94a021b2bacab",
                       "size":  2090,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles-mixin.properties"
                   },
@@ -789,7 +789,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "6a4d8541d0d80fd6eefe3adbca447ae095c90745d7881e3b590268d3053f5b08",
+                      "sha256":  "755d3a7a0903a79834c0acc09e625ca77c395e3a8175743d67f0ef7b4d77b18f",
                       "size":  290,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fabric/indigo-renderer.properties"
                   },
@@ -1094,6 +1094,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/HalloGeey_TexturePack.zip"
                   }
               ],
-    "protected":  null,
-    "managed":  null
+    "protected":  [
+
+                  ],
+    "managed":  [
+
+                ]
 }

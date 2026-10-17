@@ -17,7 +17,8 @@
     "osito_turquesa": false,
     "osito_verde": false,
     "ositos": false,
-    "ositoblanco": false
+    "ositoblanco": false,
+    "hollowsteve": true
   },
   "dailyColoredBananaLimit": true,
   "autoGiveBananaOnJoin": false,

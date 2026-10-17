@@ -3,5 +3,13 @@
   "editorRecentProjects": [],
   "titleScreenButton": true,
   "serverSettings": {},
-  "keybinds": {}
+  "keybinds": {},
+  "globalSettings": {
+    "animatedTex": true,
+    "models": true,
+    "maxLink": 262144,
+    "safetyProfile": "off",
+    "maxCubeCount": 2147483647,
+    "maxTex": 8192
+  }
 }

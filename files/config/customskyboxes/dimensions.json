@@ -1,0 +1,19 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "preset": "galaxy",
+      "fadeTicks": 40
+    },
+    "minecraft:the_nether": {
+      "preset": "inferno",
+      "fadeTicks": 40
+    },
+    "minecraft:the_end": {
+      "preset": "void_rift",
+      "fadeTicks": 40
+    }
+  },
+  "defaultPreset": "clear_vanilla",
+  "clearUnconfigured": true,
+  "defaultFadeTicks": 40
+}

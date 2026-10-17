@@ -1,0 +1,297 @@
+{
+  "spinTicks": 140,
+  "maxBonusHearts": 20,
+  "heartHealth": 2.0,
+  "categories": {
+    "basura": {
+      "display": "Basura",
+      "enabled": true
+    },
+    "experiencia": {
+      "display": "Frascos de experiencia",
+      "enabled": true
+    },
+    "minerales": {
+      "display": "Minerales",
+      "enabled": true
+    },
+    "raros": {
+      "display": "Premios raros",
+      "enabled": true
+    },
+    "totems": {
+      "display": "Totems",
+      "enabled": true
+    },
+    "hallogeey": {
+      "display": "Totems de Hallogeey",
+      "enabled": true
+    },
+    "corazoncito": {
+      "display": "Corazoncito",
+      "enabled": true
+    }
+  },
+  "prizes": [
+    {
+      "category": "basura",
+      "item": "minecraft:rotten_flesh",
+      "count": 1,
+      "weight": 9000,
+      "symbol": "candy",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "basura",
+      "item": "minecraft:bone",
+      "count": 1,
+      "weight": 8000,
+      "symbol": "cobweb",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "basura",
+      "item": "minecraft:string",
+      "count": 1,
+      "weight": 7000,
+      "symbol": "cauldron",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "basura",
+      "item": "minecraft:stick",
+      "count": 1,
+      "weight": 6000,
+      "symbol": "bat",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "basura",
+      "item": "minecraft:dirt",
+      "count": 4,
+      "weight": 7000,
+      "symbol": "candy",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "basura",
+      "item": "minecraft:gravel",
+      "count": 4,
+      "weight": 6000,
+      "symbol": "cobweb",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "basura",
+      "item": "minecraft:flint",
+      "count": 1,
+      "weight": 4000,
+      "symbol": "cauldron",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "basura",
+      "item": "minecraft:spider_eye",
+      "count": 1,
+      "weight": 3000,
+      "symbol": "bat",
+      "matches": 0,
+      "power": 0,
+      "enabled": true
+    },
+    {
+      "category": "experiencia",
+      "item": "minecraft:experience_bottle",
+      "count": 1,
+      "weight": 12000,
+      "symbol": "ghost",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "experiencia",
+      "item": "minecraft:experience_bottle",
+      "count": 3,
+      "weight": 5000,
+      "symbol": "ghost",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "experiencia",
+      "item": "minecraft:experience_bottle",
+      "count": 5,
+      "weight": 3000,
+      "symbol": "ghost",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:coal",
+      "count": 4,
+      "weight": 5000,
+      "symbol": "witch_hat",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:copper_ingot",
+      "count": 4,
+      "weight": 4000,
+      "symbol": "witch_hat",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:raw_iron",
+      "count": 3,
+      "weight": 5000,
+      "symbol": "pumpkin",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:raw_gold",
+      "count": 2,
+      "weight": 3500,
+      "symbol": "pumpkin",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:redstone",
+      "count": 6,
+      "weight": 3500,
+      "symbol": "witch_hat",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:lapis_lazuli",
+      "count": 6,
+      "weight": 3000,
+      "symbol": "pumpkin",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:amethyst_shard",
+      "count": 3,
+      "weight": 2080,
+      "symbol": "ghost",
+      "matches": 2,
+      "power": 9,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:diamond",
+      "count": 1,
+      "weight": 1500,
+      "symbol": "skull",
+      "matches": 3,
+      "power": 12,
+      "enabled": true
+    },
+    {
+      "category": "minerales",
+      "item": "minecraft:emerald",
+      "count": 1,
+      "weight": 1000,
+      "symbol": "skull",
+      "matches": 3,
+      "power": 12,
+      "enabled": true
+    },
+    {
+      "category": "raros",
+      "item": "minecraft:golden_apple",
+      "count": 1,
+      "weight": 300,
+      "symbol": "skull",
+      "matches": 3,
+      "power": 12,
+      "enabled": true
+    },
+    {
+      "category": "raros",
+      "item": "minecraft:diamond",
+      "count": 3,
+      "weight": 200,
+      "symbol": "skull",
+      "matches": 3,
+      "power": 12,
+      "enabled": true
+    },
+    {
+      "category": "totems",
+      "item": "minecraft:totem_of_undying",
+      "count": 1,
+      "weight": 800,
+      "symbol": "skull",
+      "matches": 3,
+      "power": 12,
+      "enabled": true
+    },
+    {
+      "category": "hallogeey",
+      "item": "hallogeeymobs:banana_totem",
+      "count": 1,
+      "weight": 60,
+      "symbol": "face",
+      "matches": 3,
+      "power": 15,
+      "enabled": true
+    },
+    {
+      "category": "hallogeey",
+      "item": "hallogeeymobs:totem_calabaza",
+      "count": 1,
+      "weight": 40,
+      "symbol": "pumpkin",
+      "matches": 3,
+      "power": 15,
+      "enabled": true
+    },
+    {
+      "category": "corazoncito",
+      "item": "jackpot:corazoncito",
+      "count": 1,
+      "weight": 20,
+      "symbol": "rainbow_heart",
+      "matches": 3,
+      "power": 15,
+      "enabled": true
+    }
+  ]
+}

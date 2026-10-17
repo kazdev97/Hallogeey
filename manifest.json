@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101766273572",
+    "revision":  "2026101772156289",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -164,6 +164,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.4.jar"
                   },
                   {
+                      "path":  "mods/hallogeeymobs-1.0.5.jar",
+                      "sha256":  "50bb6099eea581ff68672894611f304d570c785e9f74dd2bb773c53966b196fa",
+                      "size":  10557880,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.5.jar"
+                  },
+                  {
                       "path":  "mods/hallogey_ruleta-1.0.1.jar",
                       "sha256":  "a282e027314cfd9c423bcaa004ea64ab07e42e0052c3ead4873a6f160010b37a",
                       "size":  22994409,
@@ -186,12 +192,6 @@
                       "sha256":  "e697edc0d1bf565d34efce7c55a5518b2a6d44af60311cdd13434286aa626c35",
                       "size":  636823,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Ixeris-3.8.6%2B1.21.1-fabric.jar"
-                  },
-                  {
-                      "path":  "mods/jackpot-1.0.0.jar",
-                      "sha256":  "8c6b6aef7dcdaaf65105f7992640f74f8978fae30e023a776b819825c21da53d",
-                      "size":  229792,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/jackpot-1.0.0.jar"
                   },
                   {
                       "path":  "mods/journeymap-fabric-1.21.1-6.0.9.jar",
@@ -252,12 +252,6 @@
                       "sha256":  "5f67531f1dc2259ac5f4dc49997d0e3623e8b3b8330f52eac4a6cc99949f9a9b",
                       "size":  332266,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moreculling-fabric-1.21.1-1.0.10.jar"
-                  },
-                  {
-                      "path":  "mods/Multiworld-Fabric-bundle.jar",
-                      "sha256":  "841099cd55fab702e61597cfe2445d1ed50453e436848982e61e9864da2b63e7",
-                      "size":  1009076,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Multiworld-Fabric-bundle.jar"
                   },
                   {
                       "path":  "mods/noxesium-2.3.3.jar",
@@ -350,10 +344,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Too%20Many%20Entities%201.21.1%20Fabric%20v1.2.0.jar"
                   },
                   {
-                      "path":  "mods/tragamonedas-1.0.0.jar",
-                      "sha256":  "f31268b4fdd97001dbf93b907b952162c297d27dcde329dee57c9ad4b7c0ebe6",
-                      "size":  107229,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tragamonedas-1.0.0.jar"
+                      "path":  "mods/tragamonedas-1.1.1.jar",
+                      "sha256":  "525b1aeaeb997cea8a8d1fbd68abb2d4922c499a03b76e49a6021aec01860b5e",
+                      "size":  95043,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tragamonedas-1.1.1.jar"
                   },
                   {
                       "path":  "mods/vanillin-fabric-1.21.1-1.1.3.jar",
@@ -374,10 +368,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar.disabled"
                   },
                   {
-                      "path":  "mods/worldedit-mod-7.3.8.jar",
+                      "path":  "mods/worldedit-mod-7.3.8.jar.disabled",
                       "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
                       "size":  6222854,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/worldedit-mod-7.3.8.jar"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/worldedit-mod-7.3.8.jar.disabled"
                   },
                   {
                       "path":  "config/almanac-nbtFix.json5",

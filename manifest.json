@@ -1,669 +1,12 @@
 {
     "format":  "pau-manifest",
-    "revision":  "202610161792147741",
+    "revision":  "2026101766273572",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
     "loader_version":  "0.19.5",
-    "server_version":  "",
     "archive_url":  "",
-    "ram_min_mb":  512,
-    "ram_max_mb":  6016,
     "files":  [
-                  {
-                      "path":  "config/almanac-nbtFix.json5",
-                      "sha256":  "c5c31e999c8252566f58c4d36b716a9fb674cd88021b3ffe9996c7e77d2b4c44",
-                      "size":  563,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/almanac-nbtFix.json5"
-                  },
-                  {
-                      "path":  "config/asyncparticles/asyncparticles.json",
-                      "sha256":  "41f545eee4ca7f27416505f58c564dfd9060a4e8bb00ea016760066c24334fa6",
-                      "size":  1421,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles.json"
-                  },
-                  {
-                      "path":  "config/asyncparticles/asyncparticles-mixin.properties",
-                      "sha256":  "7750ffa2a595c97e8474c187e6f1d0b51d19ddb35e8ad53b7daf855c1f8c4aa9",
-                      "size":  2090,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles-mixin.properties"
-                  },
-                  {
-                      "path":  "config/BBEConfig.json",
-                      "sha256":  "2b9dc819b59eb8e9c89117de09b1370159817855ab2ba290a83ad42ddbbce862",
-                      "size":  1482,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/BBEConfig.json"
-                  },
-                  {
-                      "path":  "config/betterblockentities.json",
-                      "sha256":  "fe9edebd49a434b2be707523377a1757b3bbdd0ebce357dbf61a8a39d4f12111",
-                      "size":  416,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/betterblockentities.json"
-                  },
-                  {
-                      "path":  "config/c2me.toml",
-                      "sha256":  "11e17ed7843f81b9015d23acda2b9558ad4d730f7fc537f27dfec50c91c800e7",
-                      "size":  9355,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/c2me.toml"
-                  },
-                  {
-                      "path":  "config/casinogeey/gachapon/item_gachapon.json",
-                      "sha256":  "8dd874069df7b93b9725510394bd482a89f8b1a16e32a760b78be84cdfcc6f7a",
-                      "size":  884,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/item_gachapon.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/gachapon/plushies_gachapon.json",
-                      "sha256":  "2960cc2d146a1a2af2f837e501f7c3dd47efa77f1512553f7b864f05f5750740",
-                      "size":  73,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/plushies_gachapon.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/gachapon/spooky_gachapon.json",
-                      "sha256":  "ec0928d33b83da74123b610125032b7fe2c4e79ccf2e30c841c0ad1945143d0c",
-                      "size":  4806,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/spooky_gachapon.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/general_config.json",
-                      "sha256":  "d9146299708b33c959d0a325b5f31583caf792dd25f8a78ed18e63a65ebb7567",
-                      "size":  1000,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/general_config.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/machines/gacha_machines.json",
-                      "sha256":  "ebc23034a51e9cdfa0c55dd2712ed402210d17787a0853a67da672b7cbe3fce5",
-                      "size":  1884,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/machines/gacha_machines.json"
-                  },
-                  {
-                      "path":  "config/casinogeey/machines/slot_machine.json",
-                      "sha256":  "6955acce4871ad9516b2a5a30dd53c953856a6fd939907662ae90b79585164ed",
-                      "size":  1195,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/machines/slot_machine.json"
-                  },
-                  {
-                      "path":  "config/cpm.json",
-                      "sha256":  "7bbe5869b77f0487dc9363fa74d1cbfddedb9555f6a6fedbef4d7ecaa48cc956",
-                      "size":  137,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/cpm.json"
-                  },
-                  {
-                      "path":  "config/cubes-without-borders.json",
-                      "sha256":  "64163d08d7addf3d4b44e632db04a4715a02469419ae3ff1677956ee349ebd01",
-                      "size":  210,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/cubes-without-borders.json"
-                  },
-                  {
-                      "path":  "config/cull-fewer-leaves.toml",
-                      "sha256":  "f8479e000aa86e779a17a808ae8a4a05df2d25b764bfc50ce6f804c9cf0caec2",
-                      "size":  593,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/cull-fewer-leaves.toml"
-                  },
-                  {
-                      "path":  "config/CustomNpcs.cfg",
-                      "sha256":  "0ee26e1e647f26f3864f47d4e8a8b8a5baf01db73e63cd5497c25dd37aa83702",
-                      "size":  1924,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/CustomNpcs.cfg"
-                  },
-                  {
-                      "path":  "config/customskyboxes.json",
-                      "sha256":  "3a03289369a290d6f0573357cd8c31823bfadb270ac5db00aac673aaf4dbf40f",
-                      "size":  830,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes.json"
-                  },
-                  {
-                      "path":  "config/customskyboxes/events.json",
-                      "sha256":  "0ad5b8962ea05c63b6d256f79848f6a9efcf37d4af53de77e937d298ed7c6bd9",
-                      "size":  33,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes/events.json"
-                  },
-                  {
-                      "path":  "config/customskyboxes/scripts.json",
-                      "sha256":  "985157b7423fd55e1ad4013b6e73cb81a3b2d5b213650ba550230a615561d9e2",
-                      "size":  664,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes/scripts.json"
-                  },
-                  {
-                      "path":  "config/drippyloadingscreen/options.txt",
-                      "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
-                      "size":  2465,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/drippyloadingscreen/options.txt"
-                  },
-                  {
-                      "path":  "config/dynamic_fps.json",
-                      "sha256":  "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
-                      "size":  3,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/dynamic_fps.json"
-                  },
-                  {
-                      "path":  "config/emotecraft.json",
-                      "sha256":  "8cfb42df2afa3b8aed623ab5ad0310181693831f55f092ebcef87b299ccc03e6",
-                      "size":  668,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/emotecraft.json"
-                  },
-                  {
-                      "path":  "config/emotecraft_emote_map.json",
-                      "sha256":  "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775",
-                      "size":  117,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/emotecraft_emote_map.json"
-                  },
-                  {
-                      "path":  "config/enhanced_bes.properties",
-                      "sha256":  "685e1bfb458b2bcbcb43310be5a92993a0073fdf8221705748b1e466b684b28b",
-                      "size":  532,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/enhanced_bes.properties"
-                  },
-                  {
-                      "path":  "config/entityculling.json",
-                      "sha256":  "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
-                      "size":  1897,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/entityculling.json"
-                  },
-                  {
-                      "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "3e691d6c7ed9cdf6219e498102c2bedee72ebe7f4115f2923d6ed33e66e983d6",
-                      "size":  290,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fabric/indigo-renderer.properties"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/arcoiris_button1.png",
-                      "sha256":  "a1a8a9074079ca1ceacbf6ddf8d31ec4a2794e81f2f1d35acb02636a28754d53",
-                      "size":  5929,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/arcoiris_button1.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/arcoiris_button1_hover.png",
-                      "sha256":  "80f9ec47aca4627e3186f6f8f8a750c88f7e33cd7ce3b54d07c593065c214c1a",
-                      "size":  5910,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/arcoiris_button1_hover.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/ata.png",
-                      "sha256":  "357f9e3c6461bc21bad4b4315119813318b4a1e0f5173d023b0dbe5888e32c50",
-                      "size":  279378,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/ata.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/ata_hover.png",
-                      "sha256":  "ac32d608f301425c01af560005c43d865138abbc7c4d1d8da4f255401f0995ee",
-                      "size":  271796,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/ata_hover.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/cabalaza3.gif",
-                      "sha256":  "867b92901d8ba0db1cbeeb4b4e9939356946e00c0f536346a8e392fee87ba4ca",
-                      "size":  54687,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/cabalaza3.gif"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/nexus.png",
-                      "sha256":  "58d59b66c70dab73180e9487d865325c6e76e90b20bdfc60904535b92cb49da8",
-                      "size":  2066781,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/nexus.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/nexus_hover.png",
-                      "sha256":  "93155979ed7c9859b9f48c27c00d822db633cfa2e581f23dec2df63ce8fcbd98",
-                      "size":  2293844,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/nexus_hover.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/spider_button.png",
-                      "sha256":  "72989a337ef243d653192a3d7eb32476da62c28b90654533b11985ee2e1fb4eb",
-                      "size":  3996,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/spider_button.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/spider_button_hover.png",
-                      "sha256":  "c70febe3beb0ab0285b0bcd7f5bc10b738c84a9db55bc8e950a70a5243290268",
-                      "size":  3877,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/spider_button_hover.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/assets/titulo.png",
-                      "sha256":  "b3873debb9cdce83499da84e7712af1f6dd22067dd11fee89821c164db9a7e59",
-                      "size":  300044,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/titulo.png"
-                  },
-                  {
-                      "path":  "config/fancymenu/custom_gui_screens.txt",
-                      "sha256":  "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
-                      "size":  51,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/custom_gui_screens.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/customizablemenus.txt",
-                      "sha256":  "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1",
-                      "size":  128,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customizablemenus.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-                      "sha256":  "eb678261fc7a90b75035807257f194f4bd76434380ed1019ec9056420ea56366",
-                      "size":  20465,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "51bf254d52d93a07fa73821084fe0fd8581d03a103d6307ef99db85c48fe40a6",
-                      "size":  56434,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-                      "sha256":  "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
-                      "size":  197,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-                  },
-                  {
-                      "path":  "config/fancymenu/legacy_checklist.txt",
-                      "sha256":  "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
-                      "size":  42,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/legacy_checklist.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/options.txt",
-                      "sha256":  "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab",
-                      "size":  4400,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/options.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/cherry_blossom.json",
-                      "sha256":  "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
-                      "size":  9349,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/cherry_blossom.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/cozy_campfire.json",
-                      "sha256":  "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50",
-                      "size":  9347,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/cozy_campfire.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/dark.json",
-                      "sha256":  "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498",
-                      "size":  9329,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/dark.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/dark_high_contrast.json",
-                      "sha256":  "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26",
-                      "size":  9359,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/dark_high_contrast.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/light.json",
-                      "sha256":  "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153",
-                      "size":  9331,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/light.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/light_high_contrast.json",
-                      "sha256":  "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a",
-                      "size":  9361,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/light_high_contrast.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/pumpkin_soup.json",
-                      "sha256":  "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311",
-                      "size":  9345,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/pumpkin_soup.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/purple_void.json",
-                      "sha256":  "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
-                      "size":  9343,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/purple_void.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/ui_themes/spooky_season.json",
-                      "sha256":  "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
-                      "size":  9347,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/spooky_season.json"
-                  },
-                  {
-                      "path":  "config/fancymenu/user_variables.db",
-                      "sha256":  "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
-                      "size":  23,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/user_variables.db"
-                  },
-                  {
-                      "path":  "config/fastquit.toml",
-                      "sha256":  "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e",
-                      "size":  120,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fastquit.toml"
-                  },
-                  {
-                      "path":  "config/ferritecore.mixin.properties",
-                      "sha256":  "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818",
-                      "size":  1615,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/ferritecore.mixin.properties"
-                  },
-                  {
-                      "path":  "config/flywheel.json",
-                      "sha256":  "8d5385ce9f9af3458c877db2ee7bf73230202c24870dece6b7e97e344fb8dfc1",
-                      "size":  130,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/flywheel.json"
-                  },
-                  {
-                      "path":  "config/fpsdisplay.json",
-                      "sha256":  "38c8e806a556fb3290fbae04d07e386918dc253464875d60ad38be77df9103e7",
-                      "size":  199,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fpsdisplay.json"
-                  },
-                  {
-                      "path":  "config/hallogeey.json",
-                      "sha256":  "fdefc7ca5ca76bf42a75618441073f29e8924db2f1a78bd9cceab531e07a26e3",
-                      "size":  557,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeey.json"
-                  },
-                  {
-                      "path":  "config/hallogeey_deaths/config.json",
-                      "sha256":  "1cb297046fce05551a9c244786084594e30ef2f693256478e79ab7f0c6b14668",
-                      "size":  568,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeey_deaths/config.json"
-                  },
-                  {
-                      "path":  "config/hallogeey_deaths/players.json",
-                      "sha256":  "70af9685bcbc46467e1a3983554fa5ca5c93ad76061a841622d8d0b9a61add93",
-                      "size":  181,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeey_deaths/players.json"
-                  },
-                  {
-                      "path":  "config/hallogeeymobs/bananas.json",
-                      "sha256":  "849a24c84504d4754f6f292b779b5be191efa7e742f5e4d5bd31dd3c6c81b3bf",
-                      "size":  436,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/bananas.json"
-                  },
-                  {
-                      "path":  "config/hallogeeymobs/config.json",
-                      "sha256":  "ac43597363983680141d6df857784c428ff0c1e42f6bc39d5a40245a06a6f592",
-                      "size":  673,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/config.json"
-                  },
-                  {
-                      "path":  "config/halloteams.json",
-                      "sha256":  "ef0a6223a7f0b849ffecc16af755409acdf370e8d6927bcae001b28a55e7e333",
-                      "size":  272,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/halloteams.json"
-                  },
-                  {
-                      "path":  "config/halloteams-data.json",
-                      "sha256":  "d231dae81c7b39f81bf336e0d040441bd8e04442cdfe824d34f03086b1ea7b25",
-                      "size":  859,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/halloteams-data.json"
-                  },
-                  {
-                      "path":  "config/immediatelyfast.json",
-                      "sha256":  "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a",
-                      "size":  1114,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immediatelyfast.json"
-                  },
-                  {
-                      "path":  "config/iris.properties",
-                      "sha256":  "db7fe572debf881732123433382c6e540c6a07e618b839cba192064458864f49",
-                      "size":  315,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/iris.properties"
-                  },
-                  {
-                      "path":  "config/iris-excluded.json",
-                      "sha256":  "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
-                      "size":  31,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/iris-excluded.json"
-                  },
-                  {
-                      "path":  "config/ixeris.toml",
-                      "sha256":  "d430e5bf067dc9e90db187f6868dd4e5ca99d8a2ec4462fd3308ea8ea747245c",
-                      "size":  921,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/ixeris.toml"
-                  },
-                  {
-                      "path":  "config/journeymap-server.json",
-                      "sha256":  "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca",
-                      "size":  67,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/journeymap-server.json"
-                  },
-                  {
-                      "path":  "config/konkrete/locals/de_de.local",
-                      "sha256":  "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
-                      "size":  369,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/de_de.local"
-                  },
-                  {
-                      "path":  "config/konkrete/locals/en_us.local",
-                      "sha256":  "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
-                      "size":  426,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/en_us.local"
-                  },
-                  {
-                      "path":  "config/konkrete/locals/pl_pl.local",
-                      "sha256":  "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
-                      "size":  313,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/pl_pl.local"
-                  },
-                  {
-                      "path":  "config/konkrete/locals/pt_br.local",
-                      "sha256":  "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
-                      "size":  322,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/pt_br.local"
-                  },
-                  {
-                      "path":  "config/letmedespawn.json",
-                      "sha256":  "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e",
-                      "size":  72,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/letmedespawn.json"
-                  },
-                  {
-                      "path":  "config/lithium.properties",
-                      "sha256":  "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
-                      "size":  267,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lithium.properties"
-                  },
-                  {
-                      "path":  "config/lootr.json",
-                      "sha256":  "1ca66f443b353d4054fe4ac78c31628c7d51544f53d3fc52899dae970766fe06",
-                      "size":  2008,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lootr.json"
-                  },
-                  {
-                      "path":  "config/mancoroleplay/characters/4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f.json",
-                      "sha256":  "fc33b62a9ef4dd58ddb6367eb0d4b05301b6b072fb1f96a697bb69cc27bf6885",
-                      "size":  32944,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/mancoroleplay/characters/4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f.json"
-                  },
-                  {
-                      "path":  "config/mancoroleplay/config.properties",
-                      "sha256":  "9b341d179077183b6ba05114d0206b1e6079588f54d2280f399bc6bba04edd62",
-                      "size":  765,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/mancoroleplay/config.properties"
-                  },
-                  {
-                      "path":  "config/modernfix-mixins.properties",
-                      "sha256":  "5d638483a8b6ce35fcba87578edc963515b6d9d4aa3fa53191e43b9dfd2eabe5",
-                      "size":  4087,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/modernfix-mixins.properties"
-                  },
-                  {
-                      "path":  "config/modmenu.json",
-                      "sha256":  "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
-                      "size":  840,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/modmenu.json"
-                  },
-                  {
-                      "path":  "config/moonlight-client.json",
-                      "sha256":  "2e1fc3c9057e5279957ddae39140390c809fe1eef6c3c1585901ccbbaaad865b",
-                      "size":  459,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moonlight-client.json"
-                  },
-                  {
-                      "path":  "config/moonlight-common.json",
-                      "sha256":  "66b4381d7d2230f64c12f3a7109aa50e6a60af7974e52d0a546797bcd3efbfc8",
-                      "size":  215,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moonlight-common.json"
-                  },
-                  {
-                      "path":  "config/moreculling.toml",
-                      "sha256":  "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5",
-                      "size":  540,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moreculling.toml"
-                  },
-                  {
-                      "path":  "config/noisium.json",
-                      "sha256":  "3b6acdbc5ce36d9a81fb2a889760b5eb9fd88683cb06e234eca92559ad151329",
-                      "size":  146,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/noisium.json"
-                  },
-                  {
-                      "path":  "config/rrp.properties",
-                      "sha256":  "e84bf6d424380048527ff841dccaa2016869d4ac11fa9ab40f45ec11b25dd667",
-                      "size":  148,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/rrp.properties"
-                  },
-                  {
-                      "path":  "config/scalablelux.properties",
-                      "sha256":  "2256187df07a6170f5ea1a139ec56ccda3fe292217b7f899aa207052248640f8",
-                      "size":  84,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/scalablelux.properties"
-                  },
-                  {
-                      "path":  "config/sixtysevenentity.properties",
-                      "sha256":  "e4ffa6c37dc743bdcbeb25f2b990c1d4a97c338203df46f3d12d6f829d8fd9fa",
-                      "size":  419,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sixtysevenentity.properties"
-                  },
-                  {
-                      "path":  "config/smoothboot.json",
-                      "sha256":  "0dc746fb3afca8b1f21e6fead005760d25e2c73dc006c9cb932364dd2b5d86ea",
-                      "size":  198,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/smoothboot.json"
-                  },
-                  {
-                      "path":  "config/sodium-extra.properties",
-                      "sha256":  "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
-                      "size":  360,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra.properties"
-                  },
-                  {
-                      "path":  "config/sodium-extra-options.json",
-                      "sha256":  "35e8c39fcc878887964a2c74596455e09a017ecf5ec48df1dbad0f1827564d03",
-                      "size":  6444,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra-options.json"
-                  },
-                  {
-                      "path":  "config/sodium-fingerprint.json",
-                      "sha256":  "4ae4e2c75436ce25e8034f512abf8703a072ba842b9ef235d2d812436cbf6d03",
-                      "size":  427,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-fingerprint.json"
-                  },
-                  {
-                      "path":  "config/sodium-mixins.properties",
-                      "sha256":  "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
-                      "size":  258,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-mixins.properties"
-                  },
-                  {
-                      "path":  "config/sodium-options.json",
-                      "sha256":  "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1",
-                      "size":  761,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-options.json"
-                  },
-                  {
-                      "path":  "config/spark/activity.json",
-                      "sha256":  "80d930de9e8004d83c25daee540a5140c0e99141232bdd7a7ba015d8549f3f34",
-                      "size":  574,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/activity.json"
-                  },
-                  {
-                      "path":  "config/spark/config.json",
-                      "sha256":  "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42",
-                      "size":  117,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/config.json"
-                  },
-                  {
-                      "path":  "config/spark/tmp/about.txt",
-                      "sha256":  "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
-                      "size":  585,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/tmp/about.txt"
-                  },
-                  {
-                      "path":  "config/spark/tmp-client/about.txt",
-                      "sha256":  "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
-                      "size":  585,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/tmp-client/about.txt"
-                  },
-                  {
-                      "path":  "config/supplementaries-client.json",
-                      "sha256":  "164c5aacaa72213246c38e45eef406bdc93fa8a26f3259260026c967e8f6c60e",
-                      "size":  3349,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-client.json"
-                  },
-                  {
-                      "path":  "config/supplementaries-common.json",
-                      "sha256":  "1a2c83737df2e965f6e67a059139517808a4488bfb864051ffaada7731eb27a6",
-                      "size":  11155,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-common.json"
-                  },
-                  {
-                      "path":  "config/threads.json",
-                      "sha256":  "4d5c6dee1c4f80494ec2f7b0d1632b60f8bfb86c465238dfbc65cd1d8dbd8544",
-                      "size":  165,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/threads.json"
-                  },
-                  {
-                      "path":  "config/threadtweak.json",
-                      "sha256":  "8e25c7d1b862b4f7106940f9f9df89210c6782b132d024bf6c25eabfeecb685a",
-                      "size":  177,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/threadtweak.json"
-                  },
-                  {
-                      "path":  "config/tiny-terrors/main.json",
-                      "sha256":  "2c1cc79172cca1087855cfae9bf77bd02f899dc926adf347f86a1d186059abec",
-                      "size":  1127,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/main.json"
-                  },
-                  {
-                      "path":  "config/tiny-terrors/state.json",
-                      "sha256":  "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e",
-                      "size":  21,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/state.json"
-                  },
-                  {
-                      "path":  "config/too_many_entities.json",
-                      "sha256":  "17af3c052409bf958254f826e34ea65e9679a568744147a55e6feccf41b3a2c4",
-                      "size":  259,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/too_many_entities.json"
-                  },
-                  {
-                      "path":  "config/transition.json",
-                      "sha256":  "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
-                      "size":  62,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/transition.json"
-                  },
-                  {
-                      "path":  "config/trender.json",
-                      "sha256":  "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
-                      "size":  47,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/trender.json"
-                  },
-                  {
-                      "path":  "config/vanillin.json",
-                      "sha256":  "737aeeca96aa5ccb3231fb0b17d04930d343131a6845bb5ad124afb78bed64b4",
-                      "size":  742,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/vanillin.json"
-                  },
-                  {
-                      "path":  "config/waterconfig.toml",
-                      "sha256":  "e5806ca350b26f9c299c7b75728f3f9c0664c286470daa027e4ce547097b90a5",
-                      "size":  677,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/waterconfig.toml"
-                  },
-                  {
-                      "path":  "config/watermedia.toml",
-                      "sha256":  "7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85",
-                      "size":  8017,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/watermedia.toml"
-                  },
                   {
                       "path":  "mods/67-Entity-Fabric-1.21.1-v1.1.0.jar",
                       "sha256":  "ef1584103d5ba630f0f8397643c3cb0171c31469cd2de70704139b9a265d7caa",
@@ -744,8 +87,8 @@
                   },
                   {
                       "path":  "mods/customskyHG-1.0.5.jar",
-                      "sha256":  "ba92b0ac6d495768b1b731171f1b048b7141aae388719766cbe2bb7173cff939",
-                      "size":  82856405,
+                      "sha256":  "75dcb035f865ec7d67a05b6cee69da563246c626f3d78a175efc7b23658fe94b",
+                      "size":  82872509,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyHG-1.0.5.jar"
                   },
                   {
@@ -755,16 +98,16 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
                   },
                   {
-                      "path":  "mods/emotecraft_fix_animate_texture-1.4.2.jar",
-                      "sha256":  "caa5b43378146d3805e57529ee0b2a24522b1da1055c223ab6f946af211d5df4",
-                      "size":  264790,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/emotecraft_fix_animate_texture-1.4.2.jar"
-                  },
-                  {
                       "path":  "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
                       "sha256":  "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c",
                       "size":  863362,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+                  },
+                  {
+                      "path":  "mods/emotecraft_fix_animate_texture-1.4.2.jar",
+                      "sha256":  "caa5b43378146d3805e57529ee0b2a24522b1da1055c223ab6f946af211d5df4",
+                      "size":  264790,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/emotecraft_fix_animate_texture-1.4.2.jar"
                   },
                   {
                       "path":  "mods/enhancedblockentities-0.10.2+1.21.jar",
@@ -809,21 +152,21 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fpsdisplay-4.2.1%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.4.jar",
-                      "sha256":  "987b5500fd23f563e364ba2914f04bec7b7454ac132e48536bebea01b1c53cd2",
-                      "size":  10084235,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.4.jar"
-                  },
-                  {
                       "path":  "mods/hallogeey-portals-1.0.0.jar",
                       "sha256":  "4373d14cec9b94b859433435f7db428b6f350de654547e7f2b2df49673f524cd",
                       "size":  38346,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
+                      "path":  "mods/hallogeeymobs-1.0.4.jar",
+                      "sha256":  "6ecb050daab9f6e6f0eae98a00a5851b33acf1891164c8ab12fddd9356aa117c",
+                      "size":  10446668,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.4.jar"
+                  },
+                  {
                       "path":  "mods/hallogey_ruleta-1.0.1.jar",
-                      "sha256":  "c08f55a099743960c344b51dd0fc2cc6f6da457fcc83c58b72967f93283f7a65",
-                      "size":  22981584,
+                      "sha256":  "a282e027314cfd9c423bcaa004ea64ab07e42e0052c3ead4873a6f160010b37a",
+                      "size":  22994409,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogey_ruleta-1.0.1.jar"
                   },
                   {
@@ -843,6 +186,12 @@
                       "sha256":  "e697edc0d1bf565d34efce7c55a5518b2a6d44af60311cdd13434286aa626c35",
                       "size":  636823,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Ixeris-3.8.6%2B1.21.1-fabric.jar"
+                  },
+                  {
+                      "path":  "mods/jackpot-1.0.0.jar",
+                      "sha256":  "8c6b6aef7dcdaaf65105f7992640f74f8978fae30e023a776b819825c21da53d",
+                      "size":  229792,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/jackpot-1.0.0.jar"
                   },
                   {
                       "path":  "mods/journeymap-fabric-1.21.1-6.0.9.jar",
@@ -903,6 +252,12 @@
                       "sha256":  "5f67531f1dc2259ac5f4dc49997d0e3623e8b3b8330f52eac4a6cc99949f9a9b",
                       "size":  332266,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moreculling-fabric-1.21.1-1.0.10.jar"
+                  },
+                  {
+                      "path":  "mods/Multiworld-Fabric-bundle.jar",
+                      "sha256":  "841099cd55fab702e61597cfe2445d1ed50453e436848982e61e9864da2b63e7",
+                      "size":  1009076,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Multiworld-Fabric-bundle.jar"
                   },
                   {
                       "path":  "mods/noxesium-2.3.3.jar",
@@ -995,6 +350,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Too%20Many%20Entities%201.21.1%20Fabric%20v1.2.0.jar"
                   },
                   {
+                      "path":  "mods/tragamonedas-1.0.0.jar",
+                      "sha256":  "f31268b4fdd97001dbf93b907b952162c297d27dcde329dee57c9ad4b7c0ebe6",
+                      "size":  107229,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tragamonedas-1.0.0.jar"
+                  },
+                  {
                       "path":  "mods/vanillin-fabric-1.21.1-1.1.3.jar",
                       "sha256":  "7552ea4b234b8bc5ddb49a2244270cc639cf14851233f480ab088bb87f93ab25",
                       "size":  872000,
@@ -1013,10 +374,732 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar.disabled"
                   },
                   {
+                      "path":  "mods/worldedit-mod-7.3.8.jar",
+                      "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+                      "size":  6222854,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/worldedit-mod-7.3.8.jar"
+                  },
+                  {
+                      "path":  "config/almanac-nbtFix.json5",
+                      "sha256":  "c5c31e999c8252566f58c4d36b716a9fb674cd88021b3ffe9996c7e77d2b4c44",
+                      "size":  563,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/almanac-nbtFix.json5"
+                  },
+                  {
+                      "path":  "config/BBEConfig.json",
+                      "sha256":  "2b9dc819b59eb8e9c89117de09b1370159817855ab2ba290a83ad42ddbbce862",
+                      "size":  1482,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/BBEConfig.json"
+                  },
+                  {
+                      "path":  "config/betterblockentities.json",
+                      "sha256":  "fe9edebd49a434b2be707523377a1757b3bbdd0ebce357dbf61a8a39d4f12111",
+                      "size":  416,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/betterblockentities.json"
+                  },
+                  {
+                      "path":  "config/c2me.toml",
+                      "sha256":  "11e17ed7843f81b9015d23acda2b9558ad4d730f7fc537f27dfec50c91c800e7",
+                      "size":  9355,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/c2me.toml"
+                  },
+                  {
+                      "path":  "config/cpm.json",
+                      "sha256":  "c796fad0420e223a233cfb545f556db2c8b37923c55dc8de1d55b94dadcb589f",
+                      "size":  311,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/cpm.json"
+                  },
+                  {
+                      "path":  "config/cubes-without-borders.json",
+                      "sha256":  "64163d08d7addf3d4b44e632db04a4715a02469419ae3ff1677956ee349ebd01",
+                      "size":  210,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/cubes-without-borders.json"
+                  },
+                  {
+                      "path":  "config/cull-fewer-leaves.toml",
+                      "sha256":  "f8479e000aa86e779a17a808ae8a4a05df2d25b764bfc50ce6f804c9cf0caec2",
+                      "size":  593,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/cull-fewer-leaves.toml"
+                  },
+                  {
+                      "path":  "config/CustomNpcs.cfg",
+                      "sha256":  "0ee26e1e647f26f3864f47d4e8a8b8a5baf01db73e63cd5497c25dd37aa83702",
+                      "size":  1924,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/CustomNpcs.cfg"
+                  },
+                  {
+                      "path":  "config/customskyboxes.json",
+                      "sha256":  "a2e6fd89637adad80ac0790518d701c7a331e8f95dccfce141f287e8cb5cafaf",
+                      "size":  232,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes.json"
+                  },
+                  {
+                      "path":  "config/dynamic_fps.json",
+                      "sha256":  "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+                      "size":  3,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/dynamic_fps.json"
+                  },
+                  {
+                      "path":  "config/emotecraft.json",
+                      "sha256":  "8cfb42df2afa3b8aed623ab5ad0310181693831f55f092ebcef87b299ccc03e6",
+                      "size":  668,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/emotecraft.json"
+                  },
+                  {
+                      "path":  "config/emotecraft_emote_map.json",
+                      "sha256":  "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775",
+                      "size":  117,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/emotecraft_emote_map.json"
+                  },
+                  {
+                      "path":  "config/enhanced_bes.properties",
+                      "sha256":  "685e1bfb458b2bcbcb43310be5a92993a0073fdf8221705748b1e466b684b28b",
+                      "size":  532,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/enhanced_bes.properties"
+                  },
+                  {
+                      "path":  "config/entityculling.json",
+                      "sha256":  "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
+                      "size":  1897,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/entityculling.json"
+                  },
+                  {
+                      "path":  "config/fastquit.toml",
+                      "sha256":  "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e",
+                      "size":  120,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fastquit.toml"
+                  },
+                  {
+                      "path":  "config/ferritecore.mixin.properties",
+                      "sha256":  "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818",
+                      "size":  1615,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/ferritecore.mixin.properties"
+                  },
+                  {
+                      "path":  "config/flywheel.json",
+                      "sha256":  "8d5385ce9f9af3458c877db2ee7bf73230202c24870dece6b7e97e344fb8dfc1",
+                      "size":  130,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/flywheel.json"
+                  },
+                  {
+                      "path":  "config/fpsdisplay.json",
+                      "sha256":  "38c8e806a556fb3290fbae04d07e386918dc253464875d60ad38be77df9103e7",
+                      "size":  199,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fpsdisplay.json"
+                  },
+                  {
+                      "path":  "config/hallogeey.json",
+                      "sha256":  "fdefc7ca5ca76bf42a75618441073f29e8924db2f1a78bd9cceab531e07a26e3",
+                      "size":  557,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeey.json"
+                  },
+                  {
+                      "path":  "config/halloteams-data.json",
+                      "sha256":  "d231dae81c7b39f81bf336e0d040441bd8e04442cdfe824d34f03086b1ea7b25",
+                      "size":  859,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/halloteams-data.json"
+                  },
+                  {
+                      "path":  "config/halloteams.json",
+                      "sha256":  "ef0a6223a7f0b849ffecc16af755409acdf370e8d6927bcae001b28a55e7e333",
+                      "size":  272,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/halloteams.json"
+                  },
+                  {
+                      "path":  "config/immediatelyfast.json",
+                      "sha256":  "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a",
+                      "size":  1114,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immediatelyfast.json"
+                  },
+                  {
+                      "path":  "config/iris-excluded.json",
+                      "sha256":  "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+                      "size":  31,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/iris-excluded.json"
+                  },
+                  {
+                      "path":  "config/iris.properties",
+                      "sha256":  "619428c456e805a26ec01207e9a65c64d04ecf900fabb043f0c7069dee4d2b87",
+                      "size":  315,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/iris.properties"
+                  },
+                  {
+                      "path":  "config/ixeris.toml",
+                      "sha256":  "d430e5bf067dc9e90db187f6868dd4e5ca99d8a2ec4462fd3308ea8ea747245c",
+                      "size":  921,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/ixeris.toml"
+                  },
+                  {
+                      "path":  "config/jackpot.json",
+                      "sha256":  "c7fbf1ae3742d1df779fa91898daeeaea91de65bbad17a913b39d55a8f7b9086",
+                      "size":  6058,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/jackpot.json"
+                  },
+                  {
+                      "path":  "config/journeymap-server.json",
+                      "sha256":  "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca",
+                      "size":  67,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/journeymap-server.json"
+                  },
+                  {
+                      "path":  "config/letmedespawn.json",
+                      "sha256":  "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e",
+                      "size":  72,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/letmedespawn.json"
+                  },
+                  {
+                      "path":  "config/lithium.properties",
+                      "sha256":  "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
+                      "size":  267,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lithium.properties"
+                  },
+                  {
+                      "path":  "config/lootr.json",
+                      "sha256":  "1ca66f443b353d4054fe4ac78c31628c7d51544f53d3fc52899dae970766fe06",
+                      "size":  2008,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/lootr.json"
+                  },
+                  {
+                      "path":  "config/modernfix-mixins.properties",
+                      "sha256":  "5d638483a8b6ce35fcba87578edc963515b6d9d4aa3fa53191e43b9dfd2eabe5",
+                      "size":  4087,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/modernfix-mixins.properties"
+                  },
+                  {
+                      "path":  "config/modmenu.json",
+                      "sha256":  "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
+                      "size":  840,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/modmenu.json"
+                  },
+                  {
+                      "path":  "config/moonlight-client.json",
+                      "sha256":  "2e1fc3c9057e5279957ddae39140390c809fe1eef6c3c1585901ccbbaaad865b",
+                      "size":  459,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moonlight-client.json"
+                  },
+                  {
+                      "path":  "config/moonlight-common.json",
+                      "sha256":  "66b4381d7d2230f64c12f3a7109aa50e6a60af7974e52d0a546797bcd3efbfc8",
+                      "size":  215,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moonlight-common.json"
+                  },
+                  {
+                      "path":  "config/moreculling.toml",
+                      "sha256":  "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5",
+                      "size":  540,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/moreculling.toml"
+                  },
+                  {
+                      "path":  "config/noisium.json",
+                      "sha256":  "3b6acdbc5ce36d9a81fb2a889760b5eb9fd88683cb06e234eca92559ad151329",
+                      "size":  146,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/noisium.json"
+                  },
+                  {
+                      "path":  "config/rrp.properties",
+                      "sha256":  "e84bf6d424380048527ff841dccaa2016869d4ac11fa9ab40f45ec11b25dd667",
+                      "size":  148,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/rrp.properties"
+                  },
+                  {
+                      "path":  "config/scalablelux.properties",
+                      "sha256":  "a964be14bbbb99c86d2cfaa798876bbef8aa7726445953ac6a2565a5187b94f8",
+                      "size":  84,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/scalablelux.properties"
+                  },
+                  {
+                      "path":  "config/sixtysevenentity.properties",
+                      "sha256":  "f44408cc8209c962f64fc56a99f2495d52e880f4884e09686d83b7e95fddc438",
+                      "size":  419,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sixtysevenentity.properties"
+                  },
+                  {
+                      "path":  "config/smoothboot.json",
+                      "sha256":  "0dc746fb3afca8b1f21e6fead005760d25e2c73dc006c9cb932364dd2b5d86ea",
+                      "size":  198,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/smoothboot.json"
+                  },
+                  {
+                      "path":  "config/sodium-extra-options.json",
+                      "sha256":  "35e8c39fcc878887964a2c74596455e09a017ecf5ec48df1dbad0f1827564d03",
+                      "size":  6444,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra-options.json"
+                  },
+                  {
+                      "path":  "config/sodium-extra.properties",
+                      "sha256":  "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+                      "size":  360,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-extra.properties"
+                  },
+                  {
+                      "path":  "config/sodium-fingerprint.json",
+                      "sha256":  "4ae4e2c75436ce25e8034f512abf8703a072ba842b9ef235d2d812436cbf6d03",
+                      "size":  427,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-fingerprint.json"
+                  },
+                  {
+                      "path":  "config/sodium-mixins.properties",
+                      "sha256":  "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+                      "size":  258,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-mixins.properties"
+                  },
+                  {
+                      "path":  "config/sodium-options.json",
+                      "sha256":  "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1",
+                      "size":  761,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sodium-options.json"
+                  },
+                  {
+                      "path":  "config/supplementaries-client.json",
+                      "sha256":  "164c5aacaa72213246c38e45eef406bdc93fa8a26f3259260026c967e8f6c60e",
+                      "size":  3349,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-client.json"
+                  },
+                  {
+                      "path":  "config/supplementaries-common.json",
+                      "sha256":  "1a2c83737df2e965f6e67a059139517808a4488bfb864051ffaada7731eb27a6",
+                      "size":  11155,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/supplementaries-common.json"
+                  },
+                  {
+                      "path":  "config/threads.json",
+                      "sha256":  "4d5c6dee1c4f80494ec2f7b0d1632b60f8bfb86c465238dfbc65cd1d8dbd8544",
+                      "size":  165,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/threads.json"
+                  },
+                  {
+                      "path":  "config/threadtweak.json",
+                      "sha256":  "8e25c7d1b862b4f7106940f9f9df89210c6782b132d024bf6c25eabfeecb685a",
+                      "size":  177,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/threadtweak.json"
+                  },
+                  {
+                      "path":  "config/too_many_entities.json",
+                      "sha256":  "17af3c052409bf958254f826e34ea65e9679a568744147a55e6feccf41b3a2c4",
+                      "size":  259,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/too_many_entities.json"
+                  },
+                  {
+                      "path":  "config/tragamonedas_rewards.json",
+                      "sha256":  "2eb14de15b1ada7ec8e2fc4a50e1ece5d20b8f35017d850e311d701801d6da3c",
+                      "size":  3515,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tragamonedas_rewards.json"
+                  },
+                  {
+                      "path":  "config/transition.json",
+                      "sha256":  "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+                      "size":  62,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/transition.json"
+                  },
+                  {
+                      "path":  "config/trender.json",
+                      "sha256":  "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+                      "size":  47,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/trender.json"
+                  },
+                  {
+                      "path":  "config/vanillin.json",
+                      "sha256":  "737aeeca96aa5ccb3231fb0b17d04930d343131a6845bb5ad124afb78bed64b4",
+                      "size":  742,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/vanillin.json"
+                  },
+                  {
+                      "path":  "config/waterconfig.toml",
+                      "sha256":  "e5806ca350b26f9c299c7b75728f3f9c0664c286470daa027e4ce547097b90a5",
+                      "size":  677,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/waterconfig.toml"
+                  },
+                  {
+                      "path":  "config/watermedia.toml",
+                      "sha256":  "7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85",
+                      "size":  8017,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/watermedia.toml"
+                  },
+                  {
+                      "path":  "config/asyncparticles/asyncparticles-mixin.properties",
+                      "sha256":  "cf87e8ea4b718e6fb6130eafb829633fe44574756cb6ad01804b7b8c8cf7357c",
+                      "size":  2090,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles-mixin.properties"
+                  },
+                  {
+                      "path":  "config/asyncparticles/asyncparticles.json",
+                      "sha256":  "41f545eee4ca7f27416505f58c564dfd9060a4e8bb00ea016760066c24334fa6",
+                      "size":  1421,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles.json"
+                  },
+                  {
+                      "path":  "config/casinogeey/general_config.json",
+                      "sha256":  "d9146299708b33c959d0a325b5f31583caf792dd25f8a78ed18e63a65ebb7567",
+                      "size":  1000,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/general_config.json"
+                  },
+                  {
+                      "path":  "config/casinogeey/gachapon/item_gachapon.json",
+                      "sha256":  "8dd874069df7b93b9725510394bd482a89f8b1a16e32a760b78be84cdfcc6f7a",
+                      "size":  884,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/item_gachapon.json"
+                  },
+                  {
+                      "path":  "config/casinogeey/gachapon/plushies_gachapon.json",
+                      "sha256":  "2960cc2d146a1a2af2f837e501f7c3dd47efa77f1512553f7b864f05f5750740",
+                      "size":  73,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/plushies_gachapon.json"
+                  },
+                  {
+                      "path":  "config/casinogeey/gachapon/spooky_gachapon.json",
+                      "sha256":  "ec0928d33b83da74123b610125032b7fe2c4e79ccf2e30c841c0ad1945143d0c",
+                      "size":  4806,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/gachapon/spooky_gachapon.json"
+                  },
+                  {
+                      "path":  "config/casinogeey/machines/gacha_machines.json",
+                      "sha256":  "ebc23034a51e9cdfa0c55dd2712ed402210d17787a0853a67da672b7cbe3fce5",
+                      "size":  1884,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/machines/gacha_machines.json"
+                  },
+                  {
+                      "path":  "config/casinogeey/machines/slot_machine.json",
+                      "sha256":  "6955acce4871ad9516b2a5a30dd53c953856a6fd939907662ae90b79585164ed",
+                      "size":  1195,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/casinogeey/machines/slot_machine.json"
+                  },
+                  {
+                      "path":  "config/customskyboxes/dimensions.json",
+                      "sha256":  "83b403eeb00f4627e525e4f67b0976ba53d01b4141d55ba5bfceb8cde48910e8",
+                      "size":  370,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes/dimensions.json"
+                  },
+                  {
+                      "path":  "config/customskyboxes/events.json",
+                      "sha256":  "0ad5b8962ea05c63b6d256f79848f6a9efcf37d4af53de77e937d298ed7c6bd9",
+                      "size":  33,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes/events.json"
+                  },
+                  {
+                      "path":  "config/customskyboxes/presets.json",
+                      "sha256":  "b485201b812cd9205723b135c4695d949ba82ebb8fd6abc4ac37632cf262d95b",
+                      "size":  1122,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes/presets.json"
+                  },
+                  {
+                      "path":  "config/customskyboxes/scripts.json",
+                      "sha256":  "985157b7423fd55e1ad4013b6e73cb81a3b2d5b213650ba550230a615561d9e2",
+                      "size":  664,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes/scripts.json"
+                  },
+                  {
+                      "path":  "config/drippyloadingscreen/options.txt",
+                      "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
+                      "size":  2465,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/drippyloadingscreen/options.txt"
+                  },
+                  {
+                      "path":  "config/fabric/indigo-renderer.properties",
+                      "sha256":  "6a4d8541d0d80fd6eefe3adbca447ae095c90745d7881e3b590268d3053f5b08",
+                      "size":  290,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fabric/indigo-renderer.properties"
+                  },
+                  {
+                      "path":  "config/fancymenu/customizablemenus.txt",
+                      "sha256":  "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1",
+                      "size":  128,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customizablemenus.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/custom_gui_screens.txt",
+                      "sha256":  "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+                      "size":  51,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/custom_gui_screens.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/legacy_checklist.txt",
+                      "sha256":  "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+                      "size":  42,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/legacy_checklist.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/options.txt",
+                      "sha256":  "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab",
+                      "size":  4400,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/options.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/user_variables.db",
+                      "sha256":  "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+                      "size":  23,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/user_variables.db"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/arcoiris_button1.png",
+                      "sha256":  "a1a8a9074079ca1ceacbf6ddf8d31ec4a2794e81f2f1d35acb02636a28754d53",
+                      "size":  5929,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/arcoiris_button1.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/arcoiris_button1_hover.png",
+                      "sha256":  "80f9ec47aca4627e3186f6f8f8a750c88f7e33cd7ce3b54d07c593065c214c1a",
+                      "size":  5910,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/arcoiris_button1_hover.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/ata.png",
+                      "sha256":  "357f9e3c6461bc21bad4b4315119813318b4a1e0f5173d023b0dbe5888e32c50",
+                      "size":  279378,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/ata.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/ata_hover.png",
+                      "sha256":  "ac32d608f301425c01af560005c43d865138abbc7c4d1d8da4f255401f0995ee",
+                      "size":  271796,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/ata_hover.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/cabalaza3.gif",
+                      "sha256":  "867b92901d8ba0db1cbeeb4b4e9939356946e00c0f536346a8e392fee87ba4ca",
+                      "size":  54687,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/cabalaza3.gif"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/nexus.png",
+                      "sha256":  "58d59b66c70dab73180e9487d865325c6e76e90b20bdfc60904535b92cb49da8",
+                      "size":  2066781,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/nexus.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/nexus_hover.png",
+                      "sha256":  "93155979ed7c9859b9f48c27c00d822db633cfa2e581f23dec2df63ce8fcbd98",
+                      "size":  2293844,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/nexus_hover.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/spider_button.png",
+                      "sha256":  "72989a337ef243d653192a3d7eb32476da62c28b90654533b11985ee2e1fb4eb",
+                      "size":  3996,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/spider_button.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/spider_button_hover.png",
+                      "sha256":  "c70febe3beb0ab0285b0bcd7f5bc10b738c84a9db55bc8e950a70a5243290268",
+                      "size":  3877,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/spider_button_hover.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/assets/titulo.png",
+                      "sha256":  "b3873debb9cdce83499da84e7712af1f6dd22067dd11fee89821c164db9a7e59",
+                      "size":  300044,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/titulo.png"
+                  },
+                  {
+                      "path":  "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+                      "sha256":  "eb678261fc7a90b75035807257f194f4bd76434380ed1019ec9056420ea56366",
+                      "size":  20465,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/customization/title_screen_layout.txt",
+                      "sha256":  "c715288249b53a28d8ff6505a0f00fdba51d7a0848bed71d05fb24fa4da4e143",
+                      "size":  56434,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+                      "sha256":  "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
+                      "size":  197,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/cherry_blossom.json",
+                      "sha256":  "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
+                      "size":  9349,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/cherry_blossom.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/cozy_campfire.json",
+                      "sha256":  "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50",
+                      "size":  9347,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/cozy_campfire.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/dark.json",
+                      "sha256":  "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498",
+                      "size":  9329,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/dark.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/dark_high_contrast.json",
+                      "sha256":  "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26",
+                      "size":  9359,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/dark_high_contrast.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/light.json",
+                      "sha256":  "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153",
+                      "size":  9331,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/light.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/light_high_contrast.json",
+                      "sha256":  "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a",
+                      "size":  9361,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/light_high_contrast.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/pumpkin_soup.json",
+                      "sha256":  "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311",
+                      "size":  9345,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/pumpkin_soup.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/purple_void.json",
+                      "sha256":  "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
+                      "size":  9343,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/purple_void.json"
+                  },
+                  {
+                      "path":  "config/fancymenu/ui_themes/spooky_season.json",
+                      "sha256":  "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
+                      "size":  9347,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/spooky_season.json"
+                  },
+                  {
+                      "path":  "config/hallogeeymobs/bananas.json",
+                      "sha256":  "31c041ed017ee8d9ea222c31f32b913491cae975fff1478a7e36a16347de72f6",
+                      "size":  898,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/bananas.json"
+                  },
+                  {
+                      "path":  "config/hallogeeymobs/config.json",
+                      "sha256":  "348f4e29d0829a25d995dab78c4555ad1bbcacbdd003a343d3615e94a1270108",
+                      "size":  698,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeeymobs/config.json"
+                  },
+                  {
+                      "path":  "config/hallogeey_deaths/config.json",
+                      "sha256":  "1cb297046fce05551a9c244786084594e30ef2f693256478e79ab7f0c6b14668",
+                      "size":  568,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeey_deaths/config.json"
+                  },
+                  {
+                      "path":  "config/hallogeey_deaths/players.json",
+                      "sha256":  "70af9685bcbc46467e1a3983554fa5ca5c93ad76061a841622d8d0b9a61add93",
+                      "size":  181,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/hallogeey_deaths/players.json"
+                  },
+                  {
+                      "path":  "config/konkrete/locals/de_de.local",
+                      "sha256":  "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+                      "size":  369,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/de_de.local"
+                  },
+                  {
+                      "path":  "config/konkrete/locals/en_us.local",
+                      "sha256":  "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+                      "size":  426,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/en_us.local"
+                  },
+                  {
+                      "path":  "config/konkrete/locals/pl_pl.local",
+                      "sha256":  "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+                      "size":  313,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/pl_pl.local"
+                  },
+                  {
+                      "path":  "config/konkrete/locals/pt_br.local",
+                      "sha256":  "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+                      "size":  322,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/konkrete/locals/pt_br.local"
+                  },
+                  {
+                      "path":  "config/mancoroleplay/config.properties",
+                      "sha256":  "9b341d179077183b6ba05114d0206b1e6079588f54d2280f399bc6bba04edd62",
+                      "size":  765,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/mancoroleplay/config.properties"
+                  },
+                  {
+                      "path":  "config/mancoroleplay/characters/4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f.json",
+                      "sha256":  "fc33b62a9ef4dd58ddb6367eb0d4b05301b6b072fb1f96a697bb69cc27bf6885",
+                      "size":  32944,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/mancoroleplay/characters/4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f.json"
+                  },
+                  {
+                      "path":  "config/multiworld/i18n.yml",
+                      "sha256":  "e88b86ac7d4d906d679754ce4a2434eeb697e136c1c1f43e631842957a73ab60",
+                      "size":  491,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/multiworld/i18n.yml"
+                  },
+                  {
+                      "path":  "config/multiworld/portals.yml",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/multiworld/portals.yml"
+                  },
+                  {
+                      "path":  "config/spark/activity.json",
+                      "sha256":  "80d930de9e8004d83c25daee540a5140c0e99141232bdd7a7ba015d8549f3f34",
+                      "size":  574,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/activity.json"
+                  },
+                  {
+                      "path":  "config/spark/config.json",
+                      "sha256":  "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42",
+                      "size":  117,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/config.json"
+                  },
+                  {
+                      "path":  "config/spark/tmp/about.txt",
+                      "sha256":  "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
+                      "size":  585,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/tmp/about.txt"
+                  },
+                  {
+                      "path":  "config/spark/tmp-client/about.txt",
+                      "sha256":  "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
+                      "size":  585,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/spark/tmp-client/about.txt"
+                  },
+                  {
+                      "path":  "config/tiny-terrors/main.json",
+                      "sha256":  "2c1cc79172cca1087855cfae9bf77bd02f899dc926adf347f86a1d186059abec",
+                      "size":  1127,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/main.json"
+                  },
+                  {
+                      "path":  "config/tiny-terrors/state.json",
+                      "sha256":  "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e",
+                      "size":  21,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/state.json"
+                  },
+                  {
+                      "path":  "config/worldedit/worldedit.properties",
+                      "sha256":  "db6eca5e6dbca03d19c50ee90dcadf42a2187b57a792925886adb068c17ed930",
+                      "size":  2546,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/worldedit/worldedit.properties"
+                  },
+                  {
+                      "path":  "config/worldedit/schematics/dungeon11.schem",
+                      "sha256":  "a74b7e2364fa5bb2d5d35cb9784031060408028891f46278a61b5b48bcb5480c",
+                      "size":  978691,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/worldedit/schematics/dungeon11.schem"
+                  },
+                  {
+                      "path":  "config/worldedit/schematics/samugay.schem",
+                      "sha256":  "32340f43eac5f59ad167df7e4f7c2a911073e48e19f1609bae2f725c0a629c30",
+                      "size":  325977,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/worldedit/schematics/samugay.schem"
+                  },
+                  {
+                      "path":  "config/worldedit/sessions/4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f.json",
+                      "sha256":  "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f",
+                      "size":  139,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/worldedit/sessions/4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f.json"
+                  },
+                  {
                       "path":  "resourcepacks/HalloGeey_TexturePack.zip",
                       "sha256":  "0e98cd780d6bb8a2e1a5db240ed845b1059044469c073b9dbe8cdc754594cf7b",
                       "size":  26366015,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/HalloGeey_TexturePack.zip"
                   }
-              ]
+              ],
+    "protected":  null,
+    "managed":  null
 }

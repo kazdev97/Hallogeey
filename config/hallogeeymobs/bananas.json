@@ -1,0 +1,37 @@
+{
+  "activeDate": "2026-10-17",
+  "players": {
+    "bb77495a-a740-3169-a238-69654c8bd2c1": {
+      "name": "TestPlayer",
+      "givenDate": "",
+      "usedDate": "",
+      "lastUsedTime": 0,
+      "extraUses": 0,
+      "hasBanana": false,
+      "pendingRemoval": false,
+      "pendingHeartPenalty": false,
+      "pendingRainbowRevive": false,
+      "pendingHeartCaster": "",
+      "cauldronDim": "",
+      "cauldronX": 0,
+      "cauldronY": 0,
+      "cauldronZ": 0
+    },
+    "4b2e6d4e-1a45-4ffd-ab9c-492b3f26e44f": {
+      "name": "Soy_Kaz",
+      "givenDate": "",
+      "usedDate": "",
+      "lastUsedTime": 0,
+      "extraUses": 0,
+      "hasBanana": false,
+      "pendingRemoval": false,
+      "pendingHeartPenalty": false,
+      "pendingRainbowRevive": false,
+      "pendingHeartCaster": "",
+      "cauldronDim": "",
+      "cauldronX": 0,
+      "cauldronY": 0,
+      "cauldronZ": 0
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "maxExtraHeartsAllowed": 20,
+  "tiers": [
+    {
+      "name": "comun",
+      "displayMessage": "§d✨ Premio Comun Pastel ✨",
+      "weight": 50.0,
+      "items": [
+        {
+          "itemId": "minecraft:pumpkin_pie",
+          "minCount": 2,
+          "maxCount": 6,
+          "weight": 40.0
+        },
+        {
+          "itemId": "minecraft:cookie",
+          "minCount": 4,
+          "maxCount": 12,
+          "weight": 35.0
+        },
+        {
+          "itemId": "minecraft:glow_berries",
+          "minCount": 4,
+          "maxCount": 10,
+          "weight": 25.0
+        },
+        {
+          "itemId": "minecraft:amethyst_shard",
+          "minCount": 2,
+          "maxCount": 5,
+          "weight": 20.0
+        }
+      ]
+    },
+    {
+      "name": "poco_comun",
+      "displayMessage": "§b🌈 Premio Poco Comun 🌈",
+      "weight": 28.0,
+      "items": [
+        {
+          "itemId": "minecraft:golden_apple",
+          "minCount": 1,
+          "maxCount": 3,
+          "weight": 35.0
+        },
+        {
+          "itemId": "minecraft:emerald",
+          "minCount": 3,
+          "maxCount": 8,
+          "weight": 35.0
+        },
+        {
+          "itemId": "minecraft:experience_bottle",
+          "minCount": 4,
+          "maxCount": 12,
+          "weight": 30.0
+        },
+        {
+          "itemId": "tragamonedas:fichita",
+          "minCount": 1,
+          "maxCount": 2,
+          "weight": 20.0
+        }
+      ]
+    },
+    {
+      "name": "raro",
+      "displayMessage": "§5🎃 ¡Premio Raro de Halloween! 🎃",
+      "weight": 14.0,
+      "items": [
+        {
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 5,
+          "weight": 45.0
+        },
+        {
+          "itemId": "tragamonedas:corazoncito",
+          "minCount": 1,
+          "maxCount": 1,
+          "weight": 35.0
+        },
+        {
+          "itemId": "minecraft:ender_pearl",
+          "minCount": 2,
+          "maxCount": 6,
+          "weight": 20.0
+        }
+      ]
+    },
+    {
+      "name": "epico",
+      "displayMessage": "§6🔥 ¡PREMIO EPICO ARCOIRIS! 🔥",
+      "weight": 6.0,
+      "items": [
+        {
+          "itemId": "minecraft:totem_of_undying",
+          "minCount": 1,
+          "maxCount": 1,
+          "weight": 40.0
+        },
+        {
+          "itemId": "tragamonedas:corazoncito",
+          "minCount": 1,
+          "maxCount": 2,
+          "weight": 30.0
+        },
+        {
+          "itemId": "minecraft:netherite_ingot",
+          "minCount": 1,
+          "maxCount": 1,
+          "weight": 20.0
+        },
+        {
+          "itemId": "minecraft:enchanted_golden_apple",
+          "minCount": 1,
+          "maxCount": 1,
+          "weight": 10.0
+        }
+      ]
+    },
+    {
+      "name": "mitico_jackpot",
+      "displayMessage": "§d§l💖 ¡¡JACKPOT MITICO LGBT HALLOWEEN!! 💖",
+      "weight": 2.0,
+      "items": [
+        {
+          "itemId": "minecraft:netherite_ingot",
+          "minCount": 2,
+          "maxCount": 4,
+          "weight": 35.0
+        },
+        {
+          "itemId": "minecraft:netherite_block",
+          "minCount": 1,
+          "maxCount": 1,
+          "weight": 15.0
+        },
+        {
+          "itemId": "minecraft:nether_star",
+          "minCount": 1,
+          "maxCount": 1,
+          "weight": 20.0
+        },
+        {
+          "itemId": "tragamonedas:corazoncito",
+          "minCount": 2,
+          "maxCount": 3,
+          "weight": 30.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "mobSpawnsEnabled": true,
+  "spawnRadiusMin": 24,
+  "spawnRadiusMax": 48,
+  "spawnFrequencySeconds": 15,
+  "maxMobsPerPlayer": 4,
+  "maxOsitosPerPlayer": 6,
+  "mobSpawnStates": {
+    "closetero": false,
+    "censante": false,
+    "osito_amarillo": false,
+    "osito_arcoiris": false,
+    "osito_azul": false,
+    "osito_morado": false,
+    "osito_rojo": false,
+    "osito_rosa": false,
+    "osito_turquesa": false,
+    "osito_verde": false,
+    "ositos": false,
+    "ositoblanco": false,
+    "hollowsteve": true
+  },
+  "dailyColoredBananaLimit": true,
+  "autoGiveBananaOnJoin": false,
+  "removeUnusedBananaAtDayChange": true,
+  "ritualMessagesBroadcast": true,
+  "ritualTitlesBroadcast": true
+}

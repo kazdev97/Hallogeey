@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101865445109",
+    "revision":  "2026101868424880",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -366,6 +366,12 @@
                       "sha256":  "c3baefc8fbb005e349b3424f7df8f9d89b18524d5f7a358c6df73ca5e1d98b38",
                       "size":  3625444,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watermedia-3.0.0.23.jar"
+                  },
+                  {
+                      "path":  "mods/watermedia_binaries-3.0.0.6.jar",
+                      "sha256":  "2d9333061c3d2330033fe68837a31f546dbf58984455b0cfec0deeff6b1f121e",
+                      "size":  143725808,
+                      "url":  "https://github.com/kazdev97/Hallogeey/releases/download/watermedia-binaries-v1/watermedia_binaries-3.0.0.6.jar"
                   },
                   {
                       "path":  "mods/watervisionfixed.jar",

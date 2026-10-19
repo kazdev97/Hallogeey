@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101875078203",
+    "revision":  "2026101886636186",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -146,10 +146,22 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ferritecore-7.0.3-fabric.jar"
                   },
                   {
+                      "path":  "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+                      "sha256":  "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
+                      "size":  633065,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+                  },
+                  {
                       "path":  "mods/fpsdisplay-4.2.1+1.21.1.jar",
                       "sha256":  "41d1173d5c44dd92c27ebff185951fde79870bdc1540c189aa4f58969fa081af",
                       "size":  146703,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fpsdisplay-4.2.1%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar",
+                      "sha256":  "eb755bca2507a81130b0c1b7f683ae9c01533e8273afadb981df69baa538f854",
+                      "size":  75618,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar"
                   },
                   {
                       "path":  "mods/hallogeey-portals-1.0.0.jar",
@@ -351,8 +363,8 @@
                   },
                   {
                       "path":  "mods/tragamonedas-1.2.1.jar",
-                      "sha256":  "7399449bf672c1e0aa81e359a521b35bf9029058eae779b6b70571c458d143f3",
-                      "size":  96191,
+                      "sha256":  "afa36a17c44a5c67107a9af247edfc8df78cbc7f089eaee9b559d7c8a5a0aa89",
+                      "size":  96084,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tragamonedas-1.2.1.jar"
                   },
                   {
@@ -435,8 +447,8 @@
                   },
                   {
                       "path":  "config/customskyboxes.json",
-                      "sha256":  "19abef0600e31fb5b064879fd824f1fc7b633240187f648528890983f777d97e",
-                      "size":  1022,
+                      "sha256":  "6690a81bb02a32d751d4f72a036c9bac6298cd5000162b4b7ed56614957b135e",
+                      "size":  1016,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes.json"
                   },
                   {

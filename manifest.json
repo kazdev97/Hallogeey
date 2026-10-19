@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101873178301",
+    "revision":  "2026101873809546",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -435,8 +435,8 @@
                   },
                   {
                       "path":  "config/customskyboxes.json",
-                      "sha256":  "3de982f6609ff7551f9c7c95988c5955e1b611b625bbe64e63542ed2827e5cc9",
-                      "size":  411,
+                      "sha256":  "19abef0600e31fb5b064879fd824f1fc7b633240187f648528890983f777d97e",
+                      "size":  1022,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/customskyboxes.json"
                   },
                   {
@@ -3985,5 +3985,8 @@
                   ],
     "managed":  [
 
-                ]
+                ],
+    "default_resourcepacks":  [
+                                  "HalloGeey_TexturePack.zip"
+                              ]
 }

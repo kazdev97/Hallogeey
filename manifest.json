@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101875001370",
+    "revision":  "2026101875078203",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -1113,6 +1113,6 @@
 
                 ],
     "default_resourcepacks":  [
-                                  "HalloGeey_TexturePack.zip"
+                                  "HalloGeey.zip"
                               ]
 }

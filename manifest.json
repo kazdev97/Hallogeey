@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101939988531",
+    "revision":  "2026101941399966",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -74,6 +74,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
                   },
                   {
+                      "path":  "mods/cpm-svc-compat-1.3.2.jar",
+                      "sha256":  "6dbd72707eb859ade2b9925c3a4c80938838a83d883bc77bee8a1d2df3f40cc2",
+                      "size":  27257,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/cpm-svc-compat-1.3.2.jar"
+                  },
+                  {
                       "path":  "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar",
                       "sha256":  "b40f5a9e88789444d223c715853ae24c379cb7e13f26e84143ba6c6f8667f5a0",
                       "size":  13042156,
@@ -120,6 +126,18 @@
                       "sha256":  "93d31151ffab504a7d7568ad7d6df6607ed5fa3d183afc961ead9d2d4c7accb8",
                       "size":  1560675,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/entity_model_features-3.3.12-1.21-fabric.jar",
+                      "sha256":  "d089852c2b554165568ac786047a45efdc0f1141c607eca03f9e7e7e66524022",
+                      "size":  653743,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entity_model_features-3.3.12-1.21-fabric.jar"
+                  },
+                  {
+                      "path":  "mods/entity_texture_features-7.2.6-1.21-fabric.jar",
+                      "sha256":  "fc4bf6228195a0fe8af33a36409c8dab9b391ba2920210445d11c8c69e56a6b9",
+                      "size":  800215,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entity_texture_features-7.2.6-1.21-fabric.jar"
                   },
                   {
                       "path":  "mods/fabric-api-0.116.8+1.21.1.jar",
@@ -206,6 +224,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersivemessages-fabric-1.0.18-1.21.1.jar"
                   },
                   {
+                      "path":  "mods/immersive_melodies-fabric-0.8.0+1.21.1.jar",
+                      "sha256":  "d811350c2fc3d01a2cdb194a44de9e226c5a191e2c50f7e59e81fd31d052f7ac",
+                      "size":  5576068,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersive_melodies-fabric-0.8.0%2B1.21.1.jar"
+                  },
+                  {
                       "path":  "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
                       "sha256":  "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff",
                       "size":  2791343,
@@ -246,6 +270,12 @@
                       "sha256":  "2b33fa73a28c14f0983459c165e8c7b491cd1d798c947b967207f66194fb531d",
                       "size":  1111591,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lootr-fabric-1.21.1-1.11.38.127.jar"
+                  },
+                  {
+                      "path":  "mods/mc-paint-1.3.1.jar",
+                      "sha256":  "e7b66574dbdfc0a03faeff8cfe8365ea44a3876664785645cc48a669fda7c7c6",
+                      "size":  1869958,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/mc-paint-1.3.1.jar"
                   },
                   {
                       "path":  "mods/mcw-holidays-1.1.2-mc1.21.1fabric.jar",
@@ -300,6 +330,12 @@
                       "sha256":  "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd",
                       "size":  204541,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/player-animation-lib-fabric-2.0.4%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/pride_land-1.1.3-1.21.1-fabric.jar",
+                      "sha256":  "8783a2bc2dc2ce6388481addcb4fd4bff8513b28f26d0561492bad3639071533",
+                      "size":  714575,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/pride_land-1.1.3-1.21.1-fabric.jar"
                   },
                   {
                       "path":  "mods/qtehtag-1.0.4.jar",
@@ -416,6 +452,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/voicechat-fabric-1.21.1-2.6.24.jar"
                   },
                   {
+                      "path":  "mods/voicechat-fabric-1.21.1-2.6.24.jar.duplicate",
+                      "sha256":  "a6982277bac53420c0e64f8305e133cbadb0f982b30d6ccce9b3e02dfdff991b",
+                      "size":  5386871,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/voicechat-fabric-1.21.1-2.6.24.jar.duplicate"
+                  },
+                  {
                       "path":  "mods/watermedia-3.0.0.23.jar",
                       "sha256":  "c3baefc8fbb005e349b3424f7df8f9d89b18524d5f7a358c6df73ca5e1d98b38",
                       "size":  3625444,
@@ -444,6 +486,12 @@
                       "sha256":  "753127d67ff1cdecf9f0515ac7ece913f8c0506539c116288e392f27086c5d34",
                       "size":  1113,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immediatelyfast.json"
+                  },
+                  {
+                      "path":  "config/drippyloadingscreen/options.txt",
+                      "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
+                      "size":  2465,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/drippyloadingscreen/options.txt"
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",
@@ -608,10 +656,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/ui_themes/spooky_season.json"
                   },
                   {
-                      "path":  "resourcepacks/HalloGeey.zip",
-                      "sha256":  "15f8148c7803afa30e3cf7db0499220eeb943464085636b1e22b7b965b68d08d",
-                      "size":  26323545,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/HalloGeey.zip"
+                      "path":  "resourcepacks/HalloGeey2.zip",
+                      "sha256":  "38827cd96f60f995528195b889b357efc7d92726d41332842d75b54e2e6a6709",
+                      "size":  26373826,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/HalloGeey2.zip"
                   }
               ],
     "protected":  [
@@ -621,6 +669,6 @@
 
                 ],
     "default_resourcepacks":  [
-                                  "HalloGeey.zip"
+                                  "HalloGeey2.zip"
                               ]
 }

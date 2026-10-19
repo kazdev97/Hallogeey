@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101941399966",
+    "revision":  "2026101941529741",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -450,12 +450,6 @@
                       "sha256":  "a6982277bac53420c0e64f8305e133cbadb0f982b30d6ccce9b3e02dfdff991b",
                       "size":  5386871,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/voicechat-fabric-1.21.1-2.6.24.jar"
-                  },
-                  {
-                      "path":  "mods/voicechat-fabric-1.21.1-2.6.24.jar.duplicate",
-                      "sha256":  "a6982277bac53420c0e64f8305e133cbadb0f982b30d6ccce9b3e02dfdff991b",
-                      "size":  5386871,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/voicechat-fabric-1.21.1-2.6.24.jar.duplicate"
                   },
                   {
                       "path":  "mods/watermedia-3.0.0.23.jar",

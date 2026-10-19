@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101940659173",
+    "revision":  "2026101939988531",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -8,424 +8,430 @@
     "archive_url":  "",
     "files":  [
                   {
-                      "path":  "mods/67-Entity-Fabric-1.21.1-v1.1.0.jar.disabled",
+                      "path":  "mods/67-Entity-Fabric-1.21.1-v1.1.0.jar",
                       "sha256":  "ef1584103d5ba630f0f8397643c3cb0171c31469cd2de70704139b9a265d7caa",
                       "size":  1238970,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/67-Entity-Fabric-1.21.1-v1.1.0.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/67-Entity-Fabric-1.21.1-v1.1.0.jar"
                   },
                   {
-                      "path":  "mods/Almanac-1.21.1-2-fabric-1.5.2.jar.disabled",
+                      "path":  "mods/Almanac-1.21.1-2-fabric-1.5.2.jar",
                       "sha256":  "fe375dc91dc9d10071090b989f7296dbddc968feb7bb24cf3b92ef2aed217d93",
                       "size":  1039789,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Almanac-1.21.1-2-fabric-1.5.2.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Almanac-1.21.1-2-fabric-1.5.2.jar"
                   },
                   {
-                      "path":  "mods/another_furniture-fabric-4.0.2.jar.disabled",
+                      "path":  "mods/another_furniture-fabric-4.0.2.jar",
                       "sha256":  "3f0e6c276dde5cd6390e9c14bc4c283e4043f25d812c1f5ecc36b7b2f61642b5",
                       "size":  2398841,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/another_furniture-fabric-4.0.2.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/another_furniture-fabric-4.0.2.jar"
                   },
                   {
-                      "path":  "mods/architectury-13.0.11-fabric.jar.disabled",
+                      "path":  "mods/architectury-13.0.11-fabric.jar",
                       "sha256":  "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd",
                       "size":  600921,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/architectury-13.0.11-fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/architectury-13.0.11-fabric.jar"
                   },
                   {
-                      "path":  "mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar.disabled",
+                      "path":  "mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar",
                       "sha256":  "a5827c73af46e9212f814fd10c230e87b95bbcc254c80a92a1a2e73aa4789085",
                       "size":  1279192,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/AsyncParticles-3.4.0-beta.1%2B1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/AsyncParticles-3.4.0-beta.1%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/athena-fabric-1.21.1-4.0.6.jar.disabled",
+                      "path":  "mods/athena-fabric-1.21.1-4.0.6.jar",
                       "sha256":  "e17aad84c690ac4e46300a4180b3ae4077ffa4f526dbc82d117afbbff4ee83e4",
                       "size":  88425,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/athena-fabric-1.21.1-4.0.6.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/athena-fabric-1.21.1-4.0.6.jar"
                   },
                   {
-                      "path":  "mods/blockus-2.9.18+1.21.1.jar.disabled",
+                      "path":  "mods/blockus-2.9.18+1.21.1.jar",
                       "sha256":  "f2db8c0e9c320326ddb490419d28027724439806e8e2fca1d55d20f57451b774",
                       "size":  6833701,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/blockus-2.9.18%2B1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/blockus-2.9.18%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/bountifulblocks-1.21-0.9.6.jar.disabled",
+                      "path":  "mods/bountifulblocks-1.21-0.9.6.jar",
                       "sha256":  "dccec5c4eb472a83eafe01ed251acc14a278bf5e0496f0fb48660a215da57411",
                       "size":  3010531,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/bountifulblocks-1.21-0.9.6.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/bountifulblocks-1.21-0.9.6.jar"
                   },
                   {
-                      "path":  "mods/chipped-fabric-1.21.1-4.0.2.jar.disabled",
+                      "path":  "mods/chipped-fabric-1.21.1-4.0.2.jar",
                       "sha256":  "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
                       "size":  15016830,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/chipped-fabric-1.21.1-4.0.2.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/chipped-fabric-1.21.1-4.0.2.jar"
                   },
                   {
-                      "path":  "mods/cloth-config-15.0.140-fabric.jar.disabled",
+                      "path":  "mods/cloth-config-15.0.140-fabric.jar",
                       "sha256":  "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
                       "size":  1157166,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/cloth-config-15.0.140-fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/cloth-config-15.0.140-fabric.jar"
                   },
                   {
-                      "path":  "mods/Clumps-fabric-1.21.1-19.0.0.1.jar.disabled",
+                      "path":  "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
                       "sha256":  "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
                       "size":  20723,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Clumps-fabric-1.21.1-19.0.0.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
                   },
                   {
-                      "path":  "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar.disabled",
+                      "path":  "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar",
                       "sha256":  "b40f5a9e88789444d223c715853ae24c379cb7e13f26e84143ba6c6f8667f5a0",
                       "size":  13042156,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar"
                   },
                   {
-                      "path":  "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar.disabled",
+                      "path":  "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
                       "sha256":  "d6544dfc5b04809a7cc83e2eb71e463bb7be2846a3207a5f0627b47653046a94",
                       "size":  2845602,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar"
                   },
                   {
-                      "path":  "mods/customskyHG-1.0.5.jar.disabled",
+                      "path":  "mods/customskyHG-1.0.5.jar",
                       "sha256":  "3145e41098f740a85337f92da7f296e8983bf42ece083a63781aa41f0f4b4624",
                       "size":  82877169,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyHG-1.0.5.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyHG-1.0.5.jar"
                   },
                   {
-                      "path":  "mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar.disabled",
+                      "path":  "mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
                       "sha256":  "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
                       "size":  276120,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
                   },
                   {
-                      "path":  "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar.disabled",
+                      "path":  "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
                       "sha256":  "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c",
                       "size":  863362,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
                   },
                   {
-                      "path":  "mods/emotecraft_fix_animate_texture-1.4.2.jar.disabled",
+                      "path":  "mods/emotecraft_fix_animate_texture-1.4.2.jar",
                       "sha256":  "caa5b43378146d3805e57529ee0b2a24522b1da1055c223ab6f946af211d5df4",
                       "size":  264790,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/emotecraft_fix_animate_texture-1.4.2.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/emotecraft_fix_animate_texture-1.4.2.jar"
                   },
                   {
-                      "path":  "mods/enhancedblockentities-0.10.2+1.21.jar.disabled",
+                      "path":  "mods/enhancedblockentities-0.10.2+1.21.jar",
                       "sha256":  "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
                       "size":  201157,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/enhancedblockentities-0.10.2%2B1.21.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/enhancedblockentities-0.10.2%2B1.21.jar"
                   },
                   {
-                      "path":  "mods/entityculling-fabric-1.9.5-mc1.21.1.jar.disabled",
+                      "path":  "mods/entityculling-fabric-1.9.5-mc1.21.1.jar",
                       "sha256":  "93d31151ffab504a7d7568ad7d6df6607ed5fa3d183afc961ead9d2d4c7accb8",
                       "size":  1560675,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entityculling-fabric-1.9.5-mc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/fabric-api-0.116.8+1.21.1.jar.disabled",
+                      "path":  "mods/fabric-api-0.116.8+1.21.1.jar",
                       "sha256":  "78bae319e7fdc531e94ad3d885f2f35613fc126645a1cbb49e8456b90835491b",
                       "size":  2425441,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fabric-api-0.116.8%2B1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fabric-api-0.116.8%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar.disabled",
+                      "path":  "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
                       "sha256":  "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
                       "size":  26277804,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar"
                   },
                   {
-                      "path":  "mods/fastquit-3.0.0+1.20.6.jar.disabled",
+                      "path":  "mods/fastquit-3.0.0+1.20.6.jar",
                       "sha256":  "313369c36d3f63d42c01851eaba903f726b5f81a08b432aa6ec8590658625c74",
                       "size":  58822,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fastquit-3.0.0%2B1.20.6.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fastquit-3.0.0%2B1.20.6.jar"
                   },
                   {
-                      "path":  "mods/ferritecore-7.0.3-fabric.jar.disabled",
+                      "path":  "mods/ferritecore-7.0.3-fabric.jar",
                       "sha256":  "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2",
                       "size":  123450,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ferritecore-7.0.3-fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ferritecore-7.0.3-fabric.jar"
                   },
                   {
-                      "path":  "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar.disabled",
+                      "path":  "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
                       "sha256":  "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
                       "size":  633065,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
                   },
                   {
-                      "path":  "mods/fpsdisplay-4.2.1+1.21.1.jar.disabled",
+                      "path":  "mods/fpsdisplay-4.2.1+1.21.1.jar",
                       "sha256":  "41d1173d5c44dd92c27ebff185951fde79870bdc1540c189aa4f58969fa081af",
                       "size":  146703,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fpsdisplay-4.2.1%2B1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fpsdisplay-4.2.1%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar.disabled",
+                      "path":  "mods/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar",
                       "sha256":  "eb755bca2507a81130b0c1b7f683ae9c01533e8273afadb981df69baa538f854",
                       "size":  75618,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/hallogeey-portals-1.0.0.jar.disabled",
+                      "path":  "mods/hallogeey-portals-1.0.0.jar",
                       "sha256":  "4373d14cec9b94b859433435f7db428b6f350de654547e7f2b2df49673f524cd",
                       "size":  38346,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.10.jar.disabled",
+                      "path":  "mods/hallogeeymobs-1.0.10.jar",
                       "sha256":  "5328cd745035c76973ac90487eb14818b479e6e3ca8f745b37753dcb8da6c365",
                       "size":  13074180,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.10.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.10.jar"
                   },
                   {
-                      "path":  "mods/hallogey_ruleta-1.0.1.jar.disabled",
+                      "path":  "mods/hallogey_ruleta-1.0.1.jar",
                       "sha256":  "a282e027314cfd9c423bcaa004ea64ab07e42e0052c3ead4873a6f160010b37a",
                       "size":  22994409,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogey_ruleta-1.0.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogey_ruleta-1.0.1.jar"
                   },
                   {
-                      "path":  "mods/homestyle-1.3.0.jar.disabled",
+                      "path":  "mods/homestyle-1.3.0.jar",
                       "sha256":  "47f802a938890e75e177e145f18a7628e9a620b47fd2f4b129955c60889dec45",
                       "size":  859574,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/homestyle-1.3.0.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/homestyle-1.3.0.jar"
                   },
                   {
-                      "path":  "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar.disabled",
+                      "path":  "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
                       "sha256":  "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9",
                       "size":  342770,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar.disabled",
+                      "path":  "mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
                       "sha256":  "772abf8195a7b97455df8457e42a354196d138c7e9260ea0cd7c08d9471871ac",
                       "size":  915260,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar"
                   },
                   {
-                      "path":  "mods/immersivemessages-fabric-1.0.18-1.21.1.jar.disabled",
+                      "path":  "mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
                       "sha256":  "46f2f450743e1c64a3ffbe4bef4211b2e9e6813401d29a284492ca210086df53",
                       "size":  1946502,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersivemessages-fabric-1.0.18-1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersivemessages-fabric-1.0.18-1.21.1.jar"
                   },
                   {
-                      "path":  "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar.disabled",
+                      "path":  "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
                       "sha256":  "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff",
                       "size":  2791343,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/Ixeris-3.8.6+1.21.1-fabric.jar.disabled",
+                      "path":  "mods/Ixeris-3.8.6+1.21.1-fabric.jar",
                       "sha256":  "e697edc0d1bf565d34efce7c55a5518b2a6d44af60311cdd13434286aa626c35",
                       "size":  636823,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Ixeris-3.8.6%2B1.21.1-fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Ixeris-3.8.6%2B1.21.1-fabric.jar"
                   },
                   {
-                      "path":  "mods/journeymap-fabric-1.21.1-6.0.9.jar.disabled",
+                      "path":  "mods/journeymap-fabric-1.21.1-6.0.9.jar",
                       "sha256":  "4e820703a90d1aad93e0090f9b9f5a57cfc51cf692c7b79d782fbe18e51f313a",
                       "size":  4351143,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/journeymap-fabric-1.21.1-6.0.9.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/journeymap-fabric-1.21.1-6.0.9.jar"
                   },
                   {
-                      "path":  "mods/konkrete_fabric_1.9.9_MC_1.21.jar.disabled",
+                      "path":  "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
                       "sha256":  "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
                       "size":  786695,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/konkrete_fabric_1.9.9_MC_1.21.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/konkrete_fabric_1.9.9_MC_1.21.jar"
                   },
                   {
-                      "path":  "mods/letsdo-furniture-fabric-1.1.6.jar.disabled",
+                      "path":  "mods/letsdo-furniture-fabric-1.1.6.jar",
                       "sha256":  "fe8ff14884b4effd7f5720cfd39ec94676b0574e190924abee1473ae77a5acb2",
                       "size":  4161207,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-furniture-fabric-1.1.6.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-furniture-fabric-1.1.6.jar"
                   },
                   {
-                      "path":  "mods/lithium-fabric-0.15.2+mc1.21.1.jar.disabled",
+                      "path":  "mods/lithium-fabric-0.15.2+mc1.21.1.jar",
                       "sha256":  "537bc45224e81dd1cbae25c1a972f14dac2456f0f8725ced3ca88ae41d0156d3",
                       "size":  797184,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lithium-fabric-0.15.2%2Bmc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lithium-fabric-0.15.2%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/lootr-fabric-1.21.1-1.11.38.127.jar.disabled",
+                      "path":  "mods/lootr-fabric-1.21.1-1.11.38.127.jar",
                       "sha256":  "2b33fa73a28c14f0983459c165e8c7b491cd1d798c947b967207f66194fb531d",
                       "size":  1111591,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lootr-fabric-1.21.1-1.11.38.127.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lootr-fabric-1.21.1-1.11.38.127.jar"
                   },
                   {
-                      "path":  "mods/mcw-holidays-1.1.2-mc1.21.1fabric.jar.disabled",
+                      "path":  "mods/mcw-holidays-1.1.2-mc1.21.1fabric.jar",
                       "sha256":  "ecfd07e3452eefd9aaa49cf9c0cc907031b9b0ee41368ee0c440323702798e1f",
                       "size":  999600,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/mcw-holidays-1.1.2-mc1.21.1fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/mcw-holidays-1.1.2-mc1.21.1fabric.jar"
                   },
                   {
-                      "path":  "mods/melody_fabric_1.0.10_MC_1.21.jar.disabled",
+                      "path":  "mods/melody_fabric_1.0.10_MC_1.21.jar",
                       "sha256":  "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
                       "size":  188035,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/melody_fabric_1.0.10_MC_1.21.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/melody_fabric_1.0.10_MC_1.21.jar"
                   },
                   {
-                      "path":  "mods/modernfix-fabric-5.25.1+mc1.21.1.jar.disabled",
+                      "path":  "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
                       "sha256":  "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c",
                       "size":  471258,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/modmenu-11.0.3.jar.disabled",
+                      "path":  "mods/modmenu-11.0.3.jar",
                       "sha256":  "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
                       "size":  973066,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/modmenu-11.0.3.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/modmenu-11.0.3.jar"
                   },
                   {
-                      "path":  "mods/moonlight-1.21.1-3.7.0-fabric.jar.disabled",
+                      "path":  "mods/moonlight-1.21.1-3.7.0-fabric.jar",
                       "sha256":  "e8ce4bc15274b7b3797cfd4a87a8a8ac5e1b9bfaea0db8bd5ceb0c644af4c114",
                       "size":  2324955,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moonlight-1.21.1-3.7.0-fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moonlight-1.21.1-3.7.0-fabric.jar"
                   },
                   {
-                      "path":  "mods/moreculling-fabric-1.21.1-1.0.10.jar.disabled",
+                      "path":  "mods/moreculling-fabric-1.21.1-1.0.10.jar",
                       "sha256":  "5f67531f1dc2259ac5f4dc49997d0e3623e8b3b8330f52eac4a6cc99949f9a9b",
                       "size":  332266,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moreculling-fabric-1.21.1-1.0.10.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moreculling-fabric-1.21.1-1.0.10.jar"
                   },
                   {
-                      "path":  "mods/noxesium-2.3.3.jar.disabled",
+                      "path":  "mods/noxesium-2.3.3.jar",
                       "sha256":  "62e9407835ecf86b462eba23e9701d919978459d0ff576bd7116fd8a1d3b72e2",
                       "size":  545182,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/noxesium-2.3.3.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/noxesium-2.3.3.jar"
                   },
                   {
-                      "path":  "mods/placeholder-api-2.4.2+1.21.jar.disabled",
+                      "path":  "mods/placeholder-api-2.4.2+1.21.jar",
                       "sha256":  "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
                       "size":  232325,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/placeholder-api-2.4.2%2B1.21.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/placeholder-api-2.4.2%2B1.21.jar"
                   },
                   {
-                      "path":  "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar.disabled",
+                      "path":  "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
                       "sha256":  "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd",
                       "size":  204541,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/player-animation-lib-fabric-2.0.4%2B1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/player-animation-lib-fabric-2.0.4%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/qtehtag-1.0.4.jar.disabled",
+                      "path":  "mods/qtehtag-1.0.4.jar",
                       "sha256":  "f4e73c5b3893594ae24767d617f33b8db5c4f065c6fe92b817daa7929a1367cc",
                       "size":  7838516,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.4.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.4.jar"
                   },
                   {
-                      "path":  "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar.disabled",
+                      "path":  "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
                       "sha256":  "97dafa514cbecf3a32616209c7286a49673a108d84413493abc84fd5808c3c10",
                       "size":  257229,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/ReFramed-1.6.6.jar.disabled",
+                      "path":  "mods/ReFramed-1.6.6.jar",
                       "sha256":  "cbdde4d96ff36f3ee01f564f859e918d3287bb66c08c8a1781be2229d1a4d52d",
                       "size":  726163,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ReFramed-1.6.6.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ReFramed-1.6.6.jar"
                   },
                   {
-                      "path":  "mods/resourcefullib-fabric-1.21-3.0.12.jar.disabled",
+                      "path":  "mods/resourcefullib-fabric-1.21-3.0.12.jar",
                       "sha256":  "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
                       "size":  485586,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/resourcefullib-fabric-1.21-3.0.12.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/resourcefullib-fabric-1.21-3.0.12.jar"
                   },
                   {
-                      "path":  "mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.9.jar.disabled",
+                      "path":  "mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.9.jar",
                       "sha256":  "f6e92bb3d1610de87c689d97af8933e0ed6e3eccac4860543ab73348f7891deb",
                       "size":  273356,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.9.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Roleplaymod-by-kaz-fabric-1.21.1-1.0.9.jar"
                   },
                   {
-                      "path":  "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar.disabled",
+                      "path":  "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
                       "sha256":  "f32ed8d825c7af90b14ab9f7bbe1293818bcf411fea104ae20d18ecde30f8387",
                       "size":  177266,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar"
                   },
                   {
-                      "path":  "mods/seriousplayeranimations-1.2.0.jar.disabled",
+                      "path":  "mods/seriousplayeranimations-1.2.0.jar",
                       "sha256":  "8541d8bc4fbcb710a3928cf2469ceaf467c8b13e425f15eab7589b9110a28cdb",
                       "size":  159577,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/seriousplayeranimations-1.2.0.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/seriousplayeranimations-1.2.0.jar"
                   },
                   {
-                      "path":  "mods/simplevoicedistance-1.6.1-fabric1.21.1.jar.disabled",
+                      "path":  "mods/simplevoicedistance-1.6.1-fabric1.21.1.jar",
                       "sha256":  "db8359a182807a1d37b3359c5b8e0fe098cdd333d2241fa09cbc1eee09b6259d",
                       "size":  95332,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/simplevoicedistance-1.6.1-fabric1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/simplevoicedistance-1.6.1-fabric1.21.1.jar"
                   },
                   {
-                      "path":  "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar.disabled",
+                      "path":  "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
                       "sha256":  "42c36c7cb3084ac8038df5c946f0b4222e7b07499ee947c68c92adf52435936a",
                       "size":  472019,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/sodium-fabric-0.8.13+mc1.21.1.jar.disabled",
+                      "path":  "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
                       "sha256":  "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
                       "size":  1574609,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
                   },
                   {
-                      "path":  "mods/SomeMoreBlocks@fabric-1.21-1.1.5.jar.disabled",
+                      "path":  "mods/SomeMoreBlocks@fabric-1.21-1.1.5.jar",
                       "sha256":  "07391709efee9b03de33eadda63bb68b118ec30212cd5edd03349a0ab2017a5f",
                       "size":  3206735,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/SomeMoreBlocks%40fabric-1.21-1.1.5.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/SomeMoreBlocks%40fabric-1.21-1.1.5.jar"
                   },
                   {
-                      "path":  "mods/supplementaries-1.21.1-3.9.9-fabric.jar.disabled",
+                      "path":  "mods/supplementaries-1.21.1-3.9.9-fabric.jar",
                       "sha256":  "be0415986a64b1701d9bf019480369b77fb02c682a85d1bd9914108d7845b4e9",
                       "size":  13376224,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/supplementaries-1.21.1-3.9.9-fabric.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/supplementaries-1.21.1-3.9.9-fabric.jar"
                   },
                   {
-                      "path":  "mods/teams-hallogeey-1.0.0.jar.disabled",
+                      "path":  "mods/teams-hallogeey-1.0.0.jar",
                       "sha256":  "424ca93c5e9d4ed3feb186c2ab4a85973b4b854e4ae8e28485b6e3472f8d4d67",
                       "size":  115426,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/teams-hallogeey-1.0.0.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/teams-hallogeey-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/tiny-terrors-1.0.3+1.21.1.jar.disabled",
+                      "path":  "mods/tiny-terrors-1.0.3+1.21.1.jar",
                       "sha256":  "b43f76bf21a99c2c2594486413c21d0842361dae0d24a11ddcbc9c2d2949f9aa",
                       "size":  58644,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tiny-terrors-1.0.3%2B1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tiny-terrors-1.0.3%2B1.21.1.jar"
                   },
                   {
-                      "path":  "mods/Too Many Entities 1.21.1 Fabric v1.2.0.jar.disabled",
+                      "path":  "mods/Too Many Entities 1.21.1 Fabric v1.2.0.jar",
                       "sha256":  "3d3a6d57b69237492a635d006564bb0eaf33e2bebb9f6859e43bf92ba4f6d788",
                       "size":  73633,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Too%20Many%20Entities%201.21.1%20Fabric%20v1.2.0.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Too%20Many%20Entities%201.21.1%20Fabric%20v1.2.0.jar"
                   },
                   {
-                      "path":  "mods/tragamonedas-1.2.1.jar.disabled",
+                      "path":  "mods/tragamonedas-1.2.1.jar",
                       "sha256":  "afa36a17c44a5c67107a9af247edfc8df78cbc7f089eaee9b559d7c8a5a0aa89",
                       "size":  96084,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tragamonedas-1.2.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tragamonedas-1.2.1.jar"
                   },
                   {
-                      "path":  "mods/txnilib-fabric-1.0.24-1.21.1.jar.disabled",
+                      "path":  "mods/txnilib-fabric-1.0.24-1.21.1.jar",
                       "sha256":  "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3",
                       "size":  1303092,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/txnilib-fabric-1.0.24-1.21.1.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/txnilib-fabric-1.0.24-1.21.1.jar"
                   },
                   {
-                      "path":  "mods/vanillin-fabric-1.21.1-1.1.3.jar.disabled",
+                      "path":  "mods/vanillin-fabric-1.21.1-1.1.3.jar",
                       "sha256":  "7552ea4b234b8bc5ddb49a2244270cc639cf14851233f480ab088bb87f93ab25",
                       "size":  872000,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/vanillin-fabric-1.21.1-1.1.3.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/vanillin-fabric-1.21.1-1.1.3.jar"
                   },
                   {
-                      "path":  "mods/voicechat-fabric-1.21.1-2.6.24.jar.disabled",
+                      "path":  "mods/voicechat-fabric-1.21.1-2.6.24.jar",
                       "sha256":  "a6982277bac53420c0e64f8305e133cbadb0f982b30d6ccce9b3e02dfdff991b",
                       "size":  5386871,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/voicechat-fabric-1.21.1-2.6.24.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/voicechat-fabric-1.21.1-2.6.24.jar"
                   },
                   {
-                      "path":  "mods/watermedia-3.0.0.23.jar.disabled",
+                      "path":  "mods/watermedia-3.0.0.23.jar",
                       "sha256":  "c3baefc8fbb005e349b3424f7df8f9d89b18524d5f7a358c6df73ca5e1d98b38",
                       "size":  3625444,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watermedia-3.0.0.23.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watermedia-3.0.0.23.jar"
                   },
                   {
-                      "path":  "mods/watervisionfixed.jar.disabled",
+                      "path":  "mods/watermedia_binaries-3.0.0.6.jar",
+                      "sha256":  "2d9333061c3d2330033fe68837a31f546dbf58984455b0cfec0deeff6b1f121e",
+                      "size":  143725808,
+                      "url":  "https://github.com/kazdev97/Hallogeey/releases/download/watermedia-binaries-v1/watermedia_binaries-3.0.0.6.jar"
+                  },
+                  {
+                      "path":  "mods/watervisionfixed.jar",
                       "sha256":  "d5ccc93aeaa69d3e20c8bca843bb38b3eaa3727803ee1dcfcddeac93f4bb0902",
                       "size":  82958,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watervisionfixed.jar.disabled"
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watervisionfixed.jar"
                   },
                   {
                       "path":  "mods/worldedit-mod-7.3.8.jar.disabled",
@@ -438,12 +444,6 @@
                       "sha256":  "753127d67ff1cdecf9f0515ac7ece913f8c0506539c116288e392f27086c5d34",
                       "size":  1113,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immediatelyfast.json"
-                  },
-                  {
-                      "path":  "config/drippyloadingscreen/options.txt",
-                      "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
-                      "size":  2465,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/drippyloadingscreen/options.txt"
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",

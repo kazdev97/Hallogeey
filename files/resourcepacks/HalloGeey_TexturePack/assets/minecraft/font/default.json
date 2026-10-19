@@ -1,0 +1,53 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/owner.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["ぱ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/jugador.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["ひ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/footer.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["び"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/top.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["ゑ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/streamer.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["ヿ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/staffp.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["ヾ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/staff.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["ヽ"]
+    }                              
+  ]
+}

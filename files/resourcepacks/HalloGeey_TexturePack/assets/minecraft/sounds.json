@@ -1,0 +1,47 @@
+{
+  "boss": {
+    "sounds": [
+      "custom/boss"
+    ]
+  },
+  "cistal": {
+    "sounds": [
+      "custom/cistal"
+    ]
+  },
+  "lvlup": {
+    "sounds": [
+      "custom/lvlup"
+    ]
+  },
+  "neon": {
+    "sounds": [
+      "custom/neon"
+    ]
+  },
+  "quest": {
+    "sounds": [
+      "custom/quest"
+    ]
+  },
+  "sprint": {
+    "sounds": [
+      "custom/sprint"
+    ]
+  },
+  "turbo": {
+    "sounds": [
+      "custom/turbo"
+    ]
+  },
+  "trompetas": {
+    "sounds": [
+      "custom/trompetas"
+    ]
+  },
+  "campanas": {
+    "sounds": [
+      "custom/campanas"
+    ]
+  }    
+}

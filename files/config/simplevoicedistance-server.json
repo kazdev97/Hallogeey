@@ -1,0 +1,17 @@
+{
+  "_comment": "Voice distance settings (voice_distance)",
+  "_comment_whisperDistance": "Distance for whisper mode (range: 1.0 - 48.0)",
+  "whisperDistance": 4.0,
+  "_comment_normalDistance": "Distance for normal mode (range: 1.0 - 48.0)",
+  "normalDistance": 15.0,
+  "_comment_callDistance": "Distance for call mode (range: 1.0 - 48.0)",
+  "callDistance": 30.0,
+  "_comment_shoutDistance": "Distance for shout mode (range: 1.0 - 48.0)",
+  "shoutDistance": 48.0,
+  "_comment_cooldownSeconds": "Cooldown duration in seconds for cycling voice distance mode (range: 0 - 60)",
+  "cooldownSeconds": 1,
+  "_comment_showWelcomeMessage": "Show welcome message on client login",
+  "showWelcomeMessage": true,
+  "_comment_showChatPrefix": "Show current voice range in chat message suffix",
+  "showChatPrefix": true
+}

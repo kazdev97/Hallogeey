@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101886636186",
+    "revision":  "2026101935313702",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -170,10 +170,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.9.jar",
-                      "sha256":  "9d2b49e57941c1f1114e889ea776c2865af7b620dccbecff84bcd966ccc6f0ae",
-                      "size":  10797414,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.9.jar"
+                      "path":  "mods/hallogeeymobs-1.0.10.jar",
+                      "sha256":  "5328cd745035c76973ac90487eb14818b479e6e3ca8f745b37753dcb8da6c365",
+                      "size":  13074180,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.10.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.1.jar",
@@ -192,6 +192,18 @@
                       "sha256":  "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9",
                       "size":  342770,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
+                      "sha256":  "772abf8195a7b97455df8457e42a354196d138c7e9260ea0cd7c08d9471871ac",
+                      "size":  915260,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
+                      "sha256":  "46f2f450743e1c64a3ffbe4bef4211b2e9e6813401d29a284492ca210086df53",
+                      "size":  1946502,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/immersivemessages-fabric-1.0.18-1.21.1.jar"
                   },
                   {
                       "path":  "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
@@ -284,6 +296,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/placeholder-api-2.4.2%2B1.21.jar"
                   },
                   {
+                      "path":  "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+                      "sha256":  "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd",
+                      "size":  204541,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/player-animation-lib-fabric-2.0.4%2B1.21.1.jar"
+                  },
+                  {
                       "path":  "mods/qtehtag-1.0.4.jar",
                       "sha256":  "f4e73c5b3893594ae24767d617f33b8db5c4f065c6fe92b817daa7929a1367cc",
                       "size":  7838516,
@@ -318,6 +336,18 @@
                       "sha256":  "f32ed8d825c7af90b14ab9f7bbe1293818bcf411fea104ae20d18ecde30f8387",
                       "size":  177266,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar"
+                  },
+                  {
+                      "path":  "mods/seriousplayeranimations-1.2.0.jar",
+                      "sha256":  "8541d8bc4fbcb710a3928cf2469ceaf467c8b13e425f15eab7589b9110a28cdb",
+                      "size":  159577,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/seriousplayeranimations-1.2.0.jar"
+                  },
+                  {
+                      "path":  "mods/simplevoicedistance-1.6.1-fabric1.21.1.jar",
+                      "sha256":  "db8359a182807a1d37b3359c5b8e0fe098cdd333d2241fa09cbc1eee09b6259d",
+                      "size":  95332,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/simplevoicedistance-1.6.1-fabric1.21.1.jar"
                   },
                   {
                       "path":  "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
@@ -368,10 +398,22 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/tragamonedas-1.2.1.jar"
                   },
                   {
+                      "path":  "mods/txnilib-fabric-1.0.24-1.21.1.jar",
+                      "sha256":  "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3",
+                      "size":  1303092,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/txnilib-fabric-1.0.24-1.21.1.jar"
+                  },
+                  {
                       "path":  "mods/vanillin-fabric-1.21.1-1.1.3.jar",
                       "sha256":  "7552ea4b234b8bc5ddb49a2244270cc639cf14851233f480ab088bb87f93ab25",
                       "size":  872000,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/vanillin-fabric-1.21.1-1.1.3.jar"
+                  },
+                  {
+                      "path":  "mods/voicechat-fabric-1.21.1-2.6.24.jar",
+                      "sha256":  "a6982277bac53420c0e64f8305e133cbadb0f982b30d6ccce9b3e02dfdff991b",
+                      "size":  5386871,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/voicechat-fabric-1.21.1-2.6.24.jar"
                   },
                   {
                       "path":  "mods/watermedia-3.0.0.23.jar",
@@ -500,6 +542,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/flywheel.json"
                   },
                   {
+                      "path":  "config/forgeconfigapiport.toml",
+                      "sha256":  "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
+                      "size":  523,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/forgeconfigapiport.toml"
+                  },
+                  {
                       "path":  "config/fpsdisplay.json",
                       "sha256":  "38c8e806a556fb3290fbae04d07e386918dc253464875d60ad38be77df9103e7",
                       "size":  199,
@@ -530,6 +578,18 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immediatelyfast.json"
                   },
                   {
+                      "path":  "config/immersivedamageindicators-client.toml",
+                      "sha256":  "99b17151ffe82cce4de32d10e066760b4f78f38e3502eff53cc7c26988f3598a",
+                      "size":  821,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immersivedamageindicators-client.toml"
+                  },
+                  {
+                      "path":  "config/immersivemessages-client.toml",
+                      "sha256":  "d75ffb7718f43a06179d503ffc13f00f51ef61ddf4f3a782a261b8f6bd8c2945",
+                      "size":  277,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/immersivemessages-client.toml"
+                  },
+                  {
                       "path":  "config/iris-excluded.json",
                       "sha256":  "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
                       "size":  31,
@@ -537,7 +597,7 @@
                   },
                   {
                       "path":  "config/iris.properties",
-                      "sha256":  "fd9602a21529b065b78903d17641f7675d9b3fec554fa17e332d2e1134cac8c3",
+                      "sha256":  "18a63bee4f4a819fe59a1a983ffb17da78cd8afe9e39c9941ef20134376646ad",
                       "size":  313,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/iris.properties"
                   },
@@ -621,13 +681,25 @@
                   },
                   {
                       "path":  "config/scalablelux.properties",
-                      "sha256":  "4189fd0ea270a42b2dfaaf728a94e34f83957bc1b53b728bb20413ec63a785a5",
+                      "sha256":  "b7ae6eed1f3501912cba3b96207c60ca3e7288ee9d95377db1a31c6d550e11d9",
                       "size":  84,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/scalablelux.properties"
                   },
                   {
+                      "path":  "config/simplevoicedistance-client.json",
+                      "sha256":  "d15bfd86707bdfc0306d9504037cf7b022d42d7a00e8fecf5deb20c24b33513f",
+                      "size":  835,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/simplevoicedistance-client.json"
+                  },
+                  {
+                      "path":  "config/simplevoicedistance-server.json",
+                      "sha256":  "6dd920e6888f03c910dfeb0c674bdc34d55d861538d30326768f29b86fdfa7df",
+                      "size":  808,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/simplevoicedistance-server.json"
+                  },
+                  {
                       "path":  "config/sixtysevenentity.properties",
-                      "sha256":  "dd1e59748c65b6bdcf7ee9c4c9ccf655eca8987b7aef8a1f0eb3c8fa0fef6b22",
+                      "sha256":  "b376366f0757aae53f3a832b82a4c0958916567449d39b49f829dbab0cfa91a4",
                       "size":  419,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/sixtysevenentity.properties"
                   },
@@ -735,7 +807,7 @@
                   },
                   {
                       "path":  "config/asyncparticles/asyncparticles-mixin.properties",
-                      "sha256":  "77d8b77a847820c5afa1fd55c5b85e439355c527c779219704a29bb99eb82fdd",
+                      "sha256":  "23a9477b2f8d99d1f4927daf6f3ed0490bc546f899b751ffdbceff71fc383f29",
                       "size":  2090,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/asyncparticles/asyncparticles-mixin.properties"
                   },
@@ -813,7 +885,7 @@
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "sha256":  "45a28e4e8a37a848dff010c77b90b3bf07c3caec062fdecfd6c56df8146d1754",
+                      "sha256":  "df1361442bb345a61adab4b454c210e88f9378386d9edbca50f6f7fd29e7f93b",
                       "size":  290,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fabric/indigo-renderer.properties"
                   },
@@ -1052,6 +1124,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/multiworld/portals.yml"
                   },
                   {
+                      "path":  "config/seriousplayeranimations/client.json5",
+                      "sha256":  "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9",
+                      "size":  2181,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/seriousplayeranimations/client.json5"
+                  },
+                  {
                       "path":  "config/spark/activity.json",
                       "sha256":  "80d930de9e8004d83c25daee540a5140c0e99141232bdd7a7ba015d8549f3f34",
                       "size":  574,
@@ -1086,6 +1164,42 @@
                       "sha256":  "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e",
                       "size":  21,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/tiny-terrors/state.json"
+                  },
+                  {
+                      "path":  "config/voicechat/category-volumes.properties",
+                      "sha256":  "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56",
+                      "size":  46,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/voicechat/category-volumes.properties"
+                  },
+                  {
+                      "path":  "config/voicechat/player-volumes.properties",
+                      "sha256":  "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96",
+                      "size":  44,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/voicechat/player-volumes.properties"
+                  },
+                  {
+                      "path":  "config/voicechat/translations.properties",
+                      "sha256":  "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1",
+                      "size":  1182,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/voicechat/translations.properties"
+                  },
+                  {
+                      "path":  "config/voicechat/username-cache.json",
+                      "sha256":  "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+                      "size":  2,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/voicechat/username-cache.json"
+                  },
+                  {
+                      "path":  "config/voicechat/voicechat-client.properties",
+                      "sha256":  "574a98d87e115472aba98f50351cdf930297f260fb8566dac1354843cd21c94a",
+                      "size":  5158,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/voicechat/voicechat-client.properties"
+                  },
+                  {
+                      "path":  "config/voicechat/voicechat-server.properties",
+                      "sha256":  "cf7e4d387b04e70d39b49addc41a4c1e7004b6d4f289d5770e0c233eead1a808",
+                      "size":  3214,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/voicechat/voicechat-server.properties"
                   },
                   {
                       "path":  "config/worldedit/worldedit.properties",

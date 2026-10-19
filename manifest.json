@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026101936057320",
+    "revision":  "2026101937070451",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -87,8 +87,8 @@
                   },
                   {
                       "path":  "mods/customskyHG-1.0.5.jar",
-                      "sha256":  "fcde8e71fb13123751ea8cb981eb0b03342f8f7165b8f4b35e7627ea4d4da98a",
-                      "size":  82875966,
+                      "sha256":  "3145e41098f740a85337f92da7f296e8983bf42ece083a63781aa41f0f4b4624",
+                      "size":  82877169,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyHG-1.0.5.jar"
                   },
                   {

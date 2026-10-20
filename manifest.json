@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102091085179",
+    "revision":  "2026102026133158",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -50,6 +50,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/blockus-2.9.18%2B1.21.1.jar"
                   },
                   {
+                      "path":  "mods/BorderlessFullscreen-v2.4.1-mc1.21.1.jar",
+                      "sha256":  "cfe583d65f6ad5c5881f93b952815c57cd7acca23e5bd0a9d202cf4b1d023105",
+                      "size":  206310,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/BorderlessFullscreen-v2.4.1-mc1.21.1.jar"
+                  },
+                  {
                       "path":  "mods/bountifulblocks-1.21-0.9.6.jar",
                       "sha256":  "dccec5c4eb472a83eafe01ed251acc14a278bf5e0496f0fb48660a215da57411",
                       "size":  3010531,
@@ -72,6 +78,12 @@
                       "sha256":  "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
                       "size":  20723,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
+                  },
+                  {
+                      "path":  "mods/Controlling-fabric-1.21.1-19.0.5.jar",
+                      "sha256":  "c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d",
+                      "size":  83679,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Controlling-fabric-1.21.1-19.0.5.jar"
                   },
                   {
                       "path":  "mods/cpm-svc-compat-1.3.2.jar",
@@ -374,6 +386,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar"
                   },
                   {
+                      "path":  "mods/Searchables-fabric-1.21.1-1.0.2.jar",
+                      "sha256":  "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76",
+                      "size":  79531,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/Searchables-fabric-1.21.1-1.0.2.jar"
+                  },
+                  {
                       "path":  "mods/seriousplayeranimations-1.2.0.jar",
                       "sha256":  "8541d8bc4fbcb710a3928cf2469ceaf467c8b13e425f15eab7589b9110a28cdb",
                       "size":  159577,
@@ -474,6 +492,12 @@
                       "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
                       "size":  6222854,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/worldedit-mod-7.3.8.jar.disabled"
+                  },
+                  {
+                      "path":  "mods/[1.21.1] SecurityCraft-fabric-V0.6.1.jar",
+                      "sha256":  "7ea8a8a37615c5a7eeb95a3db5b0ea71e566f147c7422f1e9898b051bf6375b1",
+                      "size":  2267199,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/%5B1.21.1%5D%20SecurityCraft-fabric-V0.6.1.jar"
                   },
                   {
                       "path":  "config/immediatelyfast.json",

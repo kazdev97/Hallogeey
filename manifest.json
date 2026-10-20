@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102090883080",
+    "revision":  "2026102091085179",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -410,10 +410,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/supplementaries-1.21.1-3.9.9-fabric.jar"
                   },
                   {
-                      "path":  "mods/teams-hallogeey-1.0.0.jar",
-                      "sha256":  "424ca93c5e9d4ed3feb186c2ab4a85973b4b854e4ae8e28485b6e3472f8d4d67",
-                      "size":  115426,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/teams-hallogeey-1.0.0.jar"
+                      "path":  "mods/teams-hallogeey-1.0.1.jar",
+                      "sha256":  "cefe38371d9d21952db15064583d798b5b81ed713d9c302962eb23d32a008f1b",
+                      "size":  126924,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/teams-hallogeey-1.0.1.jar"
                   },
                   {
                       "path":  "mods/tiny-terrors-1.0.3+1.21.1.jar",

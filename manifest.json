@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102117664646",
+    "revision":  "2026102125473542",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -516,6 +516,24 @@
                       "sha256":  "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5",
                       "size":  2465,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/drippyloadingscreen/options.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/customizablemenus.txt",
+                      "sha256":  "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1",
+                      "size":  128,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customizablemenus.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/custom_gui_screens.txt",
+                      "sha256":  "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+                      "size":  51,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/custom_gui_screens.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/legacy_checklist.txt",
+                      "sha256":  "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+                      "size":  42,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/legacy_checklist.txt"
                   },
                   {
                       "path":  "config/fancymenu/assets/arcoiris_button1.png",

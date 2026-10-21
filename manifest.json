@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102117072048",
+    "revision":  "2026102117664646",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -658,5 +658,8 @@
                 ],
     "default_resourcepacks":  [
                                   "HalloGeey2.zip"
-                              ]
+                              ],
+    "banned":  [
+                   "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar"
+               ]
 }

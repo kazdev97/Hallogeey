@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102113216752",
+    "revision":  "2026102114328115",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -108,6 +108,12 @@
                       "sha256":  "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
                       "size":  276120,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/dynamic-lighting-1.0.jar",
+                      "sha256":  "d999ac33306a617195bc63efd1cbcf2d1dc74c6473afd4e932d861ec35ef37ff",
+                      "size":  242779,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/dynamic-lighting-1.0.jar"
                   },
                   {
                       "path":  "mods/easy_npc-fabric-1.21.1-7.16.0.jar",
@@ -420,18 +426,6 @@
                       "sha256":  "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
                       "size":  1574609,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
-                  },
-                  {
-                      "path":  "mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
-                      "sha256":  "bba0be7db914ea799b5e3e93e0ba85a917c21b2da5ac7623981001c001965c70",
-                      "size":  899434,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar"
-                  },
-                  {
-                      "path":  "mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
-                      "sha256":  "59b8de5a85b964b9fb9ff83042240ca8842ea77e430d89c69af57dfdff1acc29",
-                      "size":  903592,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
                   },
                   {
                       "path":  "mods/SomeMoreBlocks@fabric-1.21-1.1.5.jar",

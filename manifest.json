@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102162884230",
+    "revision":  "2026102170533776",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -200,10 +200,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.10.jar",
-                      "sha256":  "5328cd745035c76973ac90487eb14818b479e6e3ca8f745b37753dcb8da6c365",
-                      "size":  13074180,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.10.jar"
+                      "path":  "mods/hallogeeymobs-1.0.13.jar",
+                      "sha256":  "72b71c1069f07d81d4a4e9ddbed371ff1bcbe3814ef0645c04b337a3bee78eba",
+                      "size":  13076840,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.13.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",

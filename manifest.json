@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102116184454",
+    "revision":  "2026102117072048",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -518,36 +518,6 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/drippyloadingscreen/options.txt"
                   },
                   {
-                      "path":  "config/fancymenu/customizablemenus.txt",
-                      "sha256":  "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1",
-                      "size":  128,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customizablemenus.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/custom_gui_screens.txt",
-                      "sha256":  "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
-                      "size":  51,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/custom_gui_screens.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/legacy_checklist.txt",
-                      "sha256":  "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
-                      "size":  42,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/legacy_checklist.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/options.txt",
-                      "sha256":  "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab",
-                      "size":  4400,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/options.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/user_variables.db",
-                      "sha256":  "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
-                      "size":  23,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/user_variables.db"
-                  },
-                  {
                       "path":  "config/fancymenu/assets/arcoiris_button1.png",
                       "sha256":  "a1a8a9074079ca1ceacbf6ddf8d31ec4a2794e81f2f1d35acb02636a28754d53",
                       "size":  5929,
@@ -618,12 +588,6 @@
                       "sha256":  "80f34dcbe8f23a15a8d62eddf3a68d0df93a2abbeb2a11594c13766c19780c52",
                       "size":  64863,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
-                  },
-                  {
-                      "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-                      "sha256":  "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
-                      "size":  197,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
                   },
                   {
                       "path":  "config/fancymenu/ui_themes/cherry_blossom.json",

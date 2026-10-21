@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102170533776",
+    "revision":  "2026102177251794",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -92,12 +92,6 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/cpm-svc-compat-1.3.2.jar"
                   },
                   {
-                      "path":  "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar",
-                      "sha256":  "b40f5a9e88789444d223c715853ae24c379cb7e13f26e84143ba6c6f8667f5a0",
-                      "size":  13042156,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar"
-                  },
-                  {
                       "path":  "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
                       "sha256":  "d6544dfc5b04809a7cc83e2eb71e463bb7be2846a3207a5f0627b47653046a94",
                       "size":  2845602,
@@ -114,6 +108,18 @@
                       "sha256":  "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
                       "size":  276120,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/easy_npc-fabric-1.21.1-7.16.0.jar",
+                      "sha256":  "55e7947bc6742b3ab3e07893687ce69dec3040e4b211c7e59a5a262c43b59339",
+                      "size":  3262985,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/easy_npc-fabric-1.21.1-7.16.0.jar"
+                  },
+                  {
+                      "path":  "mods/easy_npc_config_ui-fabric-1.21.1-7.16.0.jar",
+                      "sha256":  "6de7efe610771940ca675aff286769bfebb7151242b203146a4031ce2e77db52",
+                      "size":  1202466,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/easy_npc_config_ui-fabric-1.21.1-7.16.0.jar"
                   },
                   {
                       "path":  "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
@@ -200,10 +206,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.13.jar",
-                      "sha256":  "72b71c1069f07d81d4a4e9ddbed371ff1bcbe3814ef0645c04b337a3bee78eba",
-                      "size":  13076840,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.13.jar"
+                      "path":  "mods/hallogeeymobs-1.0.14.jar",
+                      "sha256":  "5646802c1897f3a5c80fffba8c9345f5e0b4e7da4c1588befcc8b71f52988a69",
+                      "size":  13076850,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.14.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",

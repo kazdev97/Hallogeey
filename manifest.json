@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102114328115",
+    "revision":  "2026102116184454",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -108,12 +108,6 @@
                       "sha256":  "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
                       "size":  276120,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
-                  },
-                  {
-                      "path":  "mods/dynamic-lighting-1.0.jar",
-                      "sha256":  "d999ac33306a617195bc63efd1cbcf2d1dc74c6473afd4e932d861ec35ef37ff",
-                      "size":  242779,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/dynamic-lighting-1.0.jar"
                   },
                   {
                       "path":  "mods/easy_npc-fabric-1.21.1-7.16.0.jar",

@@ -356,7 +356,7 @@ layout_action_executable_blocks {
 element {
   button_element_executable_block_identifier = 399868e0-7f7d-41eb-aedd-d9b6af207ff0-1791699868932
   [executable_action_instance:9a5bdab1-4782-4be8-9af8-4afb4f4f668f-1791955067620][action_type:joinserver] = 66.11.123.50:25572
-  [executable_action_instance:6120ded3-b61a-4e29-8ae9-d91f74f85218-1791955209488][action_type:disconnect_server_or_world] = vgui:main_menu
+  [executable_action_instance:6120ded3-b61a-4e29-8ae9-d91f74f85218-1791955209488][action_type:disconnect_server_or_world] = title_screen
   [executable_block:399868e0-7f7d-41eb-aedd-d9b6af207ff0-1791699868932][type:generic] = [executables:9a5bdab1-4782-4be8-9af8-4afb4f4f668f-1791955067620;6120ded3-b61a-4e29-8ae9-d91f74f85218-1791955209488;]
   backgroundnormal = [source:local]/config/fancymenu/assets/arcoiris_button1_hover.png
   backgroundhovered = [source:local]/config/fancymenu/assets/arcoiris_button1_hover.png

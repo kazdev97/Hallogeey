@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102177251794",
+    "revision":  "2026102113216752",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -420,6 +420,18 @@
                       "sha256":  "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
                       "size":  1574609,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
+                      "sha256":  "bba0be7db914ea799b5e3e93e0ba85a917c21b2da5ac7623981001c001965c70",
+                      "size":  899434,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+                      "sha256":  "59b8de5a85b964b9fb9ff83042240ca8842ea77e430d89c69af57dfdff1acc29",
+                      "size":  903592,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
                   },
                   {
                       "path":  "mods/SomeMoreBlocks@fabric-1.21-1.1.5.jar",

@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102026133158",
+    "revision":  "2026102048264791",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -609,7 +609,7 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "752df0a5077105549c54ac4e9474a8a255740f93015e4c6d96cf85a1a7480cf1",
+                      "sha256":  "6321003c8c878f020b87e61ac3363a80a43bd31a7fa0326a083f3180dc8acc1b",
                       "size":  64865,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },

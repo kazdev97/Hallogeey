@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102146768051",
+    "revision":  "2026102257594079",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -104,6 +104,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/customskyHG-1.0.5.jar"
                   },
                   {
+                      "path":  "mods/despawntweaks-fabric-1.0.0-1.21.1.jar",
+                      "sha256":  "c8ec64fe6254c32ff33f6674a08f7147d9d6519d2bcb85b27934f997a1f34bbb",
+                      "size":  1059167,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/despawntweaks-fabric-1.0.0-1.21.1.jar"
+                  },
+                  {
                       "path":  "mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
                       "sha256":  "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
                       "size":  276120,
@@ -158,10 +164,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/entity_texture_features-7.2.6-1.21-fabric.jar"
                   },
                   {
-                      "path":  "mods/fabric-api-0.116.8+1.21.1.jar",
-                      "sha256":  "78bae319e7fdc531e94ad3d885f2f35613fc126645a1cbb49e8456b90835491b",
-                      "size":  2425441,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fabric-api-0.116.8%2B1.21.1.jar"
+                      "path":  "mods/fabric-api-0.116.17+1.21.1.jar",
+                      "sha256":  "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
+                      "size":  2452735,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fabric-api-0.116.17%2B1.21.1.jar"
                   },
                   {
                       "path":  "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
@@ -198,6 +204,18 @@
                       "sha256":  "eb755bca2507a81130b0c1b7f683ae9c01533e8273afadb981df69baa538f854",
                       "size":  75618,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/geckolib-fabric-1.21.1-4.9.3.jar",
+                      "sha256":  "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
+                      "size":  664463,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/geckolib-fabric-1.21.1-4.9.3.jar"
+                  },
+                  {
+                      "path":  "mods/glow_sticks-fabric-1.21.1-7.5.1.jar",
+                      "sha256":  "d2feb8c708ad198873ff77c228fa5f4d1f5987b6b46828c5197ca620a7cf0e7f",
+                      "size":  371562,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/glow_sticks-fabric-1.21.1-7.5.1.jar"
                   },
                   {
                       "path":  "mods/hallogeey-portals-1.0.0.jar",
@@ -266,6 +284,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/journeymap-fabric-1.21.1-6.0.9.jar"
                   },
                   {
+                      "path":  "mods/kawaii-dishes-1.13-beta14.jar",
+                      "sha256":  "d8030c7fb6ad9561f0546df4ce1ecf21b09e8ed1a4b34ea502abdc4525ed1028",
+                      "size":  444299,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/kawaii-dishes-1.13-beta14.jar"
+                  },
+                  {
                       "path":  "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
                       "sha256":  "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
                       "size":  786695,
@@ -278,6 +302,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-furniture-fabric-1.1.6.jar"
                   },
                   {
+                      "path":  "mods/letsdo-vinery-fabric-1.5.6.jar",
+                      "sha256":  "e944a4af4e9c8973c611c5fd517972f031971109ec3959441d775a80025b1d4b",
+                      "size":  2528680,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-vinery-fabric-1.5.6.jar"
+                  },
+                  {
                       "path":  "mods/lithium-fabric-0.15.2+mc1.21.1.jar",
                       "sha256":  "537bc45224e81dd1cbae25c1a972f14dac2456f0f8725ced3ca88ae41d0156d3",
                       "size":  797184,
@@ -288,12 +318,6 @@
                       "sha256":  "2b33fa73a28c14f0983459c165e8c7b491cd1d798c947b967207f66194fb531d",
                       "size":  1111591,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/lootr-fabric-1.21.1-1.11.38.127.jar"
-                  },
-                  {
-                      "path":  "mods/mc-paint-1.3.1.jar",
-                      "sha256":  "e7b66574dbdfc0a03faeff8cfe8365ea44a3876664785645cc48a669fda7c7c6",
-                      "size":  1869958,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/mc-paint-1.3.1.jar"
                   },
                   {
                       "path":  "mods/mcw-holidays-1.1.2-mc1.21.1fabric.jar",
@@ -332,6 +356,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/moreculling-fabric-1.21.1-1.0.10.jar"
                   },
                   {
+                      "path":  "mods/mypictureframe-fabric-1.21.1-1.5.0.jar",
+                      "sha256":  "74e4498e08eb4594a09dcd39d2f329e132ce50a61e5bc90a684f531bd7bf0ca4",
+                      "size":  1201356,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/mypictureframe-fabric-1.21.1-1.5.0.jar"
+                  },
+                  {
                       "path":  "mods/noxesium-2.3.3.jar",
                       "sha256":  "62e9407835ecf86b462eba23e9701d919978459d0ff576bd7116fd8a1d3b72e2",
                       "size":  545182,
@@ -348,6 +378,18 @@
                       "sha256":  "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd",
                       "size":  204541,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/player-animation-lib-fabric-2.0.4%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/plushables-fabric-2.3.3+1.21.1.jar",
+                      "sha256":  "50918ec0edd7158f4bdde6a4ac7cdaf9d305cae55bb73abc9abdd7ada98e4f2b",
+                      "size":  545353,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/plushables-fabric-2.3.3%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/plushie_friends-1.0.2+1.21.1-fabric.jar",
+                      "sha256":  "0c8919a386df0d54764e23d22c120adfcd40e297140c92c98aacaca1dd8b01d2",
+                      "size":  93563,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/plushie_friends-1.0.2%2B1.21.1-fabric.jar"
                   },
                   {
                       "path":  "mods/pride_land-1.1.3-1.21.1-fabric.jar",
@@ -434,6 +476,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/supplementaries-1.21.1-3.9.9-fabric.jar"
                   },
                   {
+                      "path":  "mods/syrup_library-0.5.1+1.21.1-fabric.jar",
+                      "sha256":  "9f40adcfcf1ba468d655ddd16eb3c0bddd66a362559c77c15de4c4c44e739dd5",
+                      "size":  224776,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/syrup_library-0.5.1%2B1.21.1-fabric.jar"
+                  },
+                  {
                       "path":  "mods/teams-hallogeey-1.0.1.jar",
                       "sha256":  "cefe38371d9d21952db15064583d798b5b81ed713d9c302962eb23d32a008f1b",
                       "size":  126924,
@@ -512,6 +560,36 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/drippyloadingscreen/options.txt"
                   },
                   {
+                      "path":  "config/fancymenu/customizablemenus.txt",
+                      "sha256":  "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1",
+                      "size":  128,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customizablemenus.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/custom_gui_screens.txt",
+                      "sha256":  "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+                      "size":  51,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/custom_gui_screens.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/legacy_checklist.txt",
+                      "sha256":  "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+                      "size":  42,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/legacy_checklist.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/options.txt",
+                      "sha256":  "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab",
+                      "size":  4400,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/options.txt"
+                  },
+                  {
+                      "path":  "config/fancymenu/user_variables.db",
+                      "sha256":  "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+                      "size":  23,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/user_variables.db"
+                  },
+                  {
                       "path":  "config/fancymenu/assets/arcoiris_button1.png",
                       "sha256":  "a1a8a9074079ca1ceacbf6ddf8d31ec4a2794e81f2f1d35acb02636a28754d53",
                       "size":  5929,
@@ -584,6 +662,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },
                   {
+                      "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+                      "sha256":  "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
+                      "size":  197,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+                  },
+                  {
                       "path":  "config/fancymenu/ui_themes/cherry_blossom.json",
                       "sha256":  "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
                       "size":  9349,
@@ -642,18 +726,77 @@
                       "sha256":  "38827cd96f60f995528195b889b357efc7d92726d41332842d75b54e2e6a6709",
                       "size":  26373826,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/resourcepacks/HalloGeey2.zip"
+                  },
+                  {
+                      "path":  "fancymenu_data/action_favorites.json",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/action_favorites.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/browser_audio_settings.json",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/browser_audio_settings.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/browser_video_settings.json",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/browser_video_settings.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/last_world.fmdata",
+                      "sha256":  "1d1c895de4f1a1cc6c1fde47c01c5d2f6f37580324f85e8799051f6ee32a5dd8",
+                      "size":  83,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_leveling_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json",
+                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+                      "size":  1619,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_leveling_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_leveling_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json",
+                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+                      "size":  1619,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_leveling_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_save_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json",
+                      "sha256":  "eb251672bf8739186b1fa894ba773e10cab66373317749760178ee50d73c3797",
+                      "size":  381,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_save_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json",
+                      "sha256":  "eb251672bf8739186b1fa894ba773e10cab66373317749760178ee50d73c3797",
+                      "size":  381,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json"
                   }
               ],
     "protected":  [
 
                   ],
     "managed":  [
-
+                    "mods",
+                    "config",
+                    "resourcepacks",
+                    "fancymenu_data"
                 ],
     "default_resourcepacks":  [
                                   "HalloGeey2.zip"
                               ],
     "banned":  [
                    "mods/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar"
-               ]
+               ],
+    "volatile":  [
+                     "config/fancymenu/options.txt",
+                     "config/fancymenu/user_variables.db",
+                     "config/fancymenu/customizablemenus.txt",
+                     "config/fancymenu/custom_gui_screens.txt",
+                     "config/fancymenu/legacy_checklist.txt",
+                     "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+                 ]
 }

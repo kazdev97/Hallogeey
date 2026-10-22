@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102125473542",
+    "revision":  "2026102144759804",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -492,12 +492,6 @@
                       "sha256":  "d5ccc93aeaa69d3e20c8bca843bb38b3eaa3727803ee1dcfcddeac93f4bb0902",
                       "size":  82958,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/watervisionfixed.jar"
-                  },
-                  {
-                      "path":  "mods/worldedit-mod-7.3.8.jar.disabled",
-                      "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
-                      "size":  6222854,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/worldedit-mod-7.3.8.jar.disabled"
                   },
                   {
                       "path":  "mods/[1.21.1] SecurityCraft-fabric-V0.6.1.jar",

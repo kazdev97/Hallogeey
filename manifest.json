@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102358996674",
+    "revision":  "2026102384463482",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -231,8 +231,8 @@
                   },
                   {
                       "path":  "mods/hallogeeymobs-1.0.19.jar",
-                      "sha256":  "aaadc2c66ddef4bc4d60845d66422066c95ca5a6d861acbe2a214938a606177d",
-                      "size":  13082129,
+                      "sha256":  "cf6236fe688dc18604474b3036791badb605b67f64af8299a9d64b6f3f07da21",
+                      "size":  13082289,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.19.jar"
                   },
                   {
@@ -423,8 +423,8 @@
                   },
                   {
                       "path":  "mods/qtehtag-1.0.4.jar",
-                      "sha256":  "f4e73c5b3893594ae24767d617f33b8db5c4f065c6fe92b817daa7929a1367cc",
-                      "size":  7838516,
+                      "sha256":  "1b7700584ea45137d56a690b6308b925a17008a8e624f2a78451304da503d0e6",
+                      "size":  7846837,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.4.jar"
                   },
                   {

@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102349922749",
+    "revision":  "2026102354387292",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -116,6 +116,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar"
                   },
                   {
+                      "path":  "mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+                      "sha256":  "055b07436bc0c4f175345657e09e5375a529520aa1f9d06af557b413d7815fc6",
+                      "size":  426439,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar"
+                  },
+                  {
                       "path":  "mods/easy_npc-fabric-1.21.1-7.16.0.jar",
                       "sha256":  "55e7947bc6742b3ab3e07893687ce69dec3040e4b211c7e59a5a262c43b59339",
                       "size":  3262985,
@@ -224,10 +230,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.15.jar",
-                      "sha256":  "79d56bc3616972c2fe8a41c737f16c911f0614686f880888ecac2fd334a18d5f",
-                      "size":  13077259,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.15.jar"
+                      "path":  "mods/hallogeeymobs-1.0.17.jar",
+                      "sha256":  "f6ecf589853b8256c2b2ecb428902ca8d47d6cb3b42fd2d38e1f7ca042464a3a",
+                      "size":  13077789,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.17.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",

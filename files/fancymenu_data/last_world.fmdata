@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = 66.11.123.50:25572
+  is_server = false
+  world = C:/Users/kaz/AppData/Roaming/PrismLauncher/instances/HalloGeey/minecraft/saves/Mundo nuevo (1)
 }
 

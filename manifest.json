@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102257594079",
+    "revision":  "2026102346550545",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -224,10 +224,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.14.jar",
-                      "sha256":  "5646802c1897f3a5c80fffba8c9345f5e0b4e7da4c1588befcc8b71f52988a69",
-                      "size":  13076850,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.14.jar"
+                      "path":  "mods/hallogeeymobs-1.0.15.jar",
+                      "sha256":  "79d56bc3616972c2fe8a41c737f16c911f0614686f880888ecac2fd334a18d5f",
+                      "size":  13077259,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.15.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",
@@ -296,10 +296,28 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/konkrete_fabric_1.9.9_MC_1.21.jar"
                   },
                   {
+                      "path":  "mods/letsdo-bakery-fabric-2.1.11.jar",
+                      "sha256":  "ebcf9db51cec4cb39179537be24d8db4b04050e388ecb5605b90214dc1dd983a",
+                      "size":  1613734,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-bakery-fabric-2.1.11.jar"
+                  },
+                  {
+                      "path":  "mods/letsdo-farm_and_charm-fabric-1.1.29.jar",
+                      "sha256":  "6ae03e512d23a91bbb2ef9c99b060b6203fdb2b0d3aef5e2fa561524efb4da87",
+                      "size":  3356876,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-farm_and_charm-fabric-1.1.29.jar"
+                  },
+                  {
                       "path":  "mods/letsdo-furniture-fabric-1.1.6.jar",
                       "sha256":  "fe8ff14884b4effd7f5720cfd39ec94676b0574e190924abee1473ae77a5acb2",
                       "size":  4161207,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-furniture-fabric-1.1.6.jar"
+                  },
+                  {
+                      "path":  "mods/letsdo-herbalbrews-fabric-1.1.4.jar",
+                      "sha256":  "474b7872828fb8484ff54f124351b1f42da8b67d65c6cfeebe17ddffc6227154",
+                      "size":  752135,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/letsdo-herbalbrews-fabric-1.1.4.jar"
                   },
                   {
                       "path":  "mods/letsdo-vinery-fabric-1.5.6.jar",
@@ -657,8 +675,8 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "80f34dcbe8f23a15a8d62eddf3a68d0df93a2abbeb2a11594c13766c19780c52",
-                      "size":  64863,
+                      "sha256":  "5b83d69ca7a39b22631bfec1d80ea116f329c8a40fc544d46e0181c15a14db11",
+                      "size":  64864,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },
                   {
@@ -747,8 +765,8 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "1d1c895de4f1a1cc6c1fde47c01c5d2f6f37580324f85e8799051f6ee32a5dd8",
-                      "size":  83,
+                      "sha256":  "5f63e14ee7437a9c435d7305644479495c5f77afa5811c9c348d4b237ef17744",
+                      "size":  160,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
                   },
                   {

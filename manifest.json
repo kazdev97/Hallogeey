@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102391515285",
+    "revision":  "2026102522376508",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -224,16 +224,22 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/glow_sticks-fabric-1.21.1-7.5.1.jar"
                   },
                   {
+                      "path":  "mods/hallogeey-misiones-1.0.0.jar",
+                      "sha256":  "cf1c5baab5b77df25530ffc0361b2b30a5b049a6b943537f85bbc5f459d03c90",
+                      "size":  122805,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-misiones-1.0.0.jar"
+                  },
+                  {
                       "path":  "mods/hallogeey-portals-1.0.0.jar",
                       "sha256":  "4373d14cec9b94b859433435f7db428b6f350de654547e7f2b2df49673f524cd",
                       "size":  38346,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.0.20.jar",
-                      "sha256":  "602ef3417438d67c403ba49f8fc24c8fb0508973dba0e3fffc32dd64f9b151ee",
-                      "size":  13082282,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.20.jar"
+                      "path":  "mods/hallogeeymobs-1.1.0.jar",
+                      "sha256":  "cd2a8a7d97012f8f6f91aab08df62813d4ded1d85e2ed13ca8f6ea8964524931",
+                      "size":  13091443,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.1.0.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",
@@ -585,8 +591,8 @@
                   },
                   {
                       "path":  "config/fancymenu/customizablemenus.txt",
-                      "sha256":  "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1",
-                      "size":  128,
+                      "sha256":  "ca5d0b2085f3836d467d03a6f79bf0a9266dfbd9f56495d8b58fc6abdb5ec0e1",
+                      "size":  215,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customizablemenus.txt"
                   },
                   {
@@ -603,8 +609,8 @@
                   },
                   {
                       "path":  "config/fancymenu/options.txt",
-                      "sha256":  "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab",
-                      "size":  4400,
+                      "sha256":  "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6",
+                      "size":  4399,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/options.txt"
                   },
                   {
@@ -674,15 +680,27 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/assets/titulo.png"
                   },
                   {
+                      "path":  "config/fancymenu/customization/disconnected_screen_layout.txt",
+                      "sha256":  "b129fd36b29c9f26978b81f0092b557a9608ad10e3d36ddfbb9e7f710ac967d5",
+                      "size":  27605,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/disconnected_screen_layout.txt"
+                  },
+                  {
                       "path":  "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
                       "sha256":  "eb678261fc7a90b75035807257f194f4bd76434380ed1019ec9056420ea56366",
                       "size":  20465,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
                   },
                   {
+                      "path":  "config/fancymenu/customization/pause_screen_layout.txt",
+                      "sha256":  "c6db3202e905b58413a02627489db2fc6de01f51388fcf4ce78e964950b6b155",
+                      "size":  38487,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/pause_screen_layout.txt"
+                  },
+                  {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "4779be68f77b8fc5f7376d8a1b534e5d0c5bddd06d82d5d826aa762eb580afed",
-                      "size":  64863,
+                      "sha256":  "9f49ba095d858995b7bd6bb51772cb18a76545d6ade27bf08897e4f41e0adbc4",
+                      "size":  56279,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },
                   {
@@ -771,9 +789,15 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "1d1c895de4f1a1cc6c1fde47c01c5d2f6f37580324f85e8799051f6ee32a5dd8",
+                      "sha256":  "5ed5b293af063b6d74a0e3f83c3239f8c4f95b14d184e222fbcb577cf85c7df3",
                       "size":  83,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_leveling_MzhhMjllNTktYmJhYS00NjQwLTk2N2MtZDNlZDA5YTE1ZjdkLTE3OTI4OTI2Mjg4Mjk.json",
+                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+                      "size":  1619,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_leveling_MzhhMjllNTktYmJhYS00NjQwLTk2N2MtZDNlZDA5YTE1ZjdkLTE3OTI4OTI2Mjg4Mjk.json"
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_leveling_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json",
@@ -782,10 +806,28 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_leveling_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json"
                   },
                   {
+                      "path":  "fancymenu_data/buddy/buddy_leveling_NTZlYjNhY2YtOTA3Yy00MTRmLWFkY2QtYzQ3NWI3MjE2OTM3LTE3OTI4OTIyNDM2Mjg.json",
+                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+                      "size":  1619,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_leveling_NTZlYjNhY2YtOTA3Yy00MTRmLWFkY2QtYzQ3NWI3MjE2OTM3LTE3OTI4OTIyNDM2Mjg.json"
+                  },
+                  {
                       "path":  "fancymenu_data/buddy/buddy_leveling_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json",
                       "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
                       "size":  1619,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_leveling_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_leveling_ZTI1MGIyNTItZjRmYy00ZWJjLThjZDUtM2ZiY2VhNmE1ZmRlLTE3OTI4OTIyMzExNTQ.json",
+                      "sha256":  "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+                      "size":  1619,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_leveling_ZTI1MGIyNTItZjRmYy00ZWJjLThjZDUtM2ZiY2VhNmE1ZmRlLTE3OTI4OTIyMzExNTQ.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_save_MzhhMjllNTktYmJhYS00NjQwLTk2N2MtZDNlZDA5YTE1ZjdkLTE3OTI4OTI2Mjg4Mjk.json",
+                      "sha256":  "26cf4b0e16e9ef6c9ec71afc5bb258b769d7d9bda9f15b5d1df114909e632a51",
+                      "size":  380,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_MzhhMjllNTktYmJhYS00NjQwLTk2N2MtZDNlZDA5YTE1ZjdkLTE3OTI4OTI2Mjg4Mjk.json"
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_save_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json",
@@ -794,10 +836,22 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_NjJiZTdlNzYtNmM1MS00NmU1LTkyZjktM2E4NzM4ZGE0ZTQ5LTE3OTE3MDMxNTk2MTA.json"
                   },
                   {
+                      "path":  "fancymenu_data/buddy/buddy_save_NTZlYjNhY2YtOTA3Yy00MTRmLWFkY2QtYzQ3NWI3MjE2OTM3LTE3OTI4OTIyNDM2Mjg.json",
+                      "sha256":  "26cf4b0e16e9ef6c9ec71afc5bb258b769d7d9bda9f15b5d1df114909e632a51",
+                      "size":  380,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_NTZlYjNhY2YtOTA3Yy00MTRmLWFkY2QtYzQ3NWI3MjE2OTM3LTE3OTI4OTIyNDM2Mjg.json"
+                  },
+                  {
                       "path":  "fancymenu_data/buddy/buddy_save_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json",
                       "sha256":  "eb251672bf8739186b1fa894ba773e10cab66373317749760178ee50d73c3797",
                       "size":  381,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json"
+                  },
+                  {
+                      "path":  "fancymenu_data/buddy/buddy_save_ZTI1MGIyNTItZjRmYy00ZWJjLThjZDUtM2ZiY2VhNmE1ZmRlLTE3OTI4OTIyMzExNTQ.json",
+                      "sha256":  "26cf4b0e16e9ef6c9ec71afc5bb258b769d7d9bda9f15b5d1df114909e632a51",
+                      "size":  380,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_ZTI1MGIyNTItZjRmYy00ZWJjLThjZDUtM2ZiY2VhNmE1ZmRlLTE3OTI4OTIyMzExNTQ.json"
                   }
               ],
     "protected":  [

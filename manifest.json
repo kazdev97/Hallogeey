@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102642682430",
+    "revision":  "2026102643934007",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -609,8 +609,8 @@
                   },
                   {
                       "path":  "config/fancymenu/options.txt",
-                      "sha256":  "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6",
-                      "size":  4399,
+                      "sha256":  "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab",
+                      "size":  4400,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/options.txt"
                   },
                   {
@@ -699,8 +699,8 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "8b1a2a281fab03f6b488e86e6df9006fa164a96fe3be9ad9a1302de78c0c870b",
-                      "size":  64676,
+                      "sha256":  "d6af2bf61c6c5c22b4bdfc1155a67715694b3ca4c5a12965f9222d7e96d919a4",
+                      "size":  64675,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },
                   {
@@ -789,8 +789,8 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "5f63e14ee7437a9c435d7305644479495c5f77afa5811c9c348d4b237ef17744",
-                      "size":  160,
+                      "sha256":  "f1da73edfac764f885e60b58ac6324fd54821338f98830741e5a700b7267b9a9",
+                      "size":  83,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
                   },
                   {

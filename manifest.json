@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102558061990",
+    "revision":  "2026102642682430",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -224,10 +224,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/glow_sticks-fabric-1.21.1-7.5.1.jar"
                   },
                   {
-                      "path":  "mods/hallogeey-misiones-1.0.0.jar",
-                      "sha256":  "cf1c5baab5b77df25530ffc0361b2b30a5b049a6b943537f85bbc5f459d03c90",
-                      "size":  122805,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-misiones-1.0.0.jar"
+                      "path":  "mods/hallogeey-misiones-1.0.1.jar",
+                      "sha256":  "4b20f6c54c41ac01ca6f77f91113b3a4942c6252a1b87483bbbd71b0ecb10f45",
+                      "size":  126457,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-misiones-1.0.1.jar"
                   },
                   {
                       "path":  "mods/hallogeey-portals-1.0.0.jar",
@@ -236,10 +236,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.1.0.jar",
-                      "sha256":  "cd2a8a7d97012f8f6f91aab08df62813d4ded1d85e2ed13ca8f6ea8964524931",
-                      "size":  13091443,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.1.0.jar"
+                      "path":  "mods/hallogeeymobs-1.1.1.jar",
+                      "sha256":  "37f1927e7f6626c9bbd9e872e8ef847924078c49693abfadaec9e963213b99c1",
+                      "size":  13091848,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.1.1.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",
@@ -609,8 +609,8 @@
                   },
                   {
                       "path":  "config/fancymenu/options.txt",
-                      "sha256":  "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab",
-                      "size":  4400,
+                      "sha256":  "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6",
+                      "size":  4399,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/options.txt"
                   },
                   {
@@ -699,8 +699,8 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "675a180e3535825d9834d259a117f8214828bc773e0f3e1bfdeb5b0e5b1ecd03",
-                      "size":  64675,
+                      "sha256":  "8b1a2a281fab03f6b488e86e6df9006fa164a96fe3be9ad9a1302de78c0c870b",
+                      "size":  64676,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },
                   {
@@ -789,8 +789,8 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "ba6f5891a29ec52b2048d4a5e9347d42a7892aaecf9d083249844d7572cec849",
-                      "size":  83,
+                      "sha256":  "5f63e14ee7437a9c435d7305644479495c5f77afa5811c9c348d4b237ef17744",
+                      "size":  160,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
                   },
                   {

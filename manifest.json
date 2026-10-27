@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102643934007",
+    "revision":  "2026102792538514",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -224,10 +224,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/glow_sticks-fabric-1.21.1-7.5.1.jar"
                   },
                   {
-                      "path":  "mods/hallogeey-misiones-1.0.1.jar",
-                      "sha256":  "4b20f6c54c41ac01ca6f77f91113b3a4942c6252a1b87483bbbd71b0ecb10f45",
-                      "size":  126457,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-misiones-1.0.1.jar"
+                      "path":  "mods/hallogeey-misiones-1.0.2.jar",
+                      "sha256":  "52e3f3a5bbc14836cbf1e0c2f81a1092d66202b9c034c0c8aa58e2350aded9b2",
+                      "size":  141757,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-misiones-1.0.2.jar"
                   },
                   {
                       "path":  "mods/hallogeey-portals-1.0.0.jar",
@@ -236,10 +236,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.1.1.jar",
-                      "sha256":  "37f1927e7f6626c9bbd9e872e8ef847924078c49693abfadaec9e963213b99c1",
-                      "size":  13091848,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.1.1.jar"
+                      "path":  "mods/hallogeeymobs-1.1.2.jar",
+                      "sha256":  "922aae2c89ab7b393e1b5667aea02871a074f66f578f46e7c822d8a973967fd0",
+                      "size":  13092251,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.1.2.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",
@@ -428,10 +428,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/pride_land-1.1.3-1.21.1-fabric.jar"
                   },
                   {
-                      "path":  "mods/qtehtag-1.0.4.jar",
-                      "sha256":  "1b7700584ea45137d56a690b6308b925a17008a8e624f2a78451304da503d0e6",
-                      "size":  7846837,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.4.jar"
+                      "path":  "mods/qtehtag-1.0.5.jar",
+                      "sha256":  "bed658c92fbdb7839dd7d89deaea0dab0d346793e9c0b328754cbe9a7d8cad6d",
+                      "size":  7846868,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.5.jar"
                   },
                   {
                       "path":  "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
@@ -699,7 +699,7 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "d6af2bf61c6c5c22b4bdfc1155a67715694b3ca4c5a12965f9222d7e96d919a4",
+                      "sha256":  "e07edc669f58581aca693a390df32e4a722e85d8a680e8ffbe72434a4f3525b1",
                       "size":  64675,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },
@@ -789,8 +789,8 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "f1da73edfac764f885e60b58ac6324fd54821338f98830741e5a700b7267b9a9",
-                      "size":  83,
+                      "sha256":  "5f63e14ee7437a9c435d7305644479495c5f77afa5811c9c348d4b237ef17744",
+                      "size":  160,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
                   },
                   {

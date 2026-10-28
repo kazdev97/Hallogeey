@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102813580394",
+    "revision":  "2026102826914418",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -360,6 +360,12 @@
                       "sha256":  "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
                       "size":  188035,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/melody_fabric_1.0.10_MC_1.21.jar"
+                  },
+                  {
+                      "path":  "mods/memoryleakfix-fabric-1.21.1-unofficial-1.1.5+1.21.1-port.1.jar",
+                      "sha256":  "5e4698098e45962126601c0e093b079f3120d7014e156aedbc70d3560ed714c8",
+                      "size":  195571,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/memoryleakfix-fabric-1.21.1-unofficial-1.1.5%2B1.21.1-port.1.jar"
                   },
                   {
                       "path":  "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",

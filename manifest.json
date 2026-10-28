@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102826914418",
+    "revision":  "2026102827231064",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -402,6 +402,12 @@
                       "sha256":  "62e9407835ecf86b462eba23e9701d919978459d0ff576bd7116fd8a1d3b72e2",
                       "size":  545182,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/noxesium-2.3.3.jar"
+                  },
+                  {
+                      "path":  "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+                      "sha256":  "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
+                      "size":  46623,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
                   },
                   {
                       "path":  "mods/placeholder-api-2.4.2+1.21.jar",

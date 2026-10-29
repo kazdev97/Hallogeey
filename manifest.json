@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102827231064",
+    "revision":  "2026102971805461",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -236,10 +236,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeey-portals-1.0.0.jar"
                   },
                   {
-                      "path":  "mods/hallogeeymobs-1.1.3.jar",
-                      "sha256":  "4db84dad534784d94da5240c29864f1084103c2cfd85604a55e69c4c36da32cc",
-                      "size":  13092246,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.1.3.jar"
+                      "path":  "mods/hallogeeymobs-1.1.4.jar",
+                      "sha256":  "fdea8b580553a4c7a1d9693e38db0131b766d5984567e394b9403bad7ab46275",
+                      "size":  13092317,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.1.4.jar"
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",
@@ -440,10 +440,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/pride_land-1.1.3-1.21.1-fabric.jar"
                   },
                   {
-                      "path":  "mods/qtehtag-1.0.7.jar",
-                      "sha256":  "8bb81a18b9e6d481d440eded45514cb4b56fe3fde1c7eda97bf8d996e8f50d49",
-                      "size":  7853474,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.7.jar"
+                      "path":  "mods/qtehtag-1.0.9.jar",
+                      "sha256":  "e68b73d072b28c75c172fe9ab44b15411cb53ab983263fc8499c0ad40c37f4b3",
+                      "size":  7856670,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.9.jar"
                   },
                   {
                       "path":  "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
@@ -711,8 +711,8 @@
                   },
                   {
                       "path":  "config/fancymenu/customization/title_screen_layout.txt",
-                      "sha256":  "e07edc669f58581aca693a390df32e4a722e85d8a680e8ffbe72434a4f3525b1",
-                      "size":  64675,
+                      "sha256":  "409e1294f6beda20e32dabf7b74255385ea1198b1b02d6d3d5dae3c235177319",
+                      "size":  64621,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config/fancymenu/customization/title_screen_layout.txt"
                   },
                   {
@@ -801,7 +801,7 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "f1da73edfac764f885e60b58ac6324fd54821338f98830741e5a700b7267b9a9",
+                      "sha256":  "1d1c895de4f1a1cc6c1fde47c01c5d2f6f37580324f85e8799051f6ee32a5dd8",
                       "size":  83,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
                   },
@@ -855,8 +855,8 @@
                   },
                   {
                       "path":  "fancymenu_data/buddy/buddy_save_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json",
-                      "sha256":  "eb251672bf8739186b1fa894ba773e10cab66373317749760178ee50d73c3797",
-                      "size":  381,
+                      "sha256":  "c209446a4b5a779fdd2e8b59b021662f43c4de8f0819de24af1ec53bfce08772",
+                      "size":  380,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/buddy/buddy_save_YmQyZmFiNDEtODA1My00NmVmLWJmMGYtNmE4N2JmYTFjZmE0LTE3OTE2NjI2NTQwNjY.json"
                   },
                   {

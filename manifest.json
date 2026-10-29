@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026102971805461",
+    "revision":  "2026102978509438",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -440,10 +440,10 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/pride_land-1.1.3-1.21.1-fabric.jar"
                   },
                   {
-                      "path":  "mods/qtehtag-1.0.9.jar",
-                      "sha256":  "e68b73d072b28c75c172fe9ab44b15411cb53ab983263fc8499c0ad40c37f4b3",
-                      "size":  7856670,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.9.jar"
+                      "path":  "mods/qtehtag-1.0.11.jar",
+                      "sha256":  "3feb79c2037de911ab8d8879ab08f3805d1760156a45efb9762c70c05df6a51f",
+                      "size":  7858398,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/qtehtag-1.0.11.jar"
                   },
                   {
                       "path":  "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",

@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026110162095566",
+    "revision":  "2026110163173935",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -237,8 +237,8 @@
                   },
                   {
                       "path":  "mods/hallogeeymobs-1.2.1.jar",
-                      "sha256":  "2f8bff431d6c32a112123e4c8bac5eabcbc4ffce4acacaddb34e8fdf40e20c4b",
-                      "size":  13605862,
+                      "sha256":  "6b49e389cf881e3c09210664a8760d6bb1ce3d3fbb54abd0ab125b01fca695fa",
+                      "size":  13606147,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.2.1.jar"
                   },
                   {
@@ -801,7 +801,7 @@
                   },
                   {
                       "path":  "fancymenu_data/last_world.fmdata",
-                      "sha256":  "5ed5b293af063b6d74a0e3f83c3239f8c4f95b14d184e222fbcb577cf85c7df3",
+                      "sha256":  "1d1c895de4f1a1cc6c1fde47c01c5d2f6f37580324f85e8799051f6ee32a5dd8",
                       "size":  83,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/fancymenu_data/last_world.fmdata"
                   },

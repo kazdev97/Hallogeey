@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026110186864639",
+    "revision":  "2026110187193361",
     "name":  "HalloGeey",
     "game_version":  "1.21.1",
     "loader":  "fabric",
@@ -889,6 +889,5 @@
                      "config/fancymenu/custom_gui_screens.txt",
                      "config/fancymenu/legacy_checklist.txt",
                      "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-                 ],
-    "wipe":  true
+                 ]
 }

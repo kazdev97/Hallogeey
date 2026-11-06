@@ -1,10 +1,10 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026110646847165",
+    "revision":  "2026110699469308",
     "name":  "HalloGeey",
     "game_version":  "1.21.11",
     "loader":  "fabric",
-    "loader_version":  "0.19.5",
+    "loader_version":  "0.20.1",
     "archive_url":  "",
     "files":  [
                   {

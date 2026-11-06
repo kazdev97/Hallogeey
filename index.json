@@ -4,7 +4,7 @@
     "description":  "Pack oficial Ataplaygame",
     "game_version":  "1.21.11",
     "loader":  "fabric",
-    "loader_version":  "0.19.5",
+    "loader_version":  "0.20.1",
     "manifest_url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/manifest.json",
-    "revision":  "2026110646847165"
+    "revision":  "2026110699469308"
 }

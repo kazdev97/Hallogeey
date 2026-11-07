@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026110631186577",
+    "revision":  "2026110731596338",
     "name":  "HalloGeey",
     "game_version":  "1.21.11",
     "loader":  "fabric",
@@ -104,6 +104,12 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fhallogeey-portals-1.21.11-1.1.0.jar"
                   },
                   {
+                      "path":  "mods/hallogey_ruleta-1.0.2.jar",
+                      "sha256":  "6eb449e652cd72045d2281c73a796cb4e047603c199e2a2cab344c974b03eacb",
+                      "size":  23217845,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fhallogey_ruleta-1.0.2.jar"
+                  },
+                  {
                       "path":  "mods/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
                       "sha256":  "eb5d23860c2c853d0afda9cbf686f442afda34a31d8d60b118a21597ccf38888",
                       "size":  310445,
@@ -144,6 +150,18 @@
                       "sha256":  "864ee96fe8e1a1c52c6a8fb04ea2af01de157bec917db88a1e55173e839887c3",
                       "size":  341925,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fmoreculling-fabric-1.21.11-1.6.1.jar"
+                  },
+                  {
+                      "path":  "mods/navigay-1.0.0.jar",
+                      "sha256":  "d7e86b86fec0b3691fb67a6966ed0bc46a645370abdbc2a42afa8a32eea6d27b",
+                      "size":  3396435,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fnavigay-1.0.0.jar"
+                  },
+                  {
+                      "path":  "mods/navigayteams-1.0.0.jar",
+                      "sha256":  "c7ffb6cecac00f93942ae449467c3cbd902f3c863721c823544a38b8a0832fd4",
+                      "size":  188750,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fnavigayteams-1.0.0.jar"
                   },
                   {
                       "path":  "mods/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
@@ -207,14 +225,14 @@
                   },
                   {
                       "path":  "mods/structmagic-3.0.0.jar",
-                      "sha256":  "6bcffd0097b252672388a23bdbb2aef53f70924c061cd1b565a5df1426fada91",
-                      "size":  424932,
+                      "sha256":  "a22dff651a9a580be1b53e8b4430f5050b1be62181d97346121628724d1703c1",
+                      "size":  102112,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fstructmagic-3.0.0.jar"
                   },
                   {
                       "path":  "mods/veil-fabric-1.21.11-4.5.3.jar",
-                      "sha256":  "c52aa1440eb76358bea2e325bf1ca9336aeb72d52bd3c47ace0da7709afd9a73",
-                      "size":  63506,
+                      "sha256":  "2c62b7aae7ba1d487e1a4bacd606bc56867b52e8641c63e3edad707b3619d10f",
+                      "size":  74650,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fveil-fabric-1.21.11-4.5.3.jar"
                   },
                   {

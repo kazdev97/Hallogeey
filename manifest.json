@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026110631115209",
+    "revision":  "2026110631186577",
     "name":  "HalloGeey",
     "game_version":  "1.21.11",
     "loader":  "fabric",
@@ -240,18 +240,6 @@
                       "sha256":  "a9e48ca067af995b6b24eae2da33250ac56c4342c1d98b5b2e263bd42d7b72ae",
                       "size":  981,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/config%2Fimmediatelyfast.json"
-                  },
-                  {
-                      "path":  "mods/geckolib-fabric-1.21.1-4.9.3.jar",
-                      "sha256":  "610b1d1dff4a1b6317460024cdd6aa1d2f08f9e3857be826e1081580ffa58afe",
-                      "size":  1338234,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/geckolib-fabric-1.21.1-4.9.3.jar"
-                  },
-                  {
-                      "path":  "mods/hallogeeymobs-1.0.10.jar",
-                      "sha256":  "be1e70a706e458eb4834223d7cb8ca2f95c3bf31c6e6c3efbac9133690edec32",
-                      "size":  26344106,
-                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods/hallogeeymobs-1.0.10.jar"
                   }
               ],
     "protected":  [

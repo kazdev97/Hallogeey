@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "202611095733246",
+    "revision":  "2026110966913221",
     "name":  "HalloGeey",
     "game_version":  "1.21.11",
     "loader":  "fabric",
@@ -153,8 +153,8 @@
                   },
                   {
                       "path":  "mods/navigay-1.0.0.jar",
-                      "sha256":  "d7e86b86fec0b3691fb67a6966ed0bc46a645370abdbc2a42afa8a32eea6d27b",
-                      "size":  3396435,
+                      "sha256":  "c19eaeab0550651d3508102c21d354b8080240e9c883db0ae6095285fbb7f688",
+                      "size":  3441538,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fnavigay-1.0.0.jar"
                   },
                   {

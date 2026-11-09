@@ -1,6 +1,6 @@
 {
     "format":  "pau-manifest",
-    "revision":  "2026110731596338",
+    "revision":  "202611095733246",
     "name":  "HalloGeey",
     "game_version":  "1.21.11",
     "loader":  "fabric",
@@ -105,8 +105,8 @@
                   },
                   {
                       "path":  "mods/hallogey_ruleta-1.0.2.jar",
-                      "sha256":  "6eb449e652cd72045d2281c73a796cb4e047603c199e2a2cab344c974b03eacb",
-                      "size":  23217845,
+                      "sha256":  "b81d483f9794ce1a7dff1ca9a5d9df3a571cf07156ba525519f6dd18442f1452",
+                      "size":  23656118,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fhallogey_ruleta-1.0.2.jar"
                   },
                   {
@@ -158,9 +158,15 @@
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fnavigay-1.0.0.jar"
                   },
                   {
+                      "path":  "mods/navigay-misiones-1.1.0.jar",
+                      "sha256":  "52b65235e999f06fae9333c8d47142e8b15a71591e047ce6947020de682534dc",
+                      "size":  183194,
+                      "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fnavigay-misiones-1.1.0.jar"
+                  },
+                  {
                       "path":  "mods/navigayteams-1.0.0.jar",
-                      "sha256":  "c7ffb6cecac00f93942ae449467c3cbd902f3c863721c823544a38b8a0832fd4",
-                      "size":  188750,
+                      "sha256":  "93048523c28767ae036437ea509d33444c81eaeace216c387d8a39b899f35197",
+                      "size":  319354,
                       "url":  "https://raw.githubusercontent.com/kazdev97/Hallogeey/main/files/mods%2Fnavigayteams-1.0.0.jar"
                   },
                   {
